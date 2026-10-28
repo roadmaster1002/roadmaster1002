@@ -1,0 +1,12 @@
+{
+  "schema": "chem2.news.v1",
+  "attemptedAtISO": null,
+  "updatedAtISO": null,
+  "lastSuccessfulAtISO": null,
+  "status": "not-configured",
+  "items": [],
+  "sources": [],
+  "errors": [
+    "첫 자동 수집을 기다리고 있습니다. 실제 RSS 메타데이터가 아직 수집되지 않았으며 기사 본문은 확인하지 않았습니다."
+  ]
+}
