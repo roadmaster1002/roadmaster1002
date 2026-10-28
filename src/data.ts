@@ -48,6 +48,8 @@ export type Signal = {
   title: string;
   summary: string;
   companyId: CompanyId;
+  companyIds?: CompanyId[];
+  evidenceType?: 'feed-metadata' | 'registered';
   competitor: string;
   category: '기술·특허' | '제품·시장' | '투자·증설' | '규제·정책';
   region: '아시아' | '유럽' | '북미' | '글로벌';

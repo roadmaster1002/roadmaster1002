@@ -1,0 +1,57 @@
+name: Refresh public MI news metadata
+
+on:
+  schedule:
+    # 23:00 UTC = 08:00 Asia/Seoul on the following day.
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - scripts/refresh-news.mjs
+      - scripts/refresh-news.test.mjs
+      - .github/workflows/refresh-news.yml
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-news-metadata-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+          cache: npm
+      - run: npm ci
+      - name: Validate collector using fixtures only
+        run: node scripts/refresh-news.test.mjs
+      - name: Collect public RSS metadata
+        id: collect
+        continue-on-error: true
+        run: node scripts/refresh-news.mjs
+      - name: Commit snapshot (including failure status with preserved prior items)
+        run: |
+          git add -- public/latest-news.json
+          if git diff --cached --quiet; then
+            echo 'Snapshot unchanged.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'chore: refresh public MI RSS metadata'
+          git pull --rebase origin main
+          git push origin HEAD:main
+      - name: Report total collection failure
+        if: steps.collect.outcome == 'failure'
+        run: |
+          echo 'RSS collection failed. Previous article metadata was preserved; inspect snapshot source statuses.'
+          exit 1

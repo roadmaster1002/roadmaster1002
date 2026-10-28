@@ -12,6 +12,8 @@ const baseURL = process.env.BASE_URL || 'http://127.0.0.1:4173/roadmaster1002/';
 const executablePath = process.env.CHROMIUM_PATH || (existsSync('/usr/bin/chromium') ? '/usr/bin/chromium' : undefined);
 const browser = await chromium.launch({ headless: true, ...(executablePath ? { executablePath } : {}), args: ['--no-sandbox'] });
 const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, acceptDownloads: true });
+const fixtureNow = new Date().toISOString();
+await context.route('**/latest-news.json*', route => route.fulfill({ status: 200, contentType: 'application/json', body: JSON.stringify({ schema: 'chem2.news.v1', attemptedAtISO: fixtureNow, updatedAtISO: fixtureNow, lastSuccessfulAtISO: fixtureNow, status: 'ready', items: [], sources: [], errors: [] }) }));
 const page = await context.newPage();
 page.setDefaultTimeout(10000);
 const errors = [];
@@ -111,10 +113,11 @@ try {
   }
 
 
-  await test('deep-reading candidates are the default MI view and remain source-pending across businesses', async () => {
+  await test('background reading candidates remain source-pending across businesses', async () => {
     await navigate('마켓 인텔리전스');
     const views = page.getByRole('group', { name: 'MI 자료 보기', exact: true });
-    assert.equal(await views.getByRole('button', { name: /^심층 리딩 후보/ }).getAttribute('aria-pressed'), 'true');
+    assert.equal(await views.getByRole('button', { name: '최신 뉴스', exact: true }).getAttribute('aria-pressed'), 'true');
+    await views.getByRole('button', { name: /^배경 리딩/ }).click();
     for (const [label, company] of [['NC Chem', 'ncchem'], ['KCI', 'kci'], ['Verdant', 'verdant']]) {
       await scopeButton(label).click();
       assert.equal(await page.locator('.research-card').count(), 3);
@@ -281,19 +284,22 @@ try {
     await dialog.getByRole('button', { name: '닫기', exact: true }).click();
   });
 
-  await test('weekly date range includes registered source and Markdown download retains provenance', async () => {
+  await test('structured weekly date range includes registered notes and Markdown download retains provenance', async () => {
     await navigate('주간 브리핑');
     await page.getByLabel('분석 시작일', { exact: true }).fill(today);
     await page.getByLabel('분석 종료일', { exact: true }).fill(today);
+    assert.equal(await page.getByRole('checkbox', { name: '기능 예시 시나리오 포함', exact: true }).isChecked(), false);
     await page.getByRole('button', { name: '주간 브리핑 생성', exact: true }).click();
-    await page.locator('.brief-document .report-text').waitFor();
-    const text = await page.locator('.brief-document .report-text').innerText();
+    await page.locator('.weekly-report').waitFor();
+    const text = await page.locator('.weekly-report').innerText();
     assert.ok(text.includes(sourceTitle));
-    assert.ok(text.includes(`${today} ~ ${today}`));
+    assert.ok(text.includes(`${today} — ${today}`));
+    assert.ok(text.includes(sourceNotes.businessImpact));
+    assert.equal(await page.locator('.weekly-coverage-grid > div').nth(0).locator('strong').innerText(), '1건');
     const downloadPromise = page.waitForEvent('download');
-    await page.getByRole('button', { name: '내보내기', exact: true }).click();
+    await page.getByRole('button', { name: 'Markdown 내보내기', exact: true }).click();
     const download = await downloadPromise;
-    assert.equal(download.suggestedFilename(), 'CHEM2-weekly-brief.md');
+    assert.equal(download.suggestedFilename(), `MI-weekly-${today}.md`);
     const filename = path.join(directory, 'weekly.md');
     await download.saveAs(filename);
     const markdown = await readFile(filename, 'utf8');
@@ -301,7 +307,7 @@ try {
     assert.ok(markdown.includes(sourceTitle));
     assert.ok(markdown.includes(sourceNotes.businessImpact));
     assert.ok(markdown.includes(today));
-    assert.ok(markdown.includes('원문 미검증'));
+    assert.ok(markdown.includes('등록 자료: 독립 사실 검증 안 됨'));
     assert.ok(markdown.includes('source-'));
   });
 

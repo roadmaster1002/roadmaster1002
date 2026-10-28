@@ -5,6 +5,8 @@ import IndustryMap from './IndustryMap';
 import BrandLogo from './BrandLogo';
 import ResearchFeed from './ResearchFeed';
 import type { ResearchItem } from './researchData';
+import { useLatestNews, newsToSignal } from './newsClient';
+import WeeklyBrief from './WeeklyBrief';
 import { getAnalysisStatus, requestAnalysis } from './analysisClient';
 
 type Page = 'overview' | 'map' | 'feed' | 'watchlist' | 'brief' | 'library';
@@ -46,7 +48,6 @@ function download(name: string, content: string) {
   const a = document.createElement('a'); a.href = url; a.download = name; a.click(); URL.revokeObjectURL(url);
 }
 function todayInSeoul() { return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date()); }
-function sixDaysBefore(date: string) { const d = new Date(date + 'T12:00:00Z'); d.setUTCDate(d.getUTCDate() - 6); return d.toISOString().slice(0, 10); }
 function dateLabel(value: string) { return value.slice(5).replace('-', '.'); }
 function Modal({ title, onClose, children, wide = false }: { title: string; onClose: () => void; children: ReactNode; wide?: boolean }) {
   const ref = useRef<HTMLDialogElement>(null);
@@ -63,7 +64,7 @@ export default function App() {
   const [saved, setSaved, savedError] = useStored<string[]>('chem2-saved-v1', []);
   const [sources, setSources, sourcesError] = useStored<Signal[]>('chem2-sources-v1', []);
   const [topics, setTopics, topicsError] = useStored<string[]>('chem2-topics-v1', watchTopics.map(t => t.id));
-  const [briefs, setBriefs, briefsError] = useStored<{ date: string; text: string; scope: string; mode: string }[]>('chem2-briefs-v1', []);
+  const [briefs, , briefsError] = useStored<{ date: string; text: string; scope: string; mode: string }[]>('chem2-briefs-v1', []);
   const [selected, setSelected] = useState<Signal | null>(null);
   const [addOpen, setAddOpen] = useState(false);
   const [articleDraft, setArticleDraft] = useState<ArticleDraft | null>(null);
@@ -79,18 +80,13 @@ export default function App() {
   const [aiError, setAiError] = useState('');
   const [mode, setMode] = useState<'local' | 'llm'>('local');
   const [hosting, setHosting] = useState<'server' | 'static'>('static');
-  const [briefBusy, setBriefBusy] = useState(false);
-  const [briefError, setBriefError] = useState('');
-  const [briefView, setBriefView] = useState(0);
-  const [periodEnd, setPeriodEnd] = useState(todayInSeoul);
-  const [periodStart, setPeriodStart] = useState(() => sixDaysBefore(todayInSeoul()));
   const [libraryTab, setLibraryTab] = useState<'saved' | 'sources'>('saved');
-  const allSignals = [...sources, ...seedSignals];
-  const companySignals = allSignals.filter(s => scope === 'all' || s.companyId === scope);
+  const news = useLatestNews();
+  const allSignals = [...sources, ...news.snapshot.items.map(newsToSignal), ...seedSignals];
+  const companySignals = allSignals.filter(s => scope === 'all' || s.companyId === scope || s.companyIds?.includes(scope));
   const filteredSignals = companySignals.filter(s => (category === '전체' || s.category === category) && `${s.title} ${s.summary} ${s.competitor} ${s.tags.join(' ')}`.toLowerCase().includes(query.toLowerCase()));
   const activeCompany = scope === 'all' ? null : companyFor(scope);
   const analysisSignals = [...companySignals].sort((a, b) => b.date.localeCompare(a.date)).slice(0, 40);
-  const briefSignals = [...companySignals].filter(s => s.date >= periodStart && s.date <= periodEnd).sort((a, b) => b.date.localeCompare(a.date));
   const overviewSignals = scope === 'all' && !sources.length ? companies.map(c => companySignals.find(s => s.companyId === c.id)!).filter(Boolean) : analysisSignals.slice(0, 3);
   const competitorCount = new Set(competitors.filter(c => scope === 'all' || c.companyId === scope).map(c => c.name)).size;
   useEffect(() => { getAnalysisStatus().then(v => { setMode(v.mode); setHosting(v.hosting); }).catch(() => {}); }, []);
@@ -98,6 +94,10 @@ export default function App() {
   useEffect(() => { if (!addOpen) setArticleDraft(null); }, [addOpen]);
   function registerResearch(item?: ResearchItem) {
     setArticleDraft(item ? { companyId: item.companyId, title: item.title, sourceName: item.publisher, sourceUrl: item.url, date: item.publishedDate || '', summary: '', category: item.kind === '규제 원문' ? '규제·정책' : item.kind === '연차보고서' ? '제품·시장' : '기술·특허', notes: { keyTakeaways: '', evidence: '', businessImpact: '', followUp: item.readingQuestions.join('\n').slice(0, 450) } } : null);
+    setAddOpen(true);
+  }
+  function registerNews(signal: Signal) {
+    setArticleDraft({ companyId: scope === 'all' ? signal.companyId : scope, title: signal.title.slice(0, 180), sourceName: signal.sourceName.slice(0, 80), sourceUrl: signal.sourceUrl, date: signal.evidenceType === 'feed-metadata' ? '' : signal.date, summary: signal.evidenceType === 'feed-metadata' ? '' : signal.summary, category: signal.category, notes: { keyTakeaways: '', evidence: '', businessImpact: '', followUp: '원문에서 발표일·제품·고객·지역·핵심 근거를 확인하세요.' } });
     setAddOpen(true);
   }
   function importArticle(value: unknown) {
@@ -119,15 +119,6 @@ export default function App() {
       const data = await requestAnalysis({ question, company: scope === 'all' ? '화학2그룹 전체' : scope, signals: analysisSignals });
       setAiResult(data);
     } catch (e) { setAiError(e instanceof Error ? e.message : '서버 연결을 확인해 주세요.'); } finally { setAiBusy(false); }
-  }
-  async function generateBrief() {
-    if (!periodStart || !periodEnd || periodStart > periodEnd) { setBriefError('올바른 분석 기간을 선택해 주세요.'); return; }
-    if (!briefSignals.length) { setBriefError('선택한 기간에 분석할 자료가 없습니다. 기간을 변경하거나 자료를 등록하세요.'); return; }
-    setBriefBusy(true); setBriefError('');
-    try {
-      const data = await requestAnalysis({ company: scope === 'all' ? '화학2그룹 전체' : scope, period: { start: periodStart, end: periodEnd }, signals: briefSignals.slice(0, 40) }, true);
-      setBriefs(old => [{ date: new Date().toISOString(), text: data.answer, scope: activeCompany?.name || '화학2그룹 전체', mode: data.mode }, ...old]); setBriefView(0); setToast('새로운 브리핑을 라이브러리에 저장했습니다.');
-    } catch (e) { setBriefError(e instanceof Error ? e.message : '서버 연결을 확인해 주세요.'); } finally { setBriefBusy(false); }
   }
   function addSource(e: FormEvent<HTMLFormElement>) {
     e.preventDefault(); const f = new FormData(e.currentTarget); const companyId = f.get('company') as Company['id'];
@@ -170,11 +161,11 @@ export default function App() {
         </>}
 
         {page === 'feed' && <div className="content-toolbar"><label className="search-field"><Search size={17} /><input value={query} onChange={e => setQuery(e.target.value)} placeholder="키워드, 경쟁사, 시장 신호 검색" aria-label="검색" />{query && <button aria-label="검색 지우기" onClick={() => setQuery('')}><X size={14} /></button>}</label><select aria-label="신호 유형" value={category} onChange={e => setCategory(e.target.value)}>{['전체', '기술·특허', '제품·시장', '투자·증설', '규제·정책'].map(v => <option key={v}>{v}</option>)}</select></div>}
-        {page === 'feed' && <ResearchFeed scope={scope} query={query} category={category} signals={filteredSignals} renderSignal={signalCard} onRegister={registerResearch} onImport={importArticle} />}
+        {page === 'feed' && <ResearchFeed scope={scope} query={query} category={category} signals={filteredSignals} renderSignal={signalCard} onRegister={registerResearch} onImport={importArticle} news={news} onRegisterSignal={registerNews} />}
         {page === 'map' && <IndustryMap scope={scope} onScopeChange={setScope} onFeed={() => navigate('feed')} />}
         {page === 'watchlist' && <><div className="data-notice"><Bell size={17} /><span>관심 주제를 선택하면 관련 키워드를 확인할 수 있습니다. 자동 수집·이메일 알림은 아직 연결되지 않았습니다.</span></div><div className="topic-grid">{watchTopics.filter(t => scope === 'all' || t.companyId === scope).map(t => <article className={`panel topic-card ${topics.includes(t.id) ? 'enabled' : ''}`} key={t.id}><div className="topic-heading"><span className={`company-label ${t.companyId}`}><span />{companyFor(t.companyId).shortName}</span><button className={`toggle ${topics.includes(t.id) ? 'on' : ''}`} role="switch" aria-checked={topics.includes(t.id)} aria-label={`${t.title} 관심 주제`} onClick={() => setTopics(old => old.includes(t.id) ? old.filter(x => x !== t.id) : [...old, t.id])}><span /></button></div><h3>{t.title}</h3><p>{t.description}</p><div className="signal-tags">{t.keywords.map(k => <span key={k}>{k}</span>)}</div><small>{topics.includes(t.id) ? '관심 주제로 설정됨' : '관심 주제 설정 안 됨'}</small></article>)}</div><div className="section-heading spaced"><h2>저장한 시장 신호 <span className="count-badge">{companySignals.filter(s => saved.includes(s.id)).length}</span></h2></div><div className="feed-grid">{companySignals.filter(s => saved.includes(s.id)).map(s => signalCard(s))}</div>{!companySignals.some(s => saved.includes(s.id)) && <Empty text="아직 저장한 시장 신호가 없습니다." detail="시장 신호 카드의 북마크를 눌러 나만의 모니터링 리스트를 만들어 보세요." />}</>}
-        {page === 'brief' && <div className="brief-layout"><section className="panel brief-options"><span className="sparkle-tile"><Sparkles size={22} /></span><h2>의사결정을 위한<br />한 주의 인텔리전스</h2><p>선택한 사업의 자료를 묶어<br />핵심 동향과 다음 액션을 정리합니다.</p><label>분석 범위</label><strong>{activeCompany?.name || '삼양사 화학2그룹 전체'}</strong><label htmlFor="period-start">분석 기간</label><div className="brief-period"><input id="period-start" aria-label="분석 시작일" type="date" value={periodStart} max={periodEnd} onChange={e => setPeriodStart(e.target.value)} /><span>—</span><input aria-label="분석 종료일" type="date" min={periodStart} value={periodEnd} onChange={e => setPeriodEnd(e.target.value)} /></div><label>기간 내 참조 자료</label><div className="brief-data-count"><span>{briefSignals.length}건</span><small>등록 {briefSignals.filter(s => !s.isDemo).length} · 예시 {briefSignals.filter(s => s.isDemo).length}</small></div>{briefSignals.length > 40 && <p className="limit-notice">최근 자료 40건을 분석합니다. 기간을 좁혀 나머지 자료를 확인하세요.</p>}<label>분석 방식</label><div className="analysis-mode"><span className="status-dot" />{mode === 'llm' ? '연결된 LLM 분석' : '근거 기반 로컬 요약'}</div><button className="btn primary" disabled={briefBusy} onClick={generateBrief}>{briefBusy ? <LoaderCircle size={17} className="spin" /> : <Sparkles size={17} />}{briefBusy ? '브리핑 작성 중…' : '주간 브리핑 생성'}</button>{briefError && <p className="error" role="alert">{briefError}</p>}<div className="detail-note">예시 자료가 포함되면 결과에도 표시됩니다. 로컬 요약은 생성형 AI 추론을 사용하지 않습니다.</div></section><section className="panel brief-document">{briefs.length ? <><div className="brief-document-toolbar"><span className="outline-badge">{briefs[briefView].mode === 'llm' ? 'LLM 분석' : '로컬 요약'} · {briefs[briefView].scope}</span><button className="text-link" onClick={() => download('CHEM2-weekly-brief.md', briefs[briefView].text)}><ArrowDownToLine size={15} />내보내기</button></div><span className="mini-eyebrow">CHEM² WEEKLY INTELLIGENCE</span><h2>경쟁시장 주간 브리핑</h2><p className="document-date">생성일 {new Date(briefs[briefView].date).toLocaleDateString('ko-KR', { timeZone: 'Asia/Seoul' })} · 출처 기반 초안</p><div className="report-text">{briefs[briefView].text}</div><div className="brief-history"><button className="icon-btn" aria-label="이전 브리핑" disabled={briefView >= briefs.length - 1} onClick={() => setBriefView(v => v + 1)}><ChevronLeft size={17} /></button><span>{briefView + 1} / {briefs.length}개 저장된 브리핑</span><button className="icon-btn" aria-label="다음 브리핑" disabled={briefView === 0} onClick={() => setBriefView(v => v - 1)}><ChevronRight size={17} /></button></div></> : <div className="brief-empty"><div className="document-illustration"><span /><span /><span /><span /><Sparkles size={27} /></div><h3>시장의 신호를 전략의 언어로.</h3><p>‘주간 브리핑 생성’을 눌러<br />사업별 핵심 신호와 후속 조사 과제를 확인하세요.</p><span>01 핵심 동향 &nbsp; / &nbsp; 02 사업 시사점 &nbsp; / &nbsp; 03 다음 액션</span></div>}</section></div>}
-        {page === 'library' && <><div className="library-toolbar"><div className="scope-tabs"><button className={libraryTab === 'saved' ? 'active' : ''} onClick={() => setLibraryTab('saved')}>저장한 인사이트 <small>{saved.length}</small></button><button className={libraryTab === 'sources' ? 'active' : ''} onClick={() => setLibraryTab('sources')}>등록한 자료 <small>{sources.length}</small></button></div><button className="text-link" onClick={() => { const items = (libraryTab === 'saved' ? allSignals.filter(s => saved.includes(s.id)) : sources).filter(s => scope === 'all' || s.companyId === scope); download('CHEM2-research.md', '# CHEM² Research Library\n\n' + (items.length ? items.map(s => `## ${s.title}\n${s.isDemo ? '[예시 시나리오]' : '[사용자 등록 자료]'}\n${s.summary}\n${s.articleDetails ? Object.entries(s.articleDetails.notes).filter(([, value]) => value).map(([key, value]) => `\n${({ keyTakeaways: '핵심 논점', evidence: '근거·수치·조건', businessImpact: '사업 영향 · 사용자 분석', followUp: '후속 조사' } as Record<string, string>)[key]}: ${value}`).join('\n') : ''}\n\n출처: ${s.sourceName} ${s.sourceUrl}\n`).join('\n') : '저장된 자료가 없습니다.')); }}><ArrowDownToLine size={16} />Markdown 내보내기</button></div><div className="feed-grid">{companySignals.filter(s => libraryTab === 'saved' ? saved.includes(s.id) : !s.isDemo).map(s => <div key={s.id}>{signalCard(s)}{libraryTab === 'sources' && <button className="delete-source" onClick={() => { if (window.confirm('등록한 자료를 삭제할까요?')) { setSources(old => old.filter(x => x.id !== s.id)); setSaved(old => old.filter(x => x !== s.id)); setToast('자료를 삭제했습니다.'); } }}>등록 자료 삭제</button>}</div>)}</div>{!companySignals.some(s => libraryTab === 'saved' ? saved.includes(s.id) : !s.isDemo) && <Empty text={libraryTab === 'saved' ? '좋은 인사이트를 차곡차곡 모아보세요.' : '분석의 시작은 신뢰할 수 있는 자료입니다.'} detail={libraryTab === 'saved' ? '시장 신호에서 북마크한 자료가 이곳에 저장됩니다.' : '공식 발표·기사·리서치 내용을 원문 링크와 함께 등록해 보세요.'} action={libraryTab === 'sources' ? <button className="btn primary" onClick={() => setAddOpen(true)}><Plus size={16} />첫 자료 등록</button> : undefined} />}</>}
+        {page === 'brief' && <WeeklyBrief signals={allSignals} scope={scope} legacyBriefs={briefs} />}
+        {page === 'library' && <><div className="library-toolbar"><div className="scope-tabs"><button className={libraryTab === 'saved' ? 'active' : ''} onClick={() => setLibraryTab('saved')}>저장한 인사이트 <small>{saved.length}</small></button><button className={libraryTab === 'sources' ? 'active' : ''} onClick={() => setLibraryTab('sources')}>등록한 자료 <small>{sources.length}</small></button></div><button className="text-link" onClick={() => { const items = (libraryTab === 'saved' ? allSignals.filter(s => saved.includes(s.id)) : sources).filter(s => scope === 'all' || s.companyId === scope); download('CHEM2-research.md', '# CHEM² Research Library\n\n' + (items.length ? items.map(s => `## ${s.title}\n${s.isDemo ? '[예시 시나리오]' : '[사용자 등록 자료]'}\n${s.summary}\n${s.articleDetails ? Object.entries(s.articleDetails.notes).filter(([, value]) => value).map(([key, value]) => `\n${({ keyTakeaways: '핵심 논점', evidence: '근거·수치·조건', businessImpact: '사업 영향 · 사용자 분석', followUp: '후속 조사' } as Record<string, string>)[key]}: ${value}`).join('\n') : ''}\n\n출처: ${s.sourceName} ${s.sourceUrl}\n`).join('\n') : '저장된 자료가 없습니다.')); }}><ArrowDownToLine size={16} />Markdown 내보내기</button></div><div className="feed-grid">{companySignals.filter(s => libraryTab === 'saved' ? saved.includes(s.id) : !s.isDemo && s.evidenceType !== 'feed-metadata').map(s => <div key={s.id}>{signalCard(s)}{libraryTab === 'sources' && <button className="delete-source" onClick={() => { if (window.confirm('등록한 자료를 삭제할까요?')) { setSources(old => old.filter(x => x.id !== s.id)); setSaved(old => old.filter(x => x !== s.id)); setToast('자료를 삭제했습니다.'); } }}>등록 자료 삭제</button>}</div>)}</div>{!companySignals.some(s => libraryTab === 'saved' ? saved.includes(s.id) : !s.isDemo && s.evidenceType !== 'feed-metadata') && <Empty text={libraryTab === 'saved' ? '좋은 인사이트를 차곡차곡 모아보세요.' : '분석의 시작은 신뢰할 수 있는 자료입니다.'} detail={libraryTab === 'saved' ? '시장 신호에서 북마크한 자료가 이곳에 저장됩니다.' : '공식 발표·기사·리서치 내용을 원문 링크와 함께 등록해 보세요.'} action={libraryTab === 'sources' ? <button className="btn primary" onClick={() => setAddOpen(true)}><Plus size={16} />첫 자료 등록</button> : undefined} />}</>}
         <footer className="main-footer"><span>CHEM² INTELLIGENCE</span><p>Designed for a clearer perspective.</p><span>삼양사 화학2그룹 기획팀</span></footer>
       </main>
     </div>

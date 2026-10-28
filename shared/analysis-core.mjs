@@ -65,6 +65,8 @@ export function validateInput(body, brief = false) {
       sourceUrl,
       date: isoDate(signal.date, '자료 날짜'),
       companyId: optionalString(signal.companyId, '기업 ID', 120),
+      companyIds: Array.isArray(signal.companyIds) ? [...new Set(signal.companyIds.filter(id => COMPANY_IDS.has(id)))] : [],
+      evidenceType: signal.evidenceType === 'feed-metadata' ? 'feed-metadata' : 'registered',
       isDemo: signal.isDemo,
     };
   });
@@ -72,7 +74,7 @@ export function validateInput(body, brief = false) {
 }
 
 export function selectSignals({ question, company, signals, brief = false, period }) {
-  const companyFiltered = COMPANY_IDS.has(company) ? signals.filter((signal) => signal.companyId === company) : signals;
+  const companyFiltered = COMPANY_IDS.has(company) ? signals.filter((signal) => signal.companyId === company || signal.companyIds?.includes(company)) : signals;
   const filtered = period ? companyFiltered.filter((signal) => signal.date && signal.date >= period.start && signal.date <= period.end) : companyFiltered;
   if (brief) return filtered;
   const mode = MODES.find((item) => item.match.test(question));
@@ -86,13 +88,15 @@ export function selectSignals({ question, company, signals, brief = false, perio
 
 export function provenanceNotice(signals) {
   const demo = signals.filter((signal) => signal.isDemo).length;
+  const feeds = signals.filter((signal) => signal.evidenceType === 'feed-metadata').length;
+  if (feeds > 0) return `뉴스 피드 메타데이터 ${feeds}건${demo ? `과 예시 ${demo}건` : ''}이 포함된 자료 기반 정리입니다. 뉴스의 제목·발행처·피드 발행일만 수집했으며 기사 본문과 사실 여부는 검증하지 않았습니다. 키워드로 연결한 사업 분류는 실제 경쟁 관계나 사업 영향을 확인한 결과가 아닙니다.${demo ? ' 예시는 실제 뉴스가 아닙니다.' : ''}`;
   if (demo === signals.length && demo > 0) return '예시 자료 기반 분석입니다. 아래 신호는 실제 최신 뉴스가 아닌 데모 시나리오이며, 출처 링크는 사실 검증을 위한 참고 사이트입니다.';
   if (demo > 0) return `등록 자료와 예시 자료가 함께 포함되어 있습니다. ${demo}개 예시 신호는 실제 뉴스가 아니므로 의사결정 전에 구분해 검증하세요.`;
   return '사용자가 등록한 자료에 근거한 분석입니다. 원문과 사실 여부를 별도로 검증하지 않았으며 실시간 시장 조사 결과는 아닙니다.';
 }
 
 export function sourcesText(signals) {
-  return ['참고 자료', ...signals.map((signal) => `[${signal.id}] ${signal.sourceName || '등록 출처'} · ${signal.date || '날짜 미등록'} · ${signal.isDemo ? '예시 시나리오: 실제 뉴스 아님' : '사용자 등록: 원문 미검증'}\n${signal.sourceUrl || 'URL 미등록'}`)].join('\n');
+  return ['참고 자료', ...signals.map((signal) => `[${signal.id}] ${signal.sourceName || '등록 출처'} · ${signal.date || '날짜 미등록'} · ${signal.isDemo ? '예시 시나리오: 실제 뉴스 아님' : signal.evidenceType === 'feed-metadata' ? '뉴스 피드 메타데이터: 기사 본문 미열람' : '사용자 등록: 원문 미검증'}\n${signal.sourceUrl || 'URL 미등록'}`)].join('\n');
 }
 
 export function periodText(input) {

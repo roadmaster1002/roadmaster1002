@@ -7,6 +7,8 @@ export type Evidence = {
   sourceUrl: string;
   date: string;
   companyId: string;
+  companyIds?: string[];
+  evidenceType?: 'feed-metadata' | 'registered';
   isDemo: boolean;
 };
 

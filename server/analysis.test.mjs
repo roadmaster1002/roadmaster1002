@@ -93,3 +93,12 @@ test('briefing retains all validated inputs up to40 rather than silently truncat
   assert.match(result.answer, /\[s39\]/);
   assert.match(result.answer, /전달 자료 40건/);
 });
+
+test('RSS metadata provenance and multiple business assignments survive analysis validation', () => {
+  const input = validateInput({ question: '시장 동향', company: 'kci', signals: [signal({ id: 'rss', companyId: 'ncchem', companyIds: ['ncchem', 'kci'], evidenceType: 'feed-metadata', isDemo: false })] });
+  const result = createLocalAnalysis(input);
+  assert.deepEqual(result.citations, ['rss']);
+  assert.match(result.answer, /뉴스 피드 메타데이터/);
+  assert.match(result.answer, /기사 본문 미열람/);
+  assert.ok(!result.answer.includes('사용자 등록: 원문 미검증'));
+});
