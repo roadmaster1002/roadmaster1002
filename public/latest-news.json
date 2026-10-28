@@ -1,12 +1,380 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": null,
-  "updatedAtISO": null,
-  "lastSuccessfulAtISO": null,
-  "status": "not-configured",
-  "items": [],
-  "sources": [],
-  "errors": [
-    "첫 자동 수집을 기다리고 있습니다. 실제 RSS 메타데이터가 아직 수집되지 않았으며 기사 본문은 확인하지 않았습니다."
-  ]
+  "attemptedAtISO": "2026-10-28T08:10:28.814Z",
+  "updatedAtISO": "2026-10-28T08:10:28.814Z",
+  "lastSuccessfulAtISO": "2026-10-28T08:10:28.814Z",
+  "status": "ready",
+  "items": [
+    {
+      "id": "news-eba7683cd56e90b4d236",
+      "title": "Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals",
+      "sourceName": "Indiatimes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UdIBigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UQ",
+      "publisherUrl": "http://chemicals.economictimes.indiatimes.com",
+      "publishedAtISO": "2026-10-25T12:32:47.000Z",
+      "date": "2026-10-25",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals Indiatimes",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d11edf6d426843a6a000",
+      "title": "Tokyo Ohka Kogyo Co., Ltd. Estimates – OTC:TKCYY",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzMWJNVFI0Y0lRTzgzeDdnVDlHMHRVekM3WG5Va3ZEVXhlUWFHblZjRXRGUlBMLWZrV2ZmNzhlbG4yYnZyaVE2RU1kMFRLZUJwQ25kU01XZGpBb3FOU3J1Tlo3YW5DVEd3TTJlTkhMNEpobjZaOWc",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-10-23T15:31:50.000Z",
+      "date": "2026-10-24",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo Co., Ltd. Estimates – OTC:TKCYY TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-76565f310fb7680646f3",
+      "title": "Tokyo Ohka Kogyo (TSE:4186) Gains From EUV Demand, Is It Fully Priced?",
+      "sourceName": "Simply Wall Street",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRHdXQzJaeHh3MzRBVXV5TVgxSzlQcURlSThHdzYzZVZvN0dsc2xmckNwbW5PM0RfLTU1clEwUExpRy1RRFNfODM3N3B4LVExd3dyR1Nva2xxczBuaVhFVzVnaWRjcU5IVzEyX3FYQ193cV9XbkloQm1QazZxSGoyUEd1SmxmRFlPbUVBU3g3VE9wZHp1ZDJUZ1NJSUlJUlR3WlozWmtjTVJoM0pkZmU5VFhQanBocUNkYURSS3ZCNGE4ajdQQ2lxNWFqb3dyZmhxV19OTm40Z9IB3AFBVV95cUxPOXZEYlV4VUZDekNKcUtEc1JLOWpCbHJwSFAtWVF5QVFHTk8wRW9uVFg4ZHdvMC1iUjlRMG5MZlJnY2lvd0dtOUw3Z1QweWJHaDB6cFVRZTVack1pMXVWVGpRdW1rNnlpT1h5Q2wydjdNOGpaMXBscHpxZ2UyWUFDRm9PZ1BFN0wwZGw4bFROMDgtdTdPcTZJVlpfejVCdFNxcE9WYzhXOHc1V3VCM2Qzd3lHckNqaDRGWDcyQ29wY1pBTjNNSlpIeldJMXlpblhLR1RFa3J5OUphRVJv",
+      "publisherUrl": "https://simplywall.st",
+      "publishedAtISO": "2026-10-22T22:59:37.000Z",
+      "date": "2026-10-23",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo (TSE:4186) Gains From EUV Demand, Is It Fully Priced? Simply Wall Street",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-a37df5a1219484a03608",
+      "title": "Tokyo Electron dominates 87% of photoresist tra...",
+      "sourceName": "Pluang",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnVackYxNENQaUNqM0l6Mm5jcWVNZTVVM1dSaXZ0Z0xIZ1REakk2SVFwaUY3NlVXMGUtblFramJpYXB0NWNjaVdWLWVyVWhvU09MMHExcW96RlhKbndRSnVrdVUwVmN0N0dEUlctMUkza0c3VWlVTXpQcF91RmxwRmxvRzl1MGRTeEc1REwyak1EYmdjcnA5T1BvSUhBY1QwM3Y5Nlk4SFBld0E",
+      "publisherUrl": "https://pluang.com",
+      "publishedAtISO": "2026-10-22T17:37:10.000Z",
+      "date": "2026-10-23",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Electron dominates 87% of photoresist tra... Pluang",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-dab0cc7a4d9f474648be",
+      "title": "Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dVp0amhhNEZremxFdWxuVUtZcVJJbmU5U3AtSnZwY0p0Yzl4dF9FbGN1S3NST0dRUG5zMW00TDFwY0otdW1JYVZfVFpxSFhERzZuUGpSc3JiaVlZNjc5UXU2cXpvcGc",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-10-21T11:18:41.000Z",
+      "date": "2026-10-21",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-54965a8cef87c147dce6",
+      "title": "TOK expands Koriyama photoresist capacity as AI chip demand rises",
+      "sourceName": "digitimes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ0RfR3BEdWpzV3V6dTBYTXpxVlY3ZE5ENUxlNGQwYVE5N1R1aVp3ZDMtLWgzeTZVVWJHV2dWNFhHUnd0WHlBSW1zUFJod0RTQ0YxVjZzdUcwc0lpbjZvSmFndmNDNkx6X2d6bHl6Tmo0M1lhcm1LalZ1LXFpUVhxWjNqT2N5UGpDb2FaOHU3Sno3cEJkd1NTY0FPRWkwX0h0TG8zV2RCeE5zRnc",
+      "publisherUrl": "https://www.digitimes.com",
+      "publishedAtISO": "2026-10-14T07:00:00.000Z",
+      "date": "2026-10-14",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): TOK expands Koriyama photoresist capacity as AI chip demand rises digitimes",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-424a02b9f6ef9e6c636e",
+      "title": "Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business",
+      "sourceName": "Inc42",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNS015cGJPczVHcWpMN0MwVGRCQzhweGV5YVpGRGpfMWNpTVFUVjRibEZwbnlqY2hQbzg3Yno5MzNQNW0zcGdBSnh2czNKbm9QOVNnOTZkUi1tYmRiX00xbzdxSEZlUUZ3YlkweHlPUDdtTXQwUEY2MkVPOFQ5eUw2dHFZcUpnWURhZzZHdHo0OE85MDhu",
+      "publisherUrl": "https://inc42.com",
+      "publishedAtISO": "2026-10-14T07:00:00.000Z",
+      "date": "2026-10-14",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Scimplify Bags $25 Mn To Scale Its Semiconductor Chemicals Business Inc42",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-8811eb1f6df7378a16ce",
+      "title": "DrivingChip Dreams, Building a Chip-Powered Future---Accelerating PhotoresistLocalization, Morimatsu Hi-Purity Empowers Leading Photoresist Manufacturers",
+      "sourceName": "Moomoo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMF9qUFJVYWdITFhidktweHhFU2NJcmp0T1NnQldyV2Q4aFk1NHRycnA5eEFXZDRGWEFLTTNNVEJnOUxOUlk2ekNRdnVrR2UtMVlULXhxQVlKa0dvSjhSNDBqay01Qm9pM1lVQlRna191MVhLVmlnVlV3TXh4TUJ3cEdfeGExbkxrVjN0T05Bc3NlZ2tiZzVwdUdSMmhjNUVENmg3a0VNemRCNjF4UlNYWEgzZXJXRHFFWXI5YzVYVlBtX0FYb0xuN1ZILTZmS0wtRnZMdWVudzB1M0EwTndaTHptd3A",
+      "publisherUrl": "https://www.moomoo.com",
+      "publishedAtISO": "2026-10-13T07:00:00.000Z",
+      "date": "2026-10-13",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): DrivingChip Dreams, Building a Chip-Powered Future---Accelerating PhotoresistLocalization, Morimatsu Hi-Purity Empowers Leading Photoresist Manufacturers Moomoo",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-5bf855a9575d3a421e8b",
+      "title": "Electroluminescent photoresists make LEDs easy to pattern",
+      "sourceName": "Nature",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55MWZrYS15RHB1cGJEQWNCUi1NU2VQbEhaUEx1bW1aTFAwRUZUTG1wckpYNVhKbzB4V042aV9UbTlCckFHYTV6b0ZfRDFUVDVidXJKVXZoNnFHWWFfbFVV",
+      "publisherUrl": "https://www.nature.com",
+      "publishedAtISO": "2026-10-13T07:00:00.000Z",
+      "date": "2026-10-13",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Electroluminescent photoresists make LEDs easy to pattern Nature",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-96c1a99a7b532d6211e2",
+      "title": "SBI Securities Starts Tokyo Ohka Kogyo at Buy with 15,000 Yen Price Target",
+      "sourceName": "www.marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXYyTDdra0M1TXpsSkVzSUUwcmxrTXd3eHpkTTlOQW1xRlhHZEJrLUV2Y0hpRU1Zc1pDdXBycHp0VjY5YklqclFaamNEclliV09XMFVjNmRyWUo0cHYyYWlvZDNFLUFpUVlsQWtkMG9xdGhtd2pxZEMzYm9SMGZET2lUSnhmMGx5S1B6QkZRd0R5OUxQTjgtT05zUmNiS1hyMzhaX1B5VGVMbmotU1Awd0pjZVVfOTdEcHZMN3BxR0QwVVpwNlE",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-10-12T10:18:49.000Z",
+      "date": "2026-10-12",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): SBI Securities Starts Tokyo Ohka Kogyo at Buy with 15,000 Yen Price Target www.marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ec19d654987da0f5430f",
+      "title": "JSR Opens EUV MOR Plant in South Korea’s Ochang",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZR3BDRHZWWVpRaXZRMlMtWTRaVXhSQzFqOG5tRnBacnRmN1I2Q29hTE9rdloyZ1dVLU5iQ3dLVmEzTG44NkcxYnlTU1dVMjlOOUt1TTcxeGlKeFdIWVBBU0tpbTJNUVk",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-10-01T07:00:00.000Z",
+      "date": "2026-10-01",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): JSR Opens EUV MOR Plant in South Korea’s Ochang THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-87ae3c6fdf4989d73102",
+      "title": "Leading Domestic Semiconductor Photoresist Enterprise: Dual Breakthroughs in Self-Sustaining Profitability & Core Industry Lifeline Technical Barriers",
+      "sourceName": "36Kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5mekN2dklYUGpESWRnNUFsNU9zYlpfeW1yYUh4ZGdVMGxQQ0M1ZklRa1FJWGVQSklPZ0NndGNJVk41WDYzbjdQU0R6eGMtUS01bGNz",
+      "publisherUrl": "https://eu.36kr.com",
+      "publishedAtISO": "2026-09-28T07:00:00.000Z",
+      "date": "2026-09-28",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Leading Domestic Semiconductor Photoresist Enterprise: Dual Breakthroughs in Self-Sustaining Profitability & Core Industry Lifeline Technical Barriers 36Kr",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-536a1f423bc2925d6b7e",
+      "title": "Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise",
+      "sourceName": "Newswise",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVdIB7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVQ",
+      "publisherUrl": "https://www.newswise.com",
+      "publishedAtISO": "2026-09-22T07:00:00.000Z",
+      "date": "2026-09-22",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise Newswise",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-1a328af7195cd4b9af55",
+      "title": "China's Guangyin Polymer raises tens of millions of yuan for BCB photoresist",
+      "sourceName": "Dealroom",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2IxdXdGc1pGWnhwVHpEY0syQ3d4NGxIQTc4Z0xHWXJCNnlvZjlZVXRMUm9WQ3NvMi02UFVNeVdCT1hvWVU5cDhDX1NuZ0Y5TkdCMHdEM2gyQXE3b1JacTRtZ3dzTjgyQ0xkRlFwS2p5bXBWYnVRRFdLT1VLUG8zd1kweDdxQ0JRdjlncEpueXNLcU5kQVM3Z0V5WVFtSlB3WmdDek1FcW41UWpScU00",
+      "publisherUrl": "https://app.dealroom.co",
+      "publishedAtISO": "2026-09-21T20:17:32.000Z",
+      "date": "2026-09-22",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): China's Guangyin Polymer raises tens of millions of yuan for BCB photoresist Dealroom",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-b0059f0e14fcd067bae1",
+      "title": "UNIST Develops Tunable Tin-Based Photoresist for EUV Lithography",
+      "sourceName": "Seoul Economic Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw0dzJwSDJBRVVHLVphcVNVUDFjak5MdkxKSm14bDM5UUFadDgycnhEYURBZEFhbzc3UDZsRUZQLXhlbi16ampGRmZYdHFDVDhsT2pzNl9OaDAxbUU3aDNuR1RfQ2hqWVk3UWF2UFRrTFZJOVprU0R3QVZIT252WjZkSHpQUUdrd1NMN0E4cnFzTzExdHVZTGRiWGR1dw",
+      "publisherUrl": "https://en.sedaily.com",
+      "publishedAtISO": "2026-09-21T07:00:00.000Z",
+      "date": "2026-09-21",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): UNIST Develops Tunable Tin-Based Photoresist for EUV Lithography Seoul Economic Daily",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-9f39e7b2f04175ac6bf8",
+      "title": "Tokyo Ohka Kogyo (TSE:4186) Stock Looks Cheap Against Its Cash Flow Outlook",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVpvS2xxZ3ZXSFBjSmJnZWUxYnBWek9jTzZkclYybm53SUJ0eEE0VGlYT0tzd1dubGlLT3RsZDdHMXJiMnFadlhsbVh1bjl3NzZQOGxFdFBzWVRKamt6ckhHWk9QOUxNc2dkTFZ5SDBYZnp1M3YtZTF3QUZFbUxnc2d4aDJXRmE4TlN2WmNUNFFSRkZH",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-09-20T07:00:00.000Z",
+      "date": "2026-09-20",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo (TSE:4186) Stock Looks Cheap Against Its Cash Flow Outlook Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d285f0989e65ceb7962e",
+      "title": "Electroluminescent photoresists extending lithographic scaling to OLEDs",
+      "sourceName": "Nature",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zQ0FBRzBoZlBleThNQjRnY1F6X1ZqdGxJSTVpZHJTbUxkYW12bXp4OWVwdFR4RUpOUnpYUjdYeEZoZWdaT01MRVd6bURUSUR1a0ozWC1fQjBVaGZmeGw0",
+      "publisherUrl": "https://www.nature.com",
+      "publishedAtISO": "2026-09-16T07:00:00.000Z",
+      "date": "2026-09-16",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Electroluminescent photoresists extending lithographic scaling to OLEDs Nature",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3c52cab7fb6c71bc5bf3",
+      "title": "Groups Challenge EPA Approval of Semiconductor Chemicals",
+      "sourceName": "EHSLeaders",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVhuZWJoZnY4VFlKQTZxSHRIYVFMWlI2UDhIbjFaR2lwd1V6SnlCbTZndkV3NHE5Q2E4VWZjS2oxZC1uSUYyU3JFalpBb01LbjlpeExqM2FZZWdIc0JvZXhaSUN1RUZVRjlVLThCcXFCcl90NWl5ZVI3b2hTdU9kMC1manc3UExtSHcwcmJzZHBmdw",
+      "publisherUrl": "https://ehsleaders.org",
+      "publishedAtISO": "2026-09-10T07:00:00.000Z",
+      "date": "2026-09-10",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Groups Challenge EPA Approval of Semiconductor Chemicals EHSLeaders",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-45139d07e69b6e6094be",
+      "title": "Acutaas' step-down subsidiary inaugurates semiconductor chemicals plant at Gongju",
+      "sourceName": "Business Standard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ3RlUlluU0FKa1VuaXNZQVZ1QXZpVHU1b1pvVmYybWh5b0JISTRZZVZsZmIteEhJbXJYMUM4U3VLQ1g5dGlXLW9lUVZGMl9KUG1Hb2tlVkJhVDc4NnpVcUhsNXhLb1JsVW5rT09KeHd0Qk1DLV9IMmVoRTRzbHU1LXNqMXlXT3N2SEJtRGt2UmlTSDdMX0dENDgzaFFvLWtIRjNzODRON3ZPdjRBTWdEQVFDcmFQdlJUREdoS2dHZGZaRXFjS2htbnlWOGNndkpuTFVGYWpIUXA3UEJYVVhiTVBSMWFPbVVXLUtpTi01MS0tUVQ30gH6AUFVX3lxTE9oa0dFR3dZR0E1TkJhRzlRR3FmTC1tdlRkLTdUcjA0ZlBkbUdkR1dfeUFIeFFZRENEbGlJczhEM0tFcEMyWnoxSTBoZHNlTEtNaFZFM3JrVTJXVXBIaF9wQTlHdEF4WW1yWUh6MXJ4dURMVFQ1UE9JRUJFVktHZXZTWXY2MkVkcm9ReDQ5VmtiYjcxc2E0U0VKNEtNMHNWQTlDdU16WmE5cXV1NHdRbXMtTFlYODNXa3FFamdvd21WSXpucVM2MVlKbnBpWGplM1lNeFpRTnYtdXdyVWQ3MWdQMjJIMjluUVhhMGlIdGNCdHJhNTRnSUNPbGc",
+      "publisherUrl": "https://www.business-standard.com",
+      "publishedAtISO": "2026-08-28T07:00:00.000Z",
+      "date": "2026-08-28",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Acutaas' step-down subsidiary inaugurates semiconductor chemicals plant at Gongju Business Standard",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-53f68b24e71ce4f1cd81",
+      "title": "Yomiuri: World's Leading Photoresist Maker Tokyo Ohka Kogyo Enjoys Strong Sales",
+      "sourceName": "MarketWatch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2dOOEFkUEtOcXIzMkRUckZpQkgwbzdkcjR1X2JZakxRN18yeHdPNWFSSkdDdzdiQkd4Z1lWYm1EblJpY01wcUZJTS1UQ2JNTGlVZ1NhVm1EbEJRVVhmVjhkbUJfNWNaeUI2QW56SWN0aU93anZEMmQ0cTRDX2d0eEVpVEQzWTJ6WENuX1pjY2s0UnVKSWMtdzFEcGJWV1RyUVlYVm1JLTdDelZYdEh1dlkyd3NMYVBENFMxYXRR",
+      "publisherUrl": "https://www.marketwatch.com",
+      "publishedAtISO": "2026-08-24T07:00:00.000Z",
+      "date": "2026-08-24",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Yomiuri: World's Leading Photoresist Maker Tokyo Ohka Kogyo Enjoys Strong Sales MarketWatch",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-385d032c47b5a10b60a3",
+      "title": "EPA sued for approving semiconductor chemicals that may pose health risks",
+      "sourceName": "The Hill",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG14c2d3TlNsTUR2OGpieV9QMnNCaV8xREtWSHRvOUNYaDdBWFl1eXdwTkJIMEZqaldsMFdldVJZdTNWdnpodGE3UWpLN1Q4X04xRm90VWRlZkVvejk4dVJ5bmJOT0ZKbi0yeXJkc0hoelE4LXg0U1l6NUxLVXNDYzd6U1JBRlpPUE5VRtIBkgFBVV95cUxQZGxTQ0NOeFVMelBRNkZ6ajlReTd4eHM5SkJtU1I5UXVTOFJCbWxVaGg0NzlhTmhWRkJ5Mzh3aks2bVRmMlVRYWhKMFpIMlpGdTh5Z1RxOXNRZW5XVnBGOHo4Qm9JaGFJUFV4QjN3emZTaWpzdGFqclN1RldZc0lhYzlidklweEFNUWhsdGhRMkkwdw",
+      "publisherUrl": "https://thehill.com",
+      "publishedAtISO": "2026-08-14T07:00:00.000Z",
+      "date": "2026-08-14",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): EPA sued for approving semiconductor chemicals that may pose health risks The Hill",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4518042dd7486b3c420a",
+      "title": "Green Groups Sue Trump EPA for Approving Toxic Semiconductor Chemicals Amid AI Data Center Boom",
+      "sourceName": "Common Dreams",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LbWdUMm9QM3JNQkpsWlBXaHlHZDZhdTlmWDVEdE1VX2lnWGtCZTRad2p0LVd4TFA5UXNCSmxVNnVqelVXdzRkbFdVOG1ERFNvMURnNjJJV0hwcVc2eFM2OXZhc2ZHM2JoRVI2NS1R",
+      "publisherUrl": "https://www.commondreams.org",
+      "publishedAtISO": "2026-08-14T07:00:00.000Z",
+      "date": "2026-08-14",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Green Groups Sue Trump EPA for Approving Toxic Semiconductor Chemicals Amid AI Data Center Boom Common Dreams",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f98d9ee483cb14077247",
+      "title": "Behind Lily Flower's Wild Swings: Controlling Shareholder Cashes Out 289 Million Yuan at the Peak, Photoresist Revenue Accounts for Less Than 0.1% of Total Sales",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TbnRlSGh1aC1ELW1hSHl2QXNXX20xQ3JFXzZsbHRxTVV1Z0hfZDFlQWstOUw3NlYxd3hKU3FMejROTzc2T3p2LXhhWHFJR3BJU0RnMkExU244Qi1yNXcweGdkOXB2dWYwVi1UQ2dEeEpfUDhDOUE",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-08-07T07:00:00.000Z",
+      "date": "2026-08-07",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Behind Lily Flower's Wild Swings: Controlling Shareholder Cashes Out 289 Million Yuan at the Peak, Photoresist Revenue Accounts for Less Than 0.1% of Total Sales BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-30e7069e1a3c4e54a243",
+      "title": "Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media",
+      "sourceName": "Record China",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WS0xKdHF0dEZjTUNobmlqWTNURFhHZTkxRDJfNGp6VDExLUMwYzFZVXZ6aThNVlVnNXBqNXJRaGRmTk11YW1tRzUxeGFyMFhhMGFUTmdWeDVPUEZfMEtrbG9sVG9wOEFwMmY4",
+      "publisherUrl": "https://www.recordchina.co.jp",
+      "publishedAtISO": "2026-08-07T07:00:00.000Z",
+      "date": "2026-08-07",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media Record China",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-de4f7407297f9ee4101d",
+      "title": "TOKYO OHKA KOGYO CO., LTD. Business Results",
+      "sourceName": "StockWeather",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOb0hFZXB3ZkxDUEl1UDFpOFpmSXlkNWdmNXFUS09mbm1ERy16djdJcy15MHJDaC1oOXFMOUFTZDlHNnRiWDYxcWlPck5USkhOa1A2eDNvbUlTSGlOMGxzTjlQeHBMUUJ3OXBxczZoc05tNUJMVzZ5alVCSmtWdHVPcEpGTTlqV0lKc1E",
+      "publisherUrl": "https://finance.stockweather.co.jp",
+      "publishedAtISO": "2026-08-06T07:00:00.000Z",
+      "date": "2026-08-06",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): TOKYO OHKA KOGYO CO., LTD. Business Results StockWeather",
+      "verification": "feed-metadata"
+    }
+  ],
+  "sources": [
+    {
+      "companyId": "ncchem",
+      "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
+      "status": "ok",
+      "itemCount": 25
+    },
+    {
+      "companyId": "kci",
+      "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
+      "status": "ok",
+      "itemCount": 0
+    },
+    {
+      "companyId": "verdant",
+      "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+Stepan+OR+Nouryon+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
+      "status": "ok",
+      "itemCount": 0
+    }
+  ],
+  "errors": []
 }
