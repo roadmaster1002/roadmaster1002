@@ -129,4 +129,4 @@ Pages에 배포된 버전은 **로컬 분석 전용**이며 외부 AI API 키를
 
 색상은 사용자가 제공한 막내 산업 지도 화면을 참고해 파랑·보라 그라데이션 사이드바, 밝은 블루·라벤더 배경, 흰색 카드와 블루 강조색을 사용합니다. 글꼴은 프로젝트에 포함한 Pretendard Variable(SIL Open Font License)이며 외부 글꼴 CDN에 의존하지 않습니다.
 
-삼양사 공식 로고 원본은 공식 사이트 접근 정책 때문에 아직 확보하지 못했습니다. 현재 상단의 ‘삼양사’는 일반 텍스트 표기이며 공식 CI를 재현한 그림이 아닙니다. 원본을 확보하면 `src/assets/samyang-logo.svg` 또는 `.png`/`.webp`로 추가하고 다시 빌드하면 BrandLogo가 이를 사용합니다. 삼양식품 로고와 혼동하지 않아야 하며, 삼양사 또는 삼양그룹에서 배포한 원본임을 확인해야 합니다.
+상단 로고는 사용자가 첨부한 `SAMYANG_LOGOTYPE.zip`의 `SAMYANG_PRIMARY_LOGOTYPE/Lagacy Blue/SAMYANG_Logotype_Legacy Blue_RGB.png` 원본입니다. `src/assets/samyang-logo.png`로 보관하며 원본의 색상·비율·투명 여백을 유지하고 CSS에서 표시 크기만 조정합니다. 원본 PNG의 SHA-256은 `33d197192732e34b4df700ef0d46b53a34f5c7efd626a2be8cca6c846b755be1`입니다.
