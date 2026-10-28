@@ -2,6 +2,7 @@ import { useEffect, useId, useRef, useState, type FormEvent, type ReactNode } fr
 import { ArrowDownToLine, ArrowRight, ArrowUpRight, Bell, Bookmark, Check, CheckCheck, ChevronDown, ChevronLeft, ChevronRight, CircleHelp, Compass, ExternalLink, FileText, FolderOpen, Globe2, LayoutDashboard, LoaderCircle, Map, Menu, Plus, Radar, Search, Send, Settings2, ShieldCheck, Sparkles, Target, TrendingUp, X } from 'lucide-react';
 import { companies, competitors, signals as seedSignals, watchTopics, type Company, type Signal } from './data';
 import IndustryMap from './IndustryMap';
+import BrandLogo from './BrandLogo';
 import { getAnalysisStatus, requestAnalysis } from './analysisClient';
 
 type Page = 'overview' | 'map' | 'feed' | 'watchlist' | 'brief' | 'library';
@@ -119,13 +120,13 @@ export default function App() {
   return <div className="app-shell">
     {menuOpen && <div className="sidebar-backdrop" onClick={() => setMenuOpen(false)} />}
     <aside className={`sidebar ${menuOpen ? 'open' : ''}`}>
-      <button className="brand" onClick={() => navigate('overview')} aria-label="CHEM2 홈"><span className="brand-mark"><span /><span /><span /></span><span>CHEM<sup>2</sup><small>MARKET INTELLIGENCE</small></span></button>
+      <button className="brand" onClick={() => navigate('overview')} aria-label="삼양사 MI 홈"><BrandLogo /></button>
       <div className="workspace"><span className="workspace-icon">S</span><div><strong>삼양사 화학2그룹</strong><span>기획팀 워크스페이스</span></div><ChevronDown size={14} /></div>
       <div className="nav-label">WORKSPACE</div>
       <nav>{navItems.map(({ id, label, icon: Icon }) => <button key={id} onClick={() => navigate(id)} className={page === id ? 'active' : ''}><Icon size={19} /><span>{label}</span>{id === 'feed' && <small>{allSignals.length}</small>}{id === 'brief' && <span className="nav-new">AI</span>}</button>)}</nav>
       <div className="sidebar-line" /><div className="nav-label company-nav-heading">OUR BUSINESSES <span>03</span></div>
       <div className="company-nav">{companies.map(c => <button key={c.id} className={scope === c.id ? 'selected' : ''} onClick={() => setScope(scope === c.id ? 'all' : c.id)}><span className={`small-dot ${c.id}`} /><span>{c.shortName}</span><ChevronRight size={13} /></button>)}</div>
-      <div className="sidebar-bottom"><div className="agent-status"><span className="agent-status-icon"><Sparkles size={18} /></span><div><strong>MI 분석 어시스턴트</strong><span><i />{mode === 'llm' ? 'LLM 설정됨' : '로컬 분석 모드'}</span></div><button aria-label="분석 설정" onClick={() => setSettings(true)}><Settings2 size={16} /></button></div><button className="help-button" onClick={() => setHelp(true)}><CircleHelp size={17} />워크스페이스 가이드<ArrowUpRight size={14} /></button><div className="sidebar-footer"><span className="samyang-wordmark">samyang</span><span>Beyond the ordinary</span></div></div>
+      <div className="sidebar-bottom"><div className="agent-status"><span className="agent-status-icon"><Sparkles size={18} /></span><div><strong>MI 분석 어시스턴트</strong><span><i />{mode === 'llm' ? 'LLM 설정됨' : '로컬 분석 모드'}</span></div><button aria-label="분석 설정" onClick={() => setSettings(true)}><Settings2 size={16} /></button></div><button className="help-button" onClick={() => setHelp(true)}><CircleHelp size={17} />워크스페이스 가이드<ArrowUpRight size={14} /></button><div className="sidebar-footer"><span>삼양사 화학2그룹</span><span>기획팀 워크스페이스</span></div></div>
     </aside>
 
     <div className="main-shell"><header className="topbar"><div className="breadcrumb"><button className="icon-btn mobile-menu" aria-label="메뉴 열기" onClick={() => setMenuOpen(true)}><Menu size={21} /></button><span>Workspace</span><ChevronRight size={13} /><strong>{pageTitles[page]}</strong></div><div className="header-actions"><span className="demo-indicator"><span />데모 워크스페이스</span><button className="notification-btn icon-btn" aria-label="알림" onClick={() => setNotifications(true)}><Bell size={19} /><i /></button><span className="header-divider" /><button className="profile" aria-label="워크스페이스 설정" onClick={() => setSettings(true)}>SY</button></div></header>

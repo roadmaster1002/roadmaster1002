@@ -15,10 +15,9 @@
     "deploy:pages": "npm run build:pages && node scripts/publish-pages.mjs"
   },
   "dependencies": {
-    "@fontsource/dm-sans": "^5.2.8",
-    "@fontsource/noto-sans-kr": "^5.2.7",
     "express": "5.1.0",
     "lucide-react": "0.468.0",
+    "pretendard": "^1.3.9",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "undici": "7.16.0"
