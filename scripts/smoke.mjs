@@ -59,6 +59,7 @@ async function assertNoOverflow(label) {
 const sourceTitle = `E2E 자료 등록 검증 ${Date.now()}`;
 const sourceName = 'E2E 테스트 원문';
 const sourceUrl = 'https://example.com/chem2-smoke-source';
+const sourceNotes = { keyTakeaways: '테스트 논점: 원료 인증의 적용 범위를 구분해야 합니다.', evidence: '테스트 근거: 본문에 등장하는 대상 제품과 적용 조건을 원문 문단으로 대조합니다.', businessImpact: '담당자 검토: 헤어케어 원료의 고객 평가 일정에 미칠 영향을 별도로 검증해야 합니다.', followUp: '후속 조사: 공식 규정 문서와 고객 적용 제품을 비교하고 담당자에게 확인합니다.' };
 const today = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit' }).format(new Date());
 
 try {
@@ -76,6 +77,7 @@ try {
 
   await test('all three business filters constrain feed cards', async () => {
     await navigate('마켓 인텔리전스');
+    await page.getByRole('group', { name: 'MI 자료 보기' }).getByRole('button', { name: /^기능 예시/ }).click();
     for (const [label, company] of [['NC Chem', 'ncchem'], ['KCI', 'kci'], ['Verdant', 'verdant']]) {
       await scopeButton(label).click();
       const count = await page.locator('.signal-card').count();
@@ -118,6 +120,7 @@ try {
   let savedTitle;
   await test('signal bookmarks persist across reload and appear in library', async () => {
     await navigate('마켓 인텔리전스');
+    await page.getByRole('group', { name: 'MI 자료 보기' }).getByRole('button', { name: /^기능 예시/ }).click();
     const article = page.locator('.signal-card').first();
     savedTitle = await article.getByRole('heading', { level: 3 }).innerText();
     await article.getByRole('button', { name: `${savedTitle} 저장`, exact: true }).click();
@@ -135,11 +138,15 @@ try {
     await dialog.getByLabel('관련 사업').selectOption('kci');
     await dialog.getByLabel('유형').selectOption('규제·정책');
     await dialog.getByLabel('제목', { exact: true }).fill(sourceTitle);
-    await dialog.getByLabel('핵심 내용', { exact: true }).fill('이 문장은 자동 브라우저 테스트용 등록 자료입니다. 환경 규제와 인증 정책의 적용 지역 및 원문 확인 절차를 검토합니다. 실제 시장 뉴스가 아닙니다.');
+    await dialog.getByLabel(/^핵심 내용/).fill('이 문장은 자동 브라우저 테스트용 등록 자료입니다. 환경 규제와 인증 정책의 적용 지역 및 원문 확인 절차를 검토합니다. 실제 시장 뉴스가 아닙니다.');
     await dialog.getByLabel('출처명', { exact: true }).fill(sourceName);
     await dialog.getByLabel('대상 기업', { exact: true }).fill('E2E 테스트 기업');
     await dialog.getByLabel('원문 URL', { exact: true }).fill(sourceUrl);
     await dialog.getByLabel('원문 발표일', { exact: true }).fill(today);
+    await dialog.getByLabel(/^핵심 논점/).fill(sourceNotes.keyTakeaways);
+    await dialog.getByLabel(/^근거·수치·조건/).fill(sourceNotes.evidence);
+    await dialog.getByLabel(/^사업 영향 · 담당자 분석/).fill(sourceNotes.businessImpact);
+    await dialog.getByLabel(/^후속 조사/).fill(sourceNotes.followUp);
     await dialog.getByRole('button', { name: '자료 등록', exact: true }).click();
     await dialog.waitFor({ state: 'hidden' });
     await page.reload({ waitUntil: 'networkidle' });
@@ -150,6 +157,8 @@ try {
     await page.getByRole('button', { name: new RegExp(sourceTitle) }).filter({ has: page.getByRole('heading', { level: 3, name: sourceTitle, exact: true }) }).click();
     await visibleDialog().getByRole('link', { name: '원문 확인' }).waitFor();
     assert.equal(await visibleDialog().getByRole('link', { name: '원문 확인' }).getAttribute('href'), sourceUrl);
+    assert.equal(await visibleDialog().locator('section.article-review-note').count(), 4);
+    for (const note of Object.values(sourceNotes)) assert.ok((await visibleDialog().locator('.signal-detail').innerText()).includes(note));
     await visibleDialog().getByRole('button', { name: '닫기', exact: true }).click();
   });
 
@@ -168,6 +177,7 @@ try {
     await dialog.getByText('로컬 근거 요약', { exact: true }).waitFor();
     const answer = await dialog.locator('.report-text').innerText();
     assert.ok(answer.includes(sourceTitle));
+    assert.ok(answer.includes(sourceNotes.businessImpact));
     assert.ok(answer.includes(sourceUrl));
     assert.ok(answer.includes('원문 미검증'));
     assert.equal(await dialog.locator('.citation-links').getByRole('link', { name: sourceName, exact: true }).getAttribute('href'), sourceUrl);
@@ -199,6 +209,7 @@ try {
     const markdown = await readFile(filename, 'utf8');
     assert.ok(markdown.includes(sourceUrl));
     assert.ok(markdown.includes(sourceTitle));
+    assert.ok(markdown.includes(sourceNotes.businessImpact));
     assert.ok(markdown.includes(today));
     assert.ok(markdown.includes('원문 미검증'));
     assert.ok(markdown.includes('source-'));

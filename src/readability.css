@@ -1,0 +1,362 @@
+/* Comfortable reading sizes for planning work; the process diagram keeps its layout. */
+:root { font-size: 17px; }
+body { font-size: 17px; line-height: 1.65; }
+button, input, select, textarea { font-family: inherit; }
+main, .main-shell, .panel, .feed-section, .insight-column, .brief-document { min-width: 0; }
+h1, .page-title-row h1 { font-size: 40px; line-height: 1.35; font-weight: 750; letter-spacing: -1.2px; }
+.page-title-row { flex-wrap: wrap; }
+.page-title-row > div { min-width: 0; }
+.page-title-row p { font-size: 16px; line-height: 1.85; }
+.eyebrow, .mini-eyebrow { font-size: 12px; line-height: 1.8; }
+.brand > .brand-workspace-caption { font-size: 12px; letter-spacing: 0; }
+.workspace strong { font-size: 14px; }
+.workspace div > span { font-size: 12px; }
+.nav-label { font-size: 12px; }
+nav button { font-size: 16px; padding: 14px 11px; gap: 10px; }
+nav button small, nav .nav-new { font-size: 12px; }
+nav .nav-new { font-size: 12px !important; }
+.company-nav button { font-size: 14px; }
+.agent-status strong { font-size: 13px; }
+.agent-status div > span { font-size: 12px; }
+.help-button { font-size: 13px; }
+.sidebar-footer > span:first-child, .sidebar-footer > span:last-child { font-size: 12px; }
+.sidebar { overflow-y: auto; }
+.breadcrumb, .breadcrumb strong { font-size: 14px; }
+.demo-indicator { font-size: 12px; }
+.profile { font-size: 13px; }
+.btn, .add-source { font-size: 15px; padding: 12px 17px; }
+.scope-tabs button { font-size: 14px; padding: 11px 15px; }
+.scope-tabs small, .scope-caption { font-size: 12px; }
+.scope-row { flex-wrap: wrap; }
+.scope-tabs { max-width: 100%; overflow-x: auto; }
+.section-heading h2 { font-size: 23px; line-height: 1.6; }
+.section-heading p { font-size: 14px; line-height: 1.8; }
+.section-heading { flex-wrap: wrap; }
+.text-link { font-size: 14px; }
+.count-badge { font-size: 12px; }
+.muted, .panel-subtitle { font-size: 15px; line-height: 1.8; }
+.outline-badge { font-size: 12px; white-space: normal; }
+.data-notice, .ai-panel .data-notice, .signal-detail .data-notice { font-size: 15px; line-height: 1.85; }
+.search-field input, .content-toolbar select { font-size: 16px; }
+.search-field { min-width: 0; }
+.company-label, .feed-grid .company-label { font-size: 12px; }
+.impact, .feed-grid .impact { font-size: 12px; }
+.signal-content h3, .feed-grid .signal-content h3 { font-size: 21px; line-height: 1.6; }
+.signal-content p, .feed-grid .signal-content p { font-size: 16px; line-height: 1.85; -webkit-line-clamp: 4; }
+.signal-tags > span, .feed-grid .signal-tags > span, .topic-card .signal-tags > span { font-size: 12px; padding: 5px 8px; }
+.signal-bottom, .feed-grid .signal-bottom { font-size: 14px; line-height: 1.65; }
+.signal-bottom > span:nth-child(2) { max-width: 100%; white-space: normal; overflow-wrap: anywhere; }
+.source-avatar { width: 21px; height: 21px; font-size: 12px; }
+.data-kind { font-size: 12px; }
+.feed-filter { min-height: 49px; height: auto; gap: 13px; }
+.feed-filter > button { font-size: 15px; padding-top: 10px; }
+.feed-filter > span { font-size: 12px; line-height: 1.6; }
+.stat-top { font-size: 16px; line-height: 1.6; gap: 8px; }
+.stat-value { font-size: 44px; }
+.stat-value > span { font-size: 14px; }
+.stat-detail { font-size: 13px; line-height: 1.8; }
+.stat-card { padding: 22px; }
+.stats-grid { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.hero { min-height: 380px; }
+.hero h2 { font-size: 36px; line-height: 1.5; }
+.hero-kicker { font-size: 12px; }
+.hero-copy p { font-size: 16px; line-height: 1.8; }
+.hero-button { font-size: 15px; padding: 13px 17px; }
+.hero-index { font-size: 10px; }
+.orbit-node > div { font-size: 14px; }
+.orbit-node small { font-size: 10px; }
+.market-preview h2 { font-size: 20px; }
+.full-width-link { font-size: 14px; }
+.map-legend > span { font-size: 12px; }
+.map-legend { flex-wrap: wrap; }
+.brief-teaser .mini-eyebrow { font-size: 12px; }
+.brief-teaser h3 { font-size: 28px; }
+.brief-teaser p { font-size: 16px; line-height: 1.9; }
+.brief-teaser > button { font-size: 15px; }
+.brief-options h2 { font-size: 28px; }
+.brief-options > p { font-size: 16px; line-height: 1.8; }
+.brief-options > label { font-size: 14px; }
+.brief-options > strong { font-size: 16px; }
+.brief-data-count > span { font-size: 28px; }
+.brief-data-count > small, .analysis-mode { font-size: 14px; }
+.brief-data-count { flex-wrap: wrap; gap: 6px; }
+.brief-period input { font-size: 16px; }
+.brief-document { padding: 30px; }
+.brief-document h2 { font-size: 32px; }
+.document-date, .brief-history { font-size: 14px; }
+.report-text, .brief-document .report-text, .ai-response .report-text { font-size: 17px; line-height: 1.9; }
+.brief-empty h3 { font-size: 28px; }
+.brief-empty p { font-size: 16px; line-height: 1.85; }
+.brief-empty > span { font-size: 13px; }
+.detail-note, .source-form .detail-note, .brief-options .detail-note { font-size: 14px; line-height: 1.85; }
+.limit-notice { font-size: 14px; }
+.topic-card h3 { font-size: 22px; }
+.topic-card p { font-size: 16px; line-height: 1.85; }
+.topic-card > small { font-size: 13px; }
+.empty h3 { font-size: 23px; }
+.empty p { font-size: 16px; line-height: 1.85; }
+.delete-source { font-size: 14px; }
+.modal { width: 560px; }
+.modal.wide { width: 800px; }
+.modal-header h2 { font-size: 21px; line-height: 1.5; }
+.signal-detail > h2 { font-size: 30px; }
+.detail-meta { font-size: 14px; }
+.signal-detail > h3 { font-size: 18px; }
+.signal-detail > p { font-size: 17px; line-height: 1.9; }
+.signal-detail > .signal-tags span { font-size: 12px; }
+.implication-box h3 { font-size: 18px; }
+.implication-box p { font-size: 16px; line-height: 1.9; }
+.source-form > .muted { font-size: 15px; }
+.source-form label { font-size: 15px; }
+.source-form input, .source-form textarea, .source-form select { font-size: 16px; }
+.ai-panel-status strong { font-size: 19px; line-height: 1.6; }
+.ai-panel-status p { font-size: 15px; line-height: 1.8; }
+.suggested-questions button { font-size: 16px; line-height: 1.8; }
+.ai-input > input { font-size: 16px; }
+.ai-loading { font-size: 16px; }
+.citation-links a { font-size: 13px; line-height: 1.8; }
+.settings-status { font-size: 15px; }
+.settings-content h3 { font-size: 21px; }
+.settings-content > p { font-size: 16px; line-height: 1.9; }
+.settings-content code { font-size: 15px; overflow-wrap: anywhere; }
+.guide > p { font-size: 17px; }
+.guide h3 { font-size: 19px; }
+.guide section > p { font-size: 16px; line-height: 1.9; }
+.notification-content h3 { font-size: 22px; }
+.notification-content p { font-size: 16px; line-height: 1.9; }
+.error, .toast { font-size: 15px; }
+.bottom-note, .bottom-note > button { font-size: 12px; }
+.main-footer, .main-footer p, .main-footer > span:last-child { font-size: 12px; line-height: 1.8; }
+.main-footer { flex-wrap: wrap; }
+.floating-ai { font-size: 15px; }
+.ai-key { font-size: 12px; }
+
+/* Keep every process and its upper/lower company rows; enlarge the scrollable canvas. */
+.chain-selector strong { font-size: 18px; line-height: 1.6; }
+.chain-selector small, .chain-selector > button.active small { font-size: 14px; }
+.chain-search-row .search-field input { font-size: 16px; }
+.chain-search-row > span { font-size: 14px; }
+.chain-intro > .mini-eyebrow { font-size: 12px; }
+.chain-intro h2 { font-size: 34px; line-height: 1.5; }
+.chain-intro h3 { font-size: 19px; line-height: 1.8; }
+.chain-intro > p { font-size: 16px; line-height: 1.85; }
+.chain-endpoints { font-size: 16px; }
+.chain-endpoints > span:not(.endpoint-line) { white-space: normal; min-width: 0; line-height: 1.7; }
+.chain-guide { font-size: 14px; line-height: 1.8; }
+.chain-theme-heading { flex-wrap: wrap; }
+.chain-theme-heading h3 { font-size: 22px; }
+.chain-theme-heading > span { font-size: 14px; }
+.chain-theme-tabs > button { font-size: 16px; padding: 12px 18px; }
+.chain-scroll-caption { font-size: 14px; line-height: 1.8; }
+.chain-horizontal-scroll { max-width: 100%; }
+.chain-grid { grid-template-columns: repeat(var(--stage-count), minmax(200px, 1fr)); min-width: calc(var(--stage-count) * 210px); }
+.chain-equipment { min-height: 225px; }
+.chain-row-label { font-size: 12px; height: 24px; }
+.chain-company { padding: 14px 13px; }
+.chain-company-name { font-size: 17px; line-height: 1.6; flex-wrap: wrap; }
+.chain-company-name > small { font-size: 10px; }
+.chain-company-role { font-size: 14px; line-height: 1.8; }
+.chain-more, .chain-continues { font-size: 14px; }
+.chain-stage { min-height: 210px; padding: 20px; }
+.chain-stage-number { font-size: 20px; }
+.chain-stage-number > span { font-size: 11px; }
+.chain-stage > strong { font-size: 18px; line-height: 1.7; }
+.chain-stage > small { font-size: 15px; line-height: 1.8; }
+.chain-repeat-note { font-size: 15px; line-height: 1.85; }
+.stage-explainer-heading .mini-eyebrow { font-size: 12px; }
+.stage-explainer-heading h3 { font-size: 28px; }
+.stage-explainer > p { font-size: 17px; line-height: 1.85; }
+.input-output > div > span { font-size: 12px; line-height: 1.7; }
+.input-output > div > strong { font-size: 16px; line-height: 1.85; }
+.stage-watchpoints h4 { font-size: 17px; }
+.stage-watchpoints li { font-size: 16px; line-height: 1.9; }
+.chain-data-note > p, .chain-data-note > button { font-size: 14px; line-height: 1.8; }
+.chain-bottom-cards h3 { font-size: 20px; line-height: 1.6; }
+.chain-bottom-cards p { font-size: 16px; line-height: 1.85; }
+.chain-search-results .section-heading h2 { font-size: 22px; }
+.chain-search-results strong { font-size: 18px; }
+.chain-search-results small { font-size: 14px; line-height: 1.8; }
+.chain-search-results > p { font-size: 16px; }
+.relationship { font-size: 12px; }
+.chain-company-detail > h2 { font-size: 36px; }
+.chain-detail-role { font-size: 18px; }
+.chain-detail-stage { font-size: 15px; line-height: 1.8; flex-wrap: wrap; }
+.chain-company-detail > h3 { font-size: 19px; }
+.chain-company-detail > p:not(.chain-detail-role) { font-size: 17px; line-height: 1.9; }
+.earnings-logic h3 { font-size: 20px; flex-wrap: wrap; }
+.earnings-logic h3 > span { font-size: 12px; }
+.earnings-logic p { font-size: 17px; line-height: 1.9; }
+.chain-company-detail > ul > li { font-size: 16px; line-height: 1.9; }
+
+@media (max-width: 1180px) {
+  .stats-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .dashboard-grid { grid-template-columns: minmax(0, 1fr); }
+  .insight-column { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px; }
+  .brief-teaser { margin-top: 0; }
+  .brief-layout { grid-template-columns: minmax(240px, .65fr) minmax(0, 1fr); }
+  .topic-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .hero-copy { width: 73%; }
+  .hero h2 { font-size: 32px; }
+  .chain-selector > button { padding: 15px 12px; }
+  .chain-selector strong { font-size: 16px; }
+  .chain-selector small { font-size: 13px; }
+  .chain-search-row { flex-wrap: wrap; }
+}
+@media (max-width: 980px) {
+  .page-title-row h1 { font-size: 36px; }
+  .feed-grid { grid-template-columns: minmax(0, 1fr); }
+  .brief-layout { grid-template-columns: minmax(0, 1fr); }
+  .chain-endpoints { font-size: 14px; }
+  .chain-data-note { flex-wrap: wrap; }
+  .chain-data-note > p { max-width: none; flex: 1; }
+  .chain-data-note > button { width: 100%; justify-content: flex-end; }
+}
+@media (max-width: 760px) {
+  nav button { font-size: 16px; padding: 14px 11px; }
+  .topbar { height: auto; min-height: 72px; padding-top: 11px; padding-bottom: 11px; gap: 10px; }
+  .breadcrumb, .breadcrumb strong { font-size: 14px; }
+  .header-actions { gap: 9px; }
+  .page-title-row h1 { font-size: 34px; }
+  .page-title-row p { font-size: 16px; }
+  .chain-selector strong { font-size: 15px; }
+  .chain-selector small, .chain-selector > button.active small { font-size: 13px; }
+  .chain-guide { font-size: 13px; }
+  .chain-intro h2 { font-size: 30px; }
+  .input-output { flex-direction: column; align-items: stretch; gap: 18px; }
+  .input-output > svg { align-self: center; transform: rotate(90deg); }
+  .stage-watchpoints ul { grid-template-columns: minmax(0, 1fr); }
+  .chain-bottom-cards { grid-template-columns: minmax(0, 1fr); }
+}
+@media (max-width: 580px) {
+  body { font-size: 16px; }
+  main { padding-left: 16px; padding-right: 16px; }
+  .page-title-row h1 { font-size: 32px; }
+  .page-title-row p { font-size: 16px; }
+  .eyebrow { font-size: 11px; letter-spacing: .6px; }
+  .demo-indicator { display: none; }
+  .breadcrumb, .breadcrumb strong { font-size: 14px; }
+  .header-actions { flex-shrink: 0; }
+  .scope-tabs button { font-size: 13px; padding: 10px 12px; }
+  .btn, .add-source { font-size: 15px; }
+  .section-heading h2 { font-size: 21px; }
+  .section-heading p { font-size: 14px; }
+  .text-link { font-size: 13px; }
+  .company-label, .feed-grid .company-label, .impact, .feed-grid .impact { font-size: 12px; }
+  .signal-card, .feed-grid .signal-card { padding: 20px; }
+  .signal-content h3, .feed-grid .signal-content h3 { font-size: 20px; }
+  .signal-content p, .feed-grid .signal-content p { font-size: 16px; }
+  .signal-bottom, .feed-grid .signal-bottom { font-size: 13px; }
+  .signal-tags > span, .feed-grid .signal-tags > span, .data-kind { font-size: 12px; }
+  .signal-bottom > span:nth-child(2) { max-width: 100%; }
+  .feed-filter { flex-wrap: wrap; padding-top: 5px; padding-bottom: 5px; }
+  .feed-filter > button { font-size: 14px; }
+  .feed-filter > span { font-size: 12px; }
+  .stat-card { padding: 19px 15px; }
+  .stat-top { font-size: 14px; align-items: flex-start; }
+  .stat-value { font-size: 40px; }
+  .stat-detail { font-size: 12px; }
+  .hero { min-height: 405px; padding: 28px 24px; }
+  .hero-copy { width: 100%; }
+  .hero h2 { font-size: 30px; }
+  .hero-copy p { font-size: 16px; }
+  .hero-kicker { font-size: 11px; }
+  .hero-button { font-size: 14px; padding: 13px; }
+  .insight-column { grid-template-columns: minmax(0, 1fr); }
+  .market-preview h2 { font-size: 22px; }
+  .market-preview .panel-subtitle { font-size: 15px; }
+  .full-width-link { font-size: 14px; }
+  .brief-teaser .mini-eyebrow { font-size: 11px; }
+  .brief-teaser h3 { font-size: 28px; }
+  .brief-teaser p { font-size: 16px; }
+  .brief-teaser > button { font-size: 15px; }
+  .data-notice, .ai-panel .data-notice, .signal-detail .data-notice { font-size: 14px; }
+  .content-toolbar { flex-wrap: wrap; }
+  .search-field input { font-size: 16px; }
+  .content-toolbar select { font-size: 14px; max-width: 120px; }
+  .topic-grid { grid-template-columns: minmax(0, 1fr); }
+  .topic-card h3 { font-size: 22px; }
+  .topic-card p { font-size: 16px; }
+  .topic-card > small { font-size: 13px; }
+  .topic-card .signal-tags > span { font-size: 12px; }
+  .brief-options h2 { font-size: 26px; }
+  .brief-options > p, .brief-options > strong { font-size: 16px; }
+  .brief-options > label { font-size: 14px; }
+  .brief-document { padding: 25px 21px; }
+  .brief-document h2 { font-size: 28px; }
+  .report-text, .brief-document .report-text, .ai-response .report-text { font-size: 17px; line-height: 1.9; }
+  .brief-document-toolbar { align-items: flex-start; }
+  .brief-empty h3 { font-size: 26px; }
+  .brief-empty p { font-size: 16px; }
+  .brief-empty > span { font-size: 12px; }
+  .library-toolbar > .text-link { font-size: 13px; }
+  .modal-header h2 { font-size: 20px; }
+  .modal-actions { flex-wrap: wrap; }
+  .signal-detail > h2 { font-size: 26px; }
+  .signal-detail > p { font-size: 16px; }
+  .source-form label { font-size: 14px; }
+  .source-form > .muted, .source-form .detail-note { font-size: 14px; }
+  .source-form input, .source-form textarea, .source-form select { font-size: 16px; }
+  .form-row { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .ai-panel-status strong { font-size: 17px; }
+  .ai-panel-status p { font-size: 14px; }
+  .suggested-questions button { font-size: 15px; }
+  .ai-input > input, .ai-input > input::placeholder { font-size: 15px; }
+  .settings-content > p, .notification-content p, .guide section > p { font-size: 16px; }
+  .detail-note, .brief-options .detail-note { font-size: 14px; }
+  .bottom-note, .bottom-note > button { font-size: 12px; }
+  .main-footer, .main-footer p, .main-footer > span:last-child { font-size: 12px; }
+  .floating-ai { font-size: 14px; }
+  .chain-selector { grid-template-columns: minmax(0, 1fr); gap: 10px; }
+  .chain-selector > button { align-items: center; padding: 15px 16px; }
+  .chain-selector > button > .small-dot { margin-top: 0; }
+  .chain-selector strong { font-size: 17px; }
+  .chain-selector small, .chain-selector > button.active small { font-size: 14px; }
+  .chain-selector > button > svg { display: block; }
+  .chain-search-row input { font-size: 16px; }
+  .chain-search-row > span { font-size: 13px; }
+  .chain-canvas { padding: 25px 18px; }
+  .chain-intro > .mini-eyebrow { font-size: 11px; }
+  .chain-intro h2 { font-size: 28px; }
+  .chain-intro h3 { font-size: 17px; }
+  .chain-intro > p { font-size: 16px; }
+  .chain-endpoints { flex-wrap: wrap; font-size: 14px; gap: 12px; }
+  .chain-endpoints > span:not(.endpoint-line) { flex-basis: 100%; justify-content: flex-start; }
+  .endpoint-line { display: none; }
+  .chain-guide { font-size: 13px; }
+  .chain-theme-heading h3 { font-size: 21px; }
+  .chain-theme-heading > span { font-size: 13px; }
+  .chain-theme-tabs > button { font-size: 15px; padding: 11px 14px; }
+  .chain-scroll-caption { flex-wrap: wrap; font-size: 13px; }
+  .chain-scroll-caption > span:first-child { max-width: none; }
+  .chain-scroll-caption > span:last-child { font-size: 12px; }
+  .chain-grid { grid-template-columns: repeat(var(--stage-count), minmax(200px, 1fr)); min-width: calc(var(--stage-count) * 210px); }
+  .chain-company-name { font-size: 17px; }
+  .chain-company-role { font-size: 14px; }
+  .chain-stage > strong { font-size: 18px; }
+  .chain-stage > small { font-size: 15px; }
+  .chain-repeat-note { font-size: 14px; }
+  .stage-explainer-heading { flex-wrap: wrap; }
+  .stage-explainer-heading h3 { font-size: 25px; }
+  .stage-explainer-heading .mini-eyebrow { font-size: 11px; }
+  .stage-explainer-heading .outline-badge { font-size: 12px; }
+  .stage-explainer > p { font-size: 16px; }
+  .input-output > div > span { font-size: 12px; }
+  .input-output > div > strong { font-size: 16px; }
+  .stage-watchpoints h4 { font-size: 16px; }
+  .stage-watchpoints li { font-size: 16px; }
+  .chain-data-note > p, .chain-data-note > button { font-size: 13px; }
+  .chain-bottom-cards h3 { font-size: 20px; }
+  .chain-bottom-cards p { font-size: 16px; }
+  .chain-search-results .section-heading h2 { font-size: 20px; }
+  .chain-search-results strong { font-size: 17px; }
+  .chain-search-results small { font-size: 13px; }
+  .chain-search-results > p { font-size: 16px; }
+  .chain-search-results .text-link { font-size: 12px; }
+  .chain-company-detail > h2 { font-size: 32px; }
+  .chain-detail-role { font-size: 17px; }
+  .chain-detail-stage { font-size: 14px; }
+  .chain-company-detail > p:not(.chain-detail-role) { font-size: 16px; }
+  .earnings-logic h3 { font-size: 18px; }
+  .earnings-logic h3 > span { font-size: 12px; }
+  .earnings-logic p, .chain-company-detail > ul > li { font-size: 16px; }
+}

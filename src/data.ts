@@ -58,6 +58,13 @@ export type Signal = {
   isDemo: boolean;
   tags: string[];
   implication: string;
+  articleDetails?: {
+    notes: { keyTakeaways: string; evidence: string; businessImpact: string; followUp: string };
+    sourceExcerpt?: string;
+    retrievedAt?: string;
+    originalUrl?: string;
+    contentHash?: string;
+  };
 };
 
 export const signals: Signal[] = [
