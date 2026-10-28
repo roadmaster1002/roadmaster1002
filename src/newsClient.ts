@@ -37,7 +37,7 @@ export function useLatestNews() {
       // The production site reads the public scheduled snapshot. It never scrapes
       // publishers or sends the browser's private research notes to GitHub.
       const url = window.location.hostname === 'roadmaster1002.github.io'
-        ? 'https://raw.githubusercontent.com/roadmaster1002/roadmaster1002/main/public/latest-news.json'
+        ? `https://raw.githubusercontent.com/roadmaster1002/roadmaster1002/main/public/latest-news.json?refresh=${Date.now()}`
         : new URL('latest-news.json', document.baseURI).href;
       const response = await fetch(url, { cache: 'no-store', signal: AbortSignal.timeout(10000) });
       if (!response.ok) throw new Error(`뉴스 갱신 파일을 불러오지 못했습니다 (HTTP ${response.status}).`);
