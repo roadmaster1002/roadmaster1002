@@ -7,17 +7,26 @@ import { fetch, ProxyAgent } from 'undici';
 
 export const QUERIES = [
   { companyId: 'ncchem', query: '(photoresist OR "EUV materials" OR JSR OR "Tokyo Ohka" OR "semiconductor chemicals") when:90d' },
-  { companyId: 'kci', query: '("conditioning polymers" OR polyquaternium OR "hair care ingredients" OR "Samyang KCI") when:90d' },
-  { companyId: 'verdant', query: '(surfactant OR biosurfactant OR Stepan OR Nouryon OR "Verdant Specialty") when:90d' },
+  { companyId: 'kci', query: '("conditioning polymers" OR polyquaternium OR "hair care ingredients" OR "Samyang KCI" OR Ashland OR Lubrizol OR Inolex OR "Croda Beauty" OR "Evonik Care Solutions") when:90d' },
+  { companyId: 'verdant', query: '(surfactant OR biosurfactant OR "Stepan Company" OR Nouryon OR Innospec OR "Verdant Specialty") when:90d' },
 ].map((source) => ({ ...source, url: `https://news.google.com/rss/search?${new URLSearchParams({ q: source.query, hl: 'en-US', gl: 'US', ceid: 'US:en' })}` }));
 const COMPANY_IDS = new Set(QUERIES.map((source) => source.companyId));
 const MAX_FEED_BYTES = 2 * 1024 * 1024;
 const SPAM = /market\s+size|\bcagr\b|market\s+research\s+report|market\s+(?:report|to\s+(?:reach|grow))|growth\s+(?:forecast|projections?)|\b20\d{2}\s*[-–]\s*20\d{2}\b/i;
 const RELEVANCE = {
   ncchem: /photo\s?resist|\beuv\b|tokyo\s+ohka|semiconductor\s+(?:chemical|material)|electronic\s+(?:chemical|material)|포토레지스트|감광|반도체.{0,15}(?:소재|화학)|엔씨켐|(?:\bjsr\b|\btok\b).{0,80}(?:material|chemical|semiconductor|resist)|(?:material|chemical|semiconductor|resist).{0,80}(?:\bjsr\b|\btok\b)/i,
-  kci: /conditioning\s+polymer|polyquaternium|hair\s?care.{0,40}(?:ingredient|condition|polymer)|(?:ingredient|polymer).{0,40}hair\s?care|samyang\s*kci|삼양\s*kci|컨디셔닝\s*폴리머|폴리쿼터늄/i,
-  verdant: /surfactant|biosurfactant|nouryon|verdant\s+specialty|계면활성|(?:\bstepan\b).{0,80}(?:chemical|material|personal|care|plant|earnings)|(?:chemical|material|personal|care|plant|earnings).{0,80}\bstepan\b/i,
+  kci: /conditioning\s+polymer|polyquaternium|hair\s?care.{0,40}(?:ingredient|condition|polymer)|(?:ingredient|polymer).{0,40}hair\s?care|samyang\s*kci|삼양\s*kci|컨디셔닝\s*폴리머|폴리쿼터늄|\blubrizol\b|\binolex\b|croda\s*beauty|evonik\s*care\s*solutions|\bashland\b.{0,80}(?:company|chemical|personal|care|earnings|results|revenue|quarter|financial|ingredient)|(?:company|chemical|personal|care|earnings|results|revenue|quarter|financial|ingredient).{0,80}\bashland\b/i,
+  verdant: /surfactant|biosurfactant|\bnouryon\b|\binnospec\b|verdant\s+specialty|계면활성|\bstepan\b.{0,80}(?:company|chemical|material|personal|care|plant|earnings|reports|results|revenue|quarter|financial)|(?:company|chemical|material|personal|care|plant|earnings|reports|results|revenue|quarter|financial).{0,80}\bstepan\b/i,
 };
+
+function relevant(companyId, title) {
+  if (!RELEVANCE[companyId].test(title)) return false;
+  // Corporate results are MI context, not proof of a particular care product.
+  // Ambiguous place/person names need additional protection from unrelated news.
+  if (companyId === 'kci' && /\bashland\b/i.test(title) && /\bashland(?:,?\s+)(?:oregon|kentucky|wisconsin|ohio|virginia)\b/i.test(title) && !/\blubrizol\b|\binolex\b|croda\s*beauty|evonik\s*care\s*solutions|chemical|ingredient|polyquaternium/i.test(title)) return false;
+  if (companyId === 'verdant' && /\bstepan\b/i.test(title) && !/\bstepan\s+company\b|\bnouryon\b|\binnospec\b|verdant\s+specialty|surfactant/i.test(title) && /politic|election|parliament|minister|mayor|president|football|hockey/i.test(title)) return false;
+  return true;
+}
 
 export class FeedError extends Error {}
 
@@ -93,7 +102,7 @@ export function parseRss(xml, companyId, now = new Date()) {
     const description = plain(tag(raw, 'description')).slice(0, 1600);
     // Search-feed descriptions can contain related-link lists; require the
     // headline itself to match the business rather than importing those lists.
-    if (SPAM.test(title) || !RELEVANCE[companyId].test(title)) continue;
+    if (SPAM.test(title) || !relevant(companyId, title)) continue;
     const publishedAtISO = published.toISOString();
     if (!fresh({ publishedAtISO }, now)) continue;
     const sourceUrl = link.href;

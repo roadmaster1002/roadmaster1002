@@ -45,6 +45,22 @@ test('each query matches its company market and duplicates merge company associa
   assert.deepEqual(duplicate[0].companyIds, ['kci', 'verdant']);
 });
 
+test('broader competitor queries retain corporate MI while excluding ambiguous Ashland places and Stepan people', () => {
+  const kciQuery = QUERIES.find((source) => source.companyId === 'kci').query;
+  for (const name of ['Ashland', 'Lubrizol', 'Inolex', 'Croda Beauty', 'Evonik Care Solutions']) assert.ok(kciQuery.includes(name));
+  const verdantQuery = QUERIES.find((source) => source.companyId === 'verdant').query;
+  for (const name of ['Innospec', 'Stepan Company', 'Nouryon', 'Verdant Specialty']) assert.ok(verdantQuery.includes(name));
+  const acceptedKci = ['Lubrizol announces corporate expansion', 'Inolex names new executive', 'Ashland reports quarterly financial results', 'First quarter earnings at Ashland', 'Croda Beauty introduces ingredient', 'Evonik Care Solutions announces development'];
+  for (const title of acceptedKci) assert.equal(parseRss(rss(item({ title })), 'kci', NOW).length, 1, title);
+  const rejectedKci = ['Ashland Oregon city council results', 'Ashland Oregon care center annual festival', 'Ashland local football match'];
+  for (const title of rejectedKci) assert.equal(parseRss(rss(item({ title })), 'kci', NOW).length, 0, title);
+  const acceptedVerdant = ['Stepan Company reports third quarter results', 'Stepan reports financial results and revenue', 'Innospec announces earnings', 'Nouryon announces corporate investment'];
+  for (const title of acceptedVerdant) assert.equal(parseRss(rss(item({ title })), 'verdant', NOW).length, 1, title);
+  const rejectedVerdant = ['Stepan wins election', 'Stepan reports election results', 'Minister Stepan reports political results', 'Stepan scores football goal'];
+  for (const title of rejectedVerdant) assert.equal(parseRss(rss(item({ title })), 'verdant', NOW).length, 0, title);
+  assert.equal(parseRss(rss(item({ title: 'Lubrizol market size CAGR 2026-2035' })), 'kci', NOW).length, 0);
+});
+
 test('invalid XML, external entities, feed errors and redirects never get treated as articles', async () => {
   for (const xml of ['<html>403 Access denied</html>', '<!DOCTYPE rss [<!ENTITY xxe SYSTEM "file:///etc/passwd">]><rss><channel></channel></rss>']) assert.throws(() => parseRss(xml, 'kci', NOW), FeedError);
   await assert.rejects(() => fetchFeedXml(QUERIES[0].url, { fetchFn: async () => new Response('do not expose credential=secret', { status: 403 }) }), /HTTP 403/);
