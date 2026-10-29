@@ -1,10 +1,234 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-10-28T08:16:02.455Z",
-  "updatedAtISO": "2026-10-28T08:16:02.455Z",
-  "lastSuccessfulAtISO": "2026-10-28T08:16:02.455Z",
+  "attemptedAtISO": "2026-10-29T02:03:17.431Z",
+  "updatedAtISO": "2026-10-29T02:03:17.431Z",
+  "lastSuccessfulAtISO": "2026-10-29T02:03:17.431Z",
   "status": "ready",
   "items": [
+    {
+      "id": "news-acfcd76469a9dcd3f8a7",
+      "title": "Surfactants and Temperature Steer Which Microalgal Compounds End Up in Extracts",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTY0TGVvYWVhTU9ieUhnTFIzSWo2cXoyTU5udUVQSFp1YlpfQmY5ZFF4R3lWVk9fVHMyV1NMSVlXYUlNZ2cwRF9KRHd3aXU2eW5lOHVrM0pHN0Q2WUg3ZTdsUG8xN0cxU2tSRnFCQ2VIWmZxdXV3Nl8xNEYyelVGOWJlUmo1czZhZkE5akdWS3RqRFJNaG5Ub2c2NzJQQVZnSi01UnRvbw",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-10-28T22:47:30.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactants and Temperature Steer Which Microalgal Compounds End Up in Extracts Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-e52e88bc9233cf2eab72",
+      "title": "Ashland County Mental Health & Recovery Board celebrates people behind community care",
+      "sourceName": "Ashland Source",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSmtKc2pTREpnajVZR09ZMXg3NlctbEdEZGJGeXhvME44M3lHbGZJN2JpUTdjZHdrdWljOXg3RDltVUQ4N0JtcHBJUGN5dFJmVzZ2M0VaSHQ4VjctbzEtLTBGdnBnT1dBenZBY3BISHhtNDdxbXBOOWxQOEZWWDRPQTF6Sl9va0d5b3JRRUlWY0lOUGI2VF9CQ3JRMFVrd0ota29VdXlSbkJibmRDdlhGUHpMcTAzUmNGeHAxSExoaVlucTg",
+      "publisherUrl": "https://www.ashlandsource.com",
+      "publishedAtISO": "2026-10-28T19:38:07.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland County Mental Health & Recovery Board celebrates people behind community care Ashland Source",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-32332a35560666223f0b",
+      "title": "Lubrizol CEO warns surging energy costs could steer manufacturers away from Northeast Ohio",
+      "sourceName": "Crain's Cleveland Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTc0YUR3c0VYa0p2QWdEWURGRXp1dFdUbG5rRkQxV3JTWDBWcy1keEgxOXRBOVZfVnlzS1V0b01zbnJ1Y0hiYUpxRkczRUlTd3N2X3R6d25yMDBxbEZ4dTdwbFc2eUZwTmJMTUwzNXR2dWxVSnVVejA3NVZxMlB5b0NxZ3NmeExk",
+      "publisherUrl": "https://www.crainscleveland.com",
+      "publishedAtISO": "2026-10-28T19:15:00.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Lubrizol CEO warns surging energy costs could steer manufacturers away from Northeast Ohio Crain's Cleveland Business",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-93ce4905666f94e5045e",
+      "title": "Stepan Company Q3 2026 Earnings Call Summary",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQajd4RUx3ZEdMWms2UWlwUzV2dHpMenJOb29rNEY4bWdSWkNnODU1dlVOQ2RaX2t1YnI0dkgxQ0ItLXNIZm8wSk9VWW1HbFdQR1VhN1d5QUdmaXVkY0sxX295N1hkdUFlRmFPb0VtTFJuQ1ZBLU0xVUJCcnJwTk1HdWI2Qm5QcXIySF8tN3FsalpsSGljYzJuQjdaZnc",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-28T17:15:40.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Q3 2026 Earnings Call Summary Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-fffc754b8b25d1f77b65",
+      "title": "Scalable nanoimprint manufacturing of achromatic metalenses based on a high-refractive-index and low-shrinkage photoresist",
+      "sourceName": "EurekAlert!",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNkVsd0NoVXRfY3g5cy14b25ZQVFKaF9sbUtsZUtIVmZXSjlOVzRxVWpQTWpYd2FmS2lxOFNHTUVqOGNXZ2daTDJMUHJ5Z0hHMVBBc2cxOWdldk0w",
+      "publisherUrl": "https://www.eurekalert.org",
+      "publishedAtISO": "2026-10-28T15:06:36.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Scalable nanoimprint manufacturing of achromatic metalenses based on a high-refractive-index and low-shrinkage photoresist EurekAlert!",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-b8ddcd44f5d787354a1a",
+      "title": "Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase",
+      "sourceName": "Kalkine Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2p4VEVrRXlfZXpiTXFMVzZBaUlsaTA1UHV4bzBXekV6cEppWkRxX1ZyaW5WbnFpOGd2TGVWampOVlA4elpJWkF6MjItNlZFVllDMmNLcEs5eXR6Um91d0JxVWwxTEhtYnV3VEJ6czVGSjYwUHhUcEZ0U05hamlTb19TNVpNTlhiV0psaHdCbnVpUG1ia1hsdlctRmxBM25tU3FTTERhMGNfbUYxY1FzUGdiS0dNSE1vYVc5c1RMLWY4a0l4WnoxWmNyWVBQc2M",
+      "publisherUrl": "https://kalkinemedia.com",
+      "publishedAtISO": "2026-10-28T13:28:33.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase Kalkine Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-e9116c43ff914bac41ad",
+      "title": "BASF expands bio-based surfactant capacity in Cincinnati, US",
+      "sourceName": "ALCHEMPro",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3RqeEZTVTluekJXdFJidFpUVVQ1R0Myd2NkY1VZYnRSV25pZDhMOXRkcFJDY3Z1emwyMFBrSHhxN1Q1YzJSVjltVGZlbDRuOGhLa3pWWXlVR19nUEdHUVNobWRNRzFrejVhWjFfc0JZNTFMX3VSR1NadDdtNTJiMEZNZm9kUkVXNHF5WWYtZjZhcEtIYk9mNTdiQXJzYmdOaEZmZGp3X25BSnZnOGVuTUNyeW9oQVRiOFh3TnJMRnc1Ti1ESlpF",
+      "publisherUrl": "https://www.alchempro.com",
+      "publishedAtISO": "2026-10-28T13:18:45.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): BASF expands bio-based surfactant capacity in Cincinnati, US ALCHEMPro",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-82826ec57a133e742dc7",
+      "title": "Waste-Fed Microbes and Smart Statistics Could Cut Biosurfactant Costs",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3AtWHhlNWFKcjRmMElYcTlMWnlaa3lhb1BDNk5WN0p0ZzFWOGNhM1p5dkxkbExTcXJVR0ZKckdYb2hHdEpEdVhFZFE4ZU5abkxYSE9jQnR6a1FXWkRKZ2xaVTc1MXg2b1JJZTk5NzRMQTRWdjR6WXNnODVwNlBMb2JIUk13eGpkYnZORGJBcEdWZ0hMc1NwVzd3",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-10-28T13:06:56.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Waste-Fed Microbes and Smart Statistics Could Cut Biosurfactant Costs Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-2d007abfcc9251893fd8",
+      "title": "Stepan Company (SCL) Q3 FY2026 earnings call transcript",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWV9hNDRjc2FQV3V5bWtoVXNnMFBzdlp2ZS1uZkFoMFNiRVNkMDgxdS1lLV8zbUl2WTV4MHUxYVRzN19hMGZ3N1I4dFk3SjlYaXV4ajhET2szU3E2djd4VEpzUVNGcjM1RG43NFVjbk9yQ1lDNjJfT3hwbFFWS251T1pzUkQ5dTN2c0E",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-28T13:00:00.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Q3 FY2026 earnings call transcript Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-8a0972c8a2b453d2207c",
+      "title": "Stepan Company Q3 2026 Earnings Call Is Live",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2JmbXRWVmlJQXlzSk0wQko1bFJqVnFxQmJaTEdIS0RFZG5oVGQtb2RpcmJYb1V4M0pMaFE2dHhlaHB3TllKX3Z3bkFoc2JxV1VGcnUyZi1oeTA0dGE5ZlJSLU5jYW1sYnFnSUN4cWZpazNSUHdIem5SUU1RblhWcExXLW94amZFb2ZnNEoxMG1LQ29CdTh3aEdFeE5QNlhmT1R6eVRYMmVCa3FBQ08wdm9aZw",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-10-28T12:57:03.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Q3 2026 Earnings Call Is Live TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-8713e0e2ab54af9b41b6",
+      "title": "Earnings Flash (SCL) Stepan Company Reports Q3 Revenue $692.2M, vs. FactSet Est of $634.3M",
+      "sourceName": "marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzdjQlBXV1k5XzZ4WjZVb0ZheWhBRVhhc0trZU9WMWV4UmgzS3V0V09BNGZOY3c1ekJFNzF6MFliN3RCampwclVMc1JmSmRxTUIxUTFMa0Z2dDdQWjFqelhZQ0dCTUh2NXJVV3VibjRMNEJmQ1JXVDF2c1k4M0RuazhWelBPcEFwS0hjUzRMOFZLRzNRd1llM0VtLUJpcWZBRFMzakVsNWJTTGlNNDV0ak9FcTdGUnpLS1pnSjNhMUhVMHFiU3Q0X1FpbGZjTnVod2J3",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-10-28T12:13:21.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Earnings Flash (SCL) Stepan Company Reports Q3 Revenue $692.2M, vs. FactSet Est of $634.3M marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-1dc136c1c6d92aebed7e",
+      "title": "Stepan Company Increases Quarterly Cash Dividend, Payable on December 15, 2026",
+      "sourceName": "marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxONXhsVFRCOURFMGw0SUxub1hiV0lJSmZBNHpLQ1lYWlQwSlRhckM5UzdxTUs2VjJWT2xOMkk2dF9id1FwSDF3QUQwM3lyNXRnVlNqRUliaTlYMVgyUDRXdDVKWGNNM0NNOUNlTVItVzZxX2VGUW05aGlnUlNmNUJVU25xSkV4M094UHQ5YzYxaWlkYXl4azEzWHM0ajNtY2lfY283aXdfZFhDOFVtczdjdkFFSnpWQTNWM1ZCOHBlbGc4anJQTXhaeA",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-10-28T12:06:38.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Increases Quarterly Cash Dividend, Payable on December 15, 2026 marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-9f74617089f4e988cad5",
+      "title": "Stepan Q3 2026 Earnings: Surfactants Drive 18% Adjusted EBITDA Growth",
+      "sourceName": "TradingKey",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NOEF6UHJfeUtMaGExQVRid2R1ZUZYcFh3MEg1TkhrNjBjNWs1dUZTQnR5TW1nOGxxWmhGd2dBUGxWWDdPVWZDdWZobVJBVXRfVWM3N2NFZ0g5ZkgzRmFEbGZzdUJYMWFUekxuX1Z3",
+      "publisherUrl": "https://www.tradingkey.com",
+      "publishedAtISO": "2026-10-28T11:30:16.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Q3 2026 Earnings: Surfactants Drive 18% Adjusted EBITDA Growth TradingKey",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f7e54a3fbcf0d543d6d3",
+      "title": "Stepan Company (SCL) Raises Quarterly Dividend to $0.405",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNY3JCdDFWUHlQRU9UenJNWXRNVC1Da2d6UXEwSlZ5OGV1eWZIb3VwTjd6RWVPRDF6TzkzUE91M2xiaWVvTlp3U09Rd0hTR21OTzBYeXNaYWNaVTJRTU5kNGU4WlNjUGY5b0gxaENNdWxLT2RVb0U1LVVGX2lLVG1fMW9EY3d4TzFHMVU3QjBrNXQ3bXlyallwY0hDc2RRWFJWenA4WTB5N2k3NDh0TW5uODNISmRLUQ",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-10-28T11:00:00.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Raises Quarterly Dividend to $0.405 TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ecd445372e203b87f9dc",
+      "title": "Stepan Increases Quarterly Cash Dividend, Marking the 59th Consecutive Year of Increases",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNemdyMHh4cmVtMFVJWDgyb0JoSXNQQlhlSjNEbUl1amRrYW8wVmpnY0NsMzhfMDhrRThWTHgwaFI0Q0x5aW1vQ0NCemhuRjZqYkpUZVhzelowUUU5c3ZOU05lRUd4MDVlbjcyTndyRE1QUkxmWWNMNkZXcGtrQU9EN3BTbVB5NHlBaU84S0xmbHgwS3hnSUNDa19hTkY3UTl6M2hXdFBSWFBGalVtQldrQlVULTZsMHowSTM4a1llOEdjZ2JfRVM3NEdWUnRiaU9NeGktUTFsaEpMbnpSa2UzODBn",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-10-28T11:00:00.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Increases Quarterly Cash Dividend, Marking the 59th Consecutive Year of Increases TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-5789fe354aab9ce830eb",
+      "title": "Stepan Reports Third Quarter 2026 Results",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRDRPaXNNSkhYcXEweTRXR3RWNndXanJ3aFJXNGVkY0NBQXZOOUw5TjlTR2I3SjRxYzBBWUFXMFFZVDB4VU12ZHhhazNGdXU3VzN3a1ByQ1lpWFcxWTI2VXpMRkNqUGtpV2dxVXoxUFRIYVFCdktsYkg5YXdTNDlDUzV1d3ZtbUZsOFl1TDJQd0U3YnpOWnZkaF83YWctelQ0QUd4QQ",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-10-28T11:00:00.000Z",
+      "date": "2026-10-28",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Reports Third Quarter 2026 Results TradingView",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-921a06754e629e3cc5c4",
       "title": "Mixing Natural and Synthetic Surfactants Reshapes Micelles, CMC and Surface Activity",
@@ -20,17 +244,31 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-16f23216459de074a6da",
+      "id": "news-6fe46606080ef7e33eed",
       "title": "Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-      "sourceName": "Yahoo Finance UK",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYTRTTzRRVzhuLXBRVWx1bTBGRERWVXJobEd1RVFSUWJRaDhXTFJkX2JtaEcyMkZuZm1mU1cyTWt2NmE2NlcwelBSTU5VV0g4eGxJVWZURVpUdEN3WEZ3aXFMbTZrRkJsWWpxUC1ZZWhmaWtHQzBvR3ZnOFcwdWtRNDU4d2NKVEVWb3J0RDNB",
-      "publisherUrl": "https://uk.finance.yahoo.com",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdmdmE5V29IN2V2bUo3X3VKeHRZZGNRV1l5VVJJMm9SU1h6ajhGUmYzeGM3aVpUb085UjY3bXpxbTE2ak90b3Vnc0Q2RUJ2V0M5aHd6Q2xlN01HMmJIcWIyN0JNTHQwaTJ3OTRPN0VXTG45VUQ1X3drckdrTF9BSXV2SVhEWS1HeWEzY2otX3Y1WGJWUUI0WHVCYU1TUnZQR3Jv",
+      "publisherUrl": "https://finance.yahoo.com",
       "publishedAtISO": "2026-10-27T13:00:14.000Z",
       "date": "2026-10-27",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance UK",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ed9dbeeca81bfa3b7982",
+      "title": "Ashland (ASH) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYTlDUmVMRU5ZcG5yeUhOcGNFTEE5TjBvSExoR1FlTWJhenJKZjNvNTgtOWoteU1NdFY1VDJpa2lsMVdhbHBPVGRrLWJOTUxUaTlpQmh6YWtqZFdsVUM2UmxPZnV0N0FHUmFGQ3FFY05Yb01yWWdlb3dYUndHZk1XZWFZNU92aHFrWHBiNkxocGhvMkQ2RTNJMFpidVJ5V3o1",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-27T13:00:05.000Z",
+      "date": "2026-10-27",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland (ASH) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance",
       "verification": "feed-metadata"
     },
     {
@@ -48,45 +286,31 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-b9176c1aa69488b5d2f2",
-      "title": "Innospec Inc stock hits 52-week high at 100.48 USD By Investing.com",
-      "sourceName": "Investing.com Nigeria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXVpdmp6OXE1Sk9jSVBIMVJXUXdIM1dEdnVUYjFXWGtRcXdkb2x6VTJRVm5fRmNPWUVlSjl5Z1RIaDg5dUJvWXVkSVFyMXgtbnh0cTdfVW5fUHEzWkI0TGdMVDg4WC1iZjZhX0dsT3U4QXZ4TE4xRW9ObW1UOVBUWGIwNUxZZmJSajNBQmJvOFlpV1dudjlVcHFQZlNsc24tQkhUNmR4V3AyS0ozeEE",
-      "publisherUrl": "https://ng.investing.com",
-      "publishedAtISO": "2026-10-26T17:30:31.000Z",
+      "id": "news-4f63135c18f0aa6a20b2",
+      "title": "Innospec Inc stock hits 52-week high at 100.48 USD",
+      "sourceName": "Investing.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanhDYnhfcHR6VHRPMTZHYmFWWE5WZ1NMbEp3LTFPLXhyU2tSbTFCZWdQcXZMRFVMcGZnVDl2OHlyUnJRZE5fWC1vdkt0akdMRmJTWExMb3VSSEZnSm9LMW1fT09xWUROVkMxWlNoMURaTGxDZHdTT0VTTTV6Yk9qb2FwcUwtbWVhbWwxcV9HRml5cGlCVTg4Y1EzUmRsRGJXVzRtb2NrVXg",
+      "publisherUrl": "https://www.investing.com",
+      "publishedAtISO": "2026-10-26T17:23:57.000Z",
       "date": "2026-10-27",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc stock hits 52-week high at 100.48 USD By Investing.com Investing.com Nigeria",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc stock hits 52-week high at 100.48 USD Investing.com",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-439b8c96d9071bbb3242",
+      "id": "news-eba7683cd56e90b4d236",
       "title": "Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals",
       "sourceName": "Indiatimes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPa0FYYVEzLXN1UDUwd0NHNks2WS1hS0t6OWlwbE1JM3FzaUlfdlBESFV1MlhKZ0xEZ1hsVlpza3NkcHh2RFlLZWpSOVoyc0tUN3VVQUNEMWM4SjNaQU5kNUNzSnhSRUI3VWFQbk5NQU5zYVltZTNQUV9nd2ppUUpHWFI3S2o2MlN0VVJpaEM1dHg4MmFfbENYbzl5LUFiem5nbER0aGxyMkk4eGRkUUJqOFpMSm9GRV80OENJMXB5SzRPcFRJQjlsci14TndnSHRSOVNQcUlYMTJRX2ZldWpZSW1DQ0w5ekZhcURnTFI5aEJCQnRrenZQSHhXczE4c2NYVlpYa2ln0gGKAkFVX3lxTE9TdUpFeXRvMWNtTWloeWhzYmFraWgxLWY4cnJoTWd3ZVRqamx2US05c3FqVVhHNEtROURQbHZZcFc3MXFpWTVjMlEyVDRuUVBlSVpGbzQxY191cDR5SDNKeVhKaFd0Y0dRUXBqa0lBXzFOMDNDY2E3bWQ2cDczZW5HSWVKZkpEOFVzOFd6STBGTlV5Q1lhUWZYR0J2ZHNLd2ZabjVTZHBsVV9XT0JoNHFOSW5fWkdnQlBnVVVoNE1qeWNWNkFydzNUTzBNOWgwUDNzcG5lc3F0WTNwX3luYnBnQndXMDlVZkNlNWRYZFIwWjhIazZXVmcyd21DeUQ2TzhGbWZBSFJHdDlR",
-      "publisherUrl": "https://chemicals.economictimes.indiatimes.com",
-      "publishedAtISO": "2026-10-25T16:48:46.000Z",
-      "date": "2026-10-26",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UdIBigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UQ",
+      "publisherUrl": "http://chemicals.economictimes.indiatimes.com",
+      "publishedAtISO": "2026-10-25T12:32:47.000Z",
+      "date": "2026-10-25",
       "companyIds": [
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals Indiatimes",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-5abca2e72c648a3502b4",
-      "title": "Coagulation Aid Surfactant Compounds for Wastewater Treatment Market in Africa: Size, Trends and Forecast to 2035",
-      "sourceName": "IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSHVmckh0TW5QcW5vZlhrUjlGcVhIblVMczA4WnpyZDVybm9HanhXUGo1RnM2Wmh5UGZTX1A2SlZjZTctNTdkQVpJbG85bVlKbzJ3TjlaM1NKbE5oQ0hMb3A5bDh4WmFBNDlOQ0dBZGUtUWNKazkzYWktWDNpU1ZSR21GQkJKejlpWVZsam9NX3lOMllOVjdLS0NBZFc1WVdTRmxaaDRveW9zT3ZmR002VHBhT1BaTGdiSUJpV2FGRE1hS3NrME9wSkZ0MWd6d2N1MGZYdHBCX2pUYWRwQ3BxTUVHZw",
-      "publisherUrl": "https://www.indexbox.io",
-      "publishedAtISO": "2026-10-25T07:00:00.000Z",
-      "date": "2026-10-25",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Coagulation Aid Surfactant Compounds for Wastewater Treatment Market in Africa: Size, Trends and Forecast to 2035 IndexBox",
       "verification": "feed-metadata"
     },
     {
@@ -146,6 +370,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-dab0cc7a4d9f474648be",
+      "title": "Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dVp0amhhNEZremxFdWxuVUtZcVJJbmU5U3AtSnZwY0p0Yzl4dF9FbGN1S3NST0dRUG5zMW00TDFwY0otdW1JYVZfVFpxSFhERzZuUGpSc3JiaVlZNjc5UXU2cXpvcGc",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-10-21T11:18:41.000Z",
+      "date": "2026-10-21",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-73b9ca8a0cab2aaf3f2a",
       "title": "Stepan Company (SCL) Stock Forecasts",
       "sourceName": "Yahoo Finance",
@@ -157,34 +395,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Stock Forecasts Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-04205177712b0feeaafb",
-      "title": "Stepan Company (SCL) Edges Up 1.24% to $63.19 as Specialty Chemicals Name Holds Above $60 Support - Safe Entry Stocks",
-      "sourceName": "https://www.dars.gov.et/",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0NTM3ozUzFQdEpsRkFxbnVmNjFVaGRLQmlxdnE1LWpxVHVfbHNXTjdfRXd6TDhRcEFMbl9MY3VQc2paVUszWVlPMHM3VTRua2l5YzBLN0l3V3JUX3IwYUVHQXhwRG02ZkotMVB3NjNhUWlweG8zM09UZDFZOTR3V21vU0tQNHRSdE40QUFHcXFNSF93cTZiNWh1UldxMkRxd3FxOXA0UjQzZktoTXFTTEhSNGVwUDRfbW9oVG5USlFtQUhUYmlYS3BwdDZnckE",
-      "publisherUrl": "https://www.dars.gov.et",
-      "publishedAtISO": "2026-10-20T19:42:37.000Z",
-      "date": "2026-10-21",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Edges Up 1.24% to $63.19 as Specialty Chemicals Name Holds Above $60 Support - Safe Entry Stocks https://www.dars.gov.et/",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-cb2abe0aa41cf5cd7622",
-      "title": "Innospec schedules November 3 results for Innospec stock investors",
-      "sourceName": "ad-hoc-news.de",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNT1ZRZk9tQVU0amdsR2ZzX2V6RVdyeGRPRmpSY0xPT2U4YUNFSGI1VmQ0Ykl4TzdWUkpiQzJVZHJRSW1YMUVwc1phNUxQU01BNjBoa094WUJxMG83SThPeUdYZG5ZNWpfQ1Jldlh3NUV1YXpDd015UkxaQ2x1dW0zMURWNi1NUFFKZE9JM1M4NlVOVlJlZGU0MjdTejc1R0Q4YmxURkJxbU1uaEFCVEI0VURXbksweEFpVURmaG1ieFMtdXc",
-      "publisherUrl": "https://www.ad-hoc-news.de",
-      "publishedAtISO": "2026-10-20T19:38:20.000Z",
-      "date": "2026-10-21",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec schedules November 3 results for Innospec stock investors ad-hoc-news.de",
       "verification": "feed-metadata"
     },
     {
@@ -202,45 +412,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-a63d9ac1ef955bdf858b",
-      "title": "Battle brews over proposed personal-use airstrip in Ashland",
-      "sourceName": "Rogue Valley Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWgyYVpNa0lHTzV4bUFxYXZlWE5aUzM5VGxsYkh5ZzdzMS1KY3U4YWtiV3JBaHpDQnNLUU9ob2lia0kxUl9yRngxV0M1RG1UWmxFaW9oTmhqblRjYzBaNHVWSlRUWm5XS041YzZUSXZRYlpGU0hKYjdMT1Z3VFlHUGRyVDJzVW9sYUZlOGFZRWFISGRCMVIw",
-      "publisherUrl": "https://rv-times.com",
-      "publishedAtISO": "2026-10-18T13:04:58.000Z",
-      "date": "2026-10-18",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Battle brews over proposed personal-use airstrip in Ashland Rogue Valley Times",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-dc2274103ea12d45ca37",
-      "title": "Argus lowers target to USD 102.00 for Innospec stock",
-      "sourceName": "AD HOC NEWS",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdlFSSlRadTJGZElReXJwU29LZ3VzTFVkeG5Gc1BYMDBhWWhyRWVjVWxlNng0Tk1XYTA1bXAwRmtIMS1wUmozNDZqbE1lclBiUzhqV2FPbDRKQ1dBM3I2Xy1vbXlEeUt1YlhfMHEtMTNTNFhkS1JRQ3d4MXJvRjBxRVBLS1JHc3BQd0RFUjdGdEdPSmJIbGxOWEZJT3A1VmlJTUxqUDBzcl92R0hLMFAwYw",
-      "publisherUrl": "https://www.ad-hoc-news.de",
-      "publishedAtISO": "2026-10-17T18:51:13.000Z",
-      "date": "2026-10-18",
+      "id": "news-7851a9866bd139efac68",
+      "title": "Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWhPcDRGUHZPNldYV3FsXzVXdnBKV2lNNDJhanpjNFdIbmtrOVhyM21qZ3RrY2t3NHh2cGJ2VXBaVzZxU2xUNGVSOHdkcVJteWRKTWI1RWhuQTBhTmM5WS1pMVRwTUVndjhUZk9VSi1VT19ydUcwd1M4c3c5SlBiZk5mY28xWEI2cUppVlF1MVlaQQ",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-10-19T00:11:20.000Z",
+      "date": "2026-10-19",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Argus lowers target to USD 102.00 for Innospec stock AD HOC NEWS",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-508af5a5f462147c32a5",
-      "title": "Stepan Company (SCL) Edges Higher to $62.03 as Buyers Defend Support - Zigzag Correction",
-      "sourceName": "https://www.siam.in/",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNakFBVF9QM3JPNHprMHZ2QmJJaEkxbFp5YS05dmI5aXBtbWRxTkZnOU1GVS13N1Q3NmlVVHNPOWNkT0FaVk1FLU80TTZDa0NPS2M2cjVBX0tzQ2JTbjg1VWt3ZUpBWmtQV0JweF83bVpmcFp4WEJtR2hudVFoREtiVlF0UjRodHR5azhYN0xzbkVhNE1xSWcySHF3b1F3UGNzN1p6MmNhMlRnb00",
-      "publisherUrl": "https://www.siam.in",
-      "publishedAtISO": "2026-10-17T14:47:14.000Z",
-      "date": "2026-10-17",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Edges Higher to $62.03 as Buyers Defend Support - Zigzag Correction https://www.siam.in/",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion Bioengineer.org",
       "verification": "feed-metadata"
     },
     {
@@ -342,17 +524,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-da0035e4309b1c74f143",
-      "title": "Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices",
-      "sourceName": "The Manila Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLThhVTY5SE1BM3hqOF9rd0hnUVBMcnhwVkN6bE1ZTmY2dzhTU1pRMXFOWHFjWkxSX2MtRWtDT3RDNHFrWDJPb3NiMVdlYzdNdW9YTzEtWWw3aTl0Qi1GRU1oN0R6Nmsyc1dKckFWLXN6ZG1yaHg4Q0t0aU1JOUNtSW94YXdVWXBXU2E1RHlpenZYbDVHX0x4cU1OWWVSM3VaUjFvXzY5MmlLOUxseWxzb2VRdHBKRl9yR2RMSnZlMU5nM3hQOHd4UHUtWnYtQjBYX3Yydm85bXFaQ1RudXBsSzhsMFVNNV9RTnNmSm01RmXSAfYBQVVfeXFMTjAyWnI3blFFYjZhNDN6cGwzb3J2M3VBeXRZdmJKY3hDNGJXT0pkTFpnLVRzVFdHaGJqX19MSGVueHNFRlRfdHhONUZ3SmN2Z21EcmFibTJNcTkwOFA0aVc3Qi1kODc2S2lEVFFKaUFCTGY3aWlNQThwa1BiLWZ3a0tSWnJ0T3p0bDl0bU5fdlFvSDRIRDJ3R3hUNnAtbktldHZMbk9WMzhHNGVZM3ZJV21NcnlXeUtlNGtOZGFQMThRN2d3VWNtU3M3ajV3X2w1REktNVRxQWRRaHVfUHE1dXZTVlNjZlZ6SG1STllqN0lmNkZVaV93",
-      "publisherUrl": "https://www.manilatimes.net",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
+      "id": "news-8811eb1f6df7378a16ce",
+      "title": "DrivingChip Dreams, Building a Chip-Powered Future---Accelerating PhotoresistLocalization, Morimatsu Hi-Purity Empowers Leading Photoresist Manufacturers",
+      "sourceName": "Moomoo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNMF9qUFJVYWdITFhidktweHhFU2NJcmp0T1NnQldyV2Q4aFk1NHRycnA5eEFXZDRGWEFLTTNNVEJnOUxOUlk2ekNRdnVrR2UtMVlULXhxQVlKa0dvSjhSNDBqay01Qm9pM1lVQlRna191MVhLVmlnVlV3TXh4TUJ3cEdfeGExbkxrVjN0T05Bc3NlZ2tiZzVwdUdSMmhjNUVENmg3a0VNemRCNjF4UlNYWEgzZXJXRHFFWXI5YzVYVlBtX0FYb0xuN1ZILTZmS0wtRnZMdWVudzB1M0EwTndaTHptd3A",
+      "publisherUrl": "https://www.moomoo.com",
+      "publishedAtISO": "2026-10-13T07:00:00.000Z",
+      "date": "2026-10-13",
       "companyIds": [
-        "verdant"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices The Manila Times",
+      "summary": "RSS 제공 요약(기사 본문 미확인): DrivingChip Dreams, Building a Chip-Powered Future---Accelerating PhotoresistLocalization, Morimatsu Hi-Purity Empowers Leading Photoresist Manufacturers Moomoo",
       "verification": "feed-metadata"
     },
     {
@@ -426,118 +608,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-3f83745ab2a5fcbf9494",
-      "title": "Nouryon gains China approval for plant-based pharmaceutical excipient",
-      "sourceName": "ALCHEMPro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPaTNMdWNicW90YWlxc3h0U1N0eXctQzdNU040STU2UWtuRXBRVjdsMUgybWpDNEtmTHJ5NjN5VEZjNnNhanhSakFfUllBRk9ZRTBPOEFlZl91UmFuQnZodkJVcFREVFFVN3hORGRoNXpUcW9wSnJHcGMwNEJEMGNBejV6aVRfcjBHR0Z0WDJlWW9PREhGQW5wZE15WmEtd0tWcUs4Wmh6Smo1T1FEcHpwcU9oLWxpOGVfQjZfWUoyTDh3Z255R3lsYml6ckZnNEprMkgwZA",
-      "publisherUrl": "https://www.alchempro.com",
-      "publishedAtISO": "2026-10-09T07:00:00.000Z",
-      "date": "2026-10-09",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon gains China approval for plant-based pharmaceutical excipient ALCHEMPro",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-973498e630864c51c9b2",
-      "title": "Next-Generation Surfactant Technology with the Power of Sunflower",
-      "sourceName": "Turkchem.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOY3QtMnpBRTVOMVAxYjRhY0xsTUZVZ1pmbFM2YjhHdXM1eWNLaURPSERVd2RiajVsdVVObG9FYTJqSElCaGhqSy1LajRwZjY5Q2Z1dHVfNnl0Um50Y3ZKMW15ZXEzQm4tbDhOV195MU1XLTFQUUl1ZUl5d3ZXTFZzZ3k0b0Y2SklzNXR6RA",
-      "publisherUrl": "https://turkchem.net",
-      "publishedAtISO": "2026-10-09T07:00:00.000Z",
-      "date": "2026-10-09",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Next-Generation Surfactant Technology with the Power of Sunflower Turkchem.net",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-7b06bb0231ebee905d43",
-      "title": "Innospec Q2 2026 Earnings Call: Complete Transcript",
-      "sourceName": "Benzinga",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMFdwY01CdmVkNHdUc194RTlTbU05M1FtaXBqMmFVUGdRaThIdUM3aEEtTVZ4aW1JVnNvOTBVZlBKV21sZDJ4bENNeHNma0o4UlZVLVRoOVRHN3B1LVNuNmdjMm1iN0lTWXZVcmZ6VE5VbzhyS291TVc2QnpMblR2eXRCaHY1TXdfeWVJejJzaEE2c1p6U1VWQzJDMA",
-      "publisherUrl": "https://www.benzinga.com",
-      "publishedAtISO": "2026-10-08T07:00:00.000Z",
-      "date": "2026-10-08",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Q2 2026 Earnings Call: Complete Transcript Benzinga",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a4d705b409d4e88c82ea",
-      "title": "Innospec Inc. (IOSP) Stock Forecasts",
-      "sourceName": "Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeExmclh6QmJLQy1mWG0tTWFHRTBPcThNLTFmTmhIM3RqUmtjX3d2blFocWlzRk5SSjlGazJFNHJWV2hpd3cyY1FZTFFrNmI5Snd5RkY2Zjg1dFlLbE5JY1JzVTJhNjdHbUhwRnY4TnpIOUR2d1JKSTdJN3NRRS1NQkh5TDYyQWZQOC1QYUJPTDdycDA",
-      "publisherUrl": "https://ca.finance.yahoo.com",
-      "publishedAtISO": "2026-10-07T21:49:54.000Z",
-      "date": "2026-10-08",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo! Finance Canada",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-3bf8c19c00bba3e9f4f3",
-      "title": "Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System",
-      "sourceName": "Business Wire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2FmWHF6ZnNGeVRlOTlJNGFoTEVxVE91Q0pIal9UVzFtNFVkLUNGR1FQcHkxWm1abGRqb1pJLUtDa3FFbkwxVFdWYUYxamJYb0xBT21wRDN5bWxJa0dsOWxBVkxxZDFaUXF2YUlQN1VuTnpMZE1IWk00UkdzajF1UG9Kci1BeVdGV3R0WDVOUk9tV3hJWTJMeEZZTm9nNDFmaHFSVGQwbk9YZlBBQWNOdmlVckFPTDF1cElfNFBldUtyTUtwejI0NzRWN1FibWZWSWc2RG1IWUNDOUdnc0J3bTZIQ2YxV0JF",
-      "publisherUrl": "https://www.businesswire.com",
-      "publishedAtISO": "2026-10-07T07:00:00.000Z",
-      "date": "2026-10-07",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System Business Wire",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-81d3554266cf551369c9",
-      "title": "Nouryon India earns Great Place To Work certification for second consecutive year",
-      "sourceName": "Indian Chemical News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbk9rZzhqYVBpckpMVGZhU2FNb2RSSFdUY2hmQl83TDg1N0Q5MF9OOHlZX0xULXdKczFoampvZldJa3pOZGJWVEVjOGRLM0E0Skh0RjBOSWNZNWY4VHR0NDhmbE51bTF4SkFWa2MwOVJvdU5lN2o2cnh0UzQ0OVRhdERmZnNkSWh1VUVPRTlNV0dha0ZEOEszY1NmV1loaV82blZ1eXpxMVNSTGVxMG16dWxEUXJuVGt1RGJWanVOV2Voemx1WnJYeWVR0gHQAUFVX3lxTE1TNUlObzdGUlk4cElKUndhUkpmQkxxaGd4MTJDYWVEQkMxVGgtcDFHU1lqQjktb3g2M2VCcG9ld0ZzWDJhVUh3YXlWMk5aeFBKMVFYek5SRWpndHltV002aG41X3NtUHNUV05Yc095VktsLTdQS0otS2djeW1rdEZIYmEwU1g4XzE1QWFON2NBaUVwQldGc3VlbmNzOWhScHZ4SmhUd0tEQm01amRnWUcyLUM1YTlHbmJzNTEwOGNGdUF5RjRHUWlxUnVVQUtLZlg",
-      "publisherUrl": "https://www.indianchemicalnews.com",
-      "publishedAtISO": "2026-10-06T05:24:46.000Z",
-      "date": "2026-10-06",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon India earns Great Place To Work certification for second consecutive year Indian Chemical News",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-094a52203aa8e6cd585d",
-      "title": "Innospec Inc. to Report Third Quarter 2026 Earnings on November 3, 2026",
-      "sourceName": "Quiver Quantitative",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPLUtFYUdxclcySnoyc0RXM2N1OXQ3YlVoUFM1Q3hUTUVBTmVGcW5teVNFLU42TVBlLVhEbFBJWi1tVGdfVFlCZU9QeDNlVG1wcnl5QjlzejdEbkNJemQzMjZJNWtCLXJqcmdPSUlFZmFYb1IyazI4b19vY0tsRXl2OTdTNUhRUnhKaVVmY1N1RHI3cUg5TEZCQmYta19jaVBSSGNObWx5d2VwZw",
-      "publisherUrl": "https://www.quiverquant.com",
-      "publishedAtISO": "2026-10-05T20:50:00.000Z",
-      "date": "2026-10-06",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. to Report Third Quarter 2026 Earnings on November 3, 2026 Quiver Quantitative",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-84dface6ad0f8a65580b",
-      "title": "Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFdLSHhwazZuaUtpbFQtaW1Yb2UzbHZndnZVTEl1cGJSallrZTJ2TUE0QTU1LVRmbl9ickZjdHo1V1FiZExWWDdyVXREQkxYNVpuZEdtVnQ4SmF5VVE0SU1xYW5YUUJVSVdiNGg1UWFtOUI3SDdxV28zQkdydk93aVE5Q3B1X3kyQ3pkRW5QVnZOdVFuNndtNExYeWFMOFFNZW5HcQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-05T07:00:00.000Z",
-      "date": "2026-10-05",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-ec19d654987da0f5430f",
       "title": "JSR Opens EUV MOR Plant in South Korea’s Ochang",
       "sourceName": "THE ELEC, Korea Electronics Industry Media",
@@ -566,17 +636,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-b44866cbf3dd7b29c153",
-      "title": "Ashland Showcases New Haircare and Skincare Ingredients for 2027",
-      "sourceName": "Happi | Household And Personal Products Industry",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPZ1JfY3VqZ3ExVVlaOVI3MlQzcDg4NzVUR1RyVjlkZHRhdV9aLVlfZ0NvMWJMdVhvM3JGelZxb0RqQXZpaWMxX19GRjhIWHFEZmZfYm9lalQwLVo0cV9YT2gwcnFxYnV0SExtYnd1VkxkcnRWUmhNZllrUnFuQzFoMXRQd3VScG5YdmttaXBSM2k4QjNHM1dPZzhNQVdFUEU",
-      "publisherUrl": "https://www.happi.com",
-      "publishedAtISO": "2026-09-24T07:00:00.000Z",
-      "date": "2026-09-24",
+      "id": "news-536a1f423bc2925d6b7e",
+      "title": "Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise",
+      "sourceName": "Newswise",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVdIB7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVQ",
+      "publisherUrl": "https://www.newswise.com",
+      "publishedAtISO": "2026-09-22T07:00:00.000Z",
+      "date": "2026-09-22",
       "companyIds": [
-        "kci"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Showcases New Haircare and Skincare Ingredients for 2027 Happi | Household And Personal Products Industry",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise Newswise",
       "verification": "feed-metadata"
     },
     {
@@ -605,34 +675,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): UNIST Develops Tunable Tin-Based Photoresist for EUV Lithography Seoul Economic Daily",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-9ea7c80fba8825cc9ee0",
-      "title": "UK King’s Daughters plans $335 million investment in Ashland, Portsmouth health care facilities",
-      "sourceName": "The Lane Report",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEJzajg0MjRLekFHX2lWZHJxVmRLM1NfWURnSHVlWlFLRkFvUWFzYVItU2RmWDJpaHlyTTVDMTNZdGVEbTQ5NzhYNlh0TlcwWE9zTmR6X1VTdEQxTVFMRlVMLTg4ZmFHc1N2Z21DalhuckFod0Zaa0JxZks1ZTdsZWczVTc3VUozak5IUkE2ZzBoMFUyYUZZ",
-      "publisherUrl": "https://www.lanereport.com",
-      "publishedAtISO": "2026-09-21T07:00:00.000Z",
-      "date": "2026-09-21",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): UK King’s Daughters plans $335 million investment in Ashland, Portsmouth health care facilities The Lane Report",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-f8dd0a440685ced96c3c",
-      "title": "2026 Ashland County Fair: Flower and antiques show results",
-      "sourceName": "Ashland Source",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNbmxmdFpIT3RIMU55TnlyQWNmbUx1b1hvQ1c4WGpQcnVEWS1wTURmWnRUTnY5YWM4b0I1NDZ2YnB6bkxqMEJ5LURFNkw0X2t5YndFRFdnY0Mzb1RCRWRLcWt2bDJDblBRWnBhdmRIRGdXWDlwamxwZEd2QUc5eEtCNE91X3dESjRuN2JGbGQydWZ1aFk",
-      "publisherUrl": "https://www.ashlandsource.com",
-      "publishedAtISO": "2026-09-21T07:00:00.000Z",
-      "date": "2026-09-21",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): 2026 Ashland County Fair: Flower and antiques show results Ashland Source",
       "verification": "feed-metadata"
     },
     {
@@ -678,6 +720,34 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-45139d07e69b6e6094be",
+      "title": "Acutaas' step-down subsidiary inaugurates semiconductor chemicals plant at Gongju",
+      "sourceName": "Business Standard",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZ3RlUlluU0FKa1VuaXNZQVZ1QXZpVHU1b1pvVmYybWh5b0JISTRZZVZsZmIteEhJbXJYMUM4U3VLQ1g5dGlXLW9lUVZGMl9KUG1Hb2tlVkJhVDc4NnpVcUhsNXhLb1JsVW5rT09KeHd0Qk1DLV9IMmVoRTRzbHU1LXNqMXlXT3N2SEJtRGt2UmlTSDdMX0dENDgzaFFvLWtIRjNzODRON3ZPdjRBTWdEQVFDcmFQdlJUREdoS2dHZGZaRXFjS2htbnlWOGNndkpuTFVGYWpIUXA3UEJYVVhiTVBSMWFPbVVXLUtpTi01MS0tUVQ30gH6AUFVX3lxTE9oa0dFR3dZR0E1TkJhRzlRR3FmTC1tdlRkLTdUcjA0ZlBkbUdkR1dfeUFIeFFZRENEbGlJczhEM0tFcEMyWnoxSTBoZHNlTEtNaFZFM3JrVTJXVXBIaF9wQTlHdEF4WW1yWUh6MXJ4dURMVFQ1UE9JRUJFVktHZXZTWXY2MkVkcm9ReDQ5VmtiYjcxc2E0U0VKNEtNMHNWQTlDdU16WmE5cXV1NHdRbXMtTFlYODNXa3FFamdvd21WSXpucVM2MVlKbnBpWGplM1lNeFpRTnYtdXdyVWQ3MWdQMjJIMjluUVhhMGlIdGNCdHJhNTRnSUNPbGc",
+      "publisherUrl": "https://www.business-standard.com",
+      "publishedAtISO": "2026-08-28T07:00:00.000Z",
+      "date": "2026-08-28",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Acutaas' step-down subsidiary inaugurates semiconductor chemicals plant at Gongju Business Standard",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-02432578e6a435cb0ffd",
+      "title": "The Secret History of Ashland’s Red Scare",
+      "sourceName": "Oregon Humanities",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkRrQjhZS1BUSTFXbGlIQUtIejB5TVNrZzQ4QmZqUWRzWXJISXdHQWN6RktLVlQwQmNkSjFZcnV6Z09Ma3JTSVdEanVlaVYtd2kzSDVhUU1BLVR4VVdyMFJQZUwxMGlVMVBrUlZXakdZZ0w3RVRkMlJZQzY4cjBuMlFoazQ1TC1zNkw1cklYTC1vNWE1SmRPbE5mR1hRdy16NVQ0d3JKQnlvQQ",
+      "publisherUrl": "https://oregonhumanities.org",
+      "publishedAtISO": "2026-08-25T07:00:00.000Z",
+      "date": "2026-08-25",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): The Secret History of Ashland’s Red Scare Oregon Humanities",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-53f68b24e71ce4f1cd81",
       "title": "Yomiuri: World's Leading Photoresist Maker Tokyo Ohka Kogyo Enjoys Strong Sales",
       "sourceName": "MarketWatch",
@@ -720,6 +790,34 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-f98d9ee483cb14077247",
+      "title": "Behind Lily Flower's Wild Swings: Controlling Shareholder Cashes Out 289 Million Yuan at the Peak, Photoresist Revenue Accounts for Less Than 0.1% of Total Sales",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9TbnRlSGh1aC1ELW1hSHl2QXNXX20xQ3JFXzZsbHRxTVV1Z0hfZDFlQWstOUw3NlYxd3hKU3FMejROTzc2T3p2LXhhWHFJR3BJU0RnMkExU244Qi1yNXcweGdkOXB2dWYwVi1UQ2dEeEpfUDhDOUE",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-08-07T07:00:00.000Z",
+      "date": "2026-08-07",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Behind Lily Flower's Wild Swings: Controlling Shareholder Cashes Out 289 Million Yuan at the Peak, Photoresist Revenue Accounts for Less Than 0.1% of Total Sales BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-30e7069e1a3c4e54a243",
+      "title": "Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media",
+      "sourceName": "Record China",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WS0xKdHF0dEZjTUNobmlqWTNURFhHZTkxRDJfNGp6VDExLUMwYzFZVXZ6aThNVlVnNXBqNXJRaGRmTk11YW1tRzUxeGFyMFhhMGFUTmdWeDVPUEZfMEtrbG9sVG9wOEFwMmY4",
+      "publisherUrl": "https://www.recordchina.co.jp",
+      "publishedAtISO": "2026-08-07T07:00:00.000Z",
+      "date": "2026-08-07",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media Record China",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-de4f7407297f9ee4101d",
       "title": "TOKYO OHKA KOGYO CO., LTD. Business Results",
       "sourceName": "StockWeather",
@@ -739,7 +837,7 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 18
+      "itemCount": 25
     },
     {
       "companyId": "kci",
