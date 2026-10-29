@@ -97,6 +97,20 @@ function belongsTo(signal, companyId) { return signal.companyId === companyId ||
 
 function inPeriod(signal, period) { return signal.date && signal.date >= period.start && signal.date <= period.end; }
 
+function reviewQuestion(signal, companyId) {
+  const business = {
+    ncchem: '반도체 소재의 순도·노광 공정·고객 인증 요건',
+    kci: '퍼스널케어 원료의 제형 적합성·안전성·고객 평가 요건',
+    verdant: '계면활성제의 적용 용도·원가·공급 지역',
+  }[companyId] || '대상 제품·고객·지역';
+  const checks = {
+    '규제·정책': '규제의 적용 물질·관할 지역·시행일을 원문에서 확인하고 자사 대상 제품과 대조하세요.',
+    '투자·증설': '발표한 생산능력·가동 시점·제품 등급을 확인하고 기존 공급과 신규 공급을 구분하세요.',
+    '기술·특허': '연구 단계와 상업화를 구분하고 성능 비교 조건·양산성·인증 일정을 확인하세요.',
+  };
+  return `검토 질문: 「${signal.title}」이 ${business}에 관련되는가? ${checks[signal.category] || '실적·제품 발표의 대상 사업과 수치 기준을 확인하고 자사와의 직접 관련성을 검토하세요.'} 제목만으로 사업 영향을 확정하지 마세요.`;
+}
+
 function compareSignals(a, b) {
   return IMPACT_ORDER[a.impact] - IMPACT_ORDER[b.impact]
     || b.date.localeCompare(a.date)
@@ -231,7 +245,7 @@ export function buildWeeklyBrief({ signals, company, period, includeExamples = f
     return {
       ...business, signalCount: items.length, sourceCount: sourceCount(items),
       observations: items.length ? items.slice(0, 3).map(signal => `[${signal.id}] ${signal.evidenceType === 'feed-metadata' ? 'RSS 메타데이터·본문 미열람: ' : ''}${signal.summary || signal.title}`) : [outsideScope ? '선택 범위 밖의 사업입니다. 이 브리핑에서 자료를 검토하지 않았습니다.' : '선택 기간에 등록 자료가 없습니다. 시장 변화가 없었다는 뜻은 아닙니다.'],
-      implications: items.length ? items.slice(0, 3).map(signal => signal.implication ? `[${signal.id}] 담당자 해석: ${signal.implication}` : `[${signal.id}] 사업 영향 노트 미등록 — 제품·고객·지역별 적용 범위를 확인하세요.`) : [outsideScope ? '그룹 전체 또는 해당 사업 범위를 선택해 별도로 검토하세요.' : '추가 근거를 확보한 뒤 사업 영향을 검토하세요.'],
+      implications: items.length ? items.slice(0, 3).map(signal => signal.evidenceType === 'feed-metadata' ? `[${signal.id}] ${reviewQuestion(signal, business.companyId)}` : signal.implication ? `[${signal.id}] 담당자 해석: ${signal.implication}` : `[${signal.id}] ${reviewQuestion(signal, business.companyId)}`) : [outsideScope ? '그룹 전체 또는 해당 사업 범위를 선택해 별도로 검토하세요.' : '추가 근거를 확보한 뒤 사업 영향을 검토하세요.'],
       evidenceIds: items.map(signal => signal.id),
       status: items.length ? '자료 있음' : '자료 없음',
     };
@@ -249,13 +263,16 @@ export function buildWeeklyBrief({ signals, company, period, includeExamples = f
         else tasks.push({ task, evidenceIds: [signal.id] });
       }
     }
-    if (!tasks.length) tasks.push({ task: `「${items[0].title}」의 원문·발표일·적용 제품/고객/지역을 확인하고 근거와 담당자 해석을 구분하세요.`, evidenceIds: [items[0].id] });
+    if (!tasks.length) {
+      for (const signal of items.slice(0, 2)) tasks.push({ task: reviewQuestion(signal, business.companyId), evidenceIds: [signal.id] });
+    }
     for (const [index, task] of tasks.slice(0, 2).entries()) {
       actionItems.push({ id: `action-${business.companyId}-${index + 1}`, companyId: business.companyId, ...task, owner: '미지정', dueDate: null, status: '미착수' });
     }
   }
   const withData = businesses.filter(business => business.signalCount > 0).length;
   const executiveSummary = current.length ? [
+    ...current.slice(0, 3).map(signal => `[${signal.id}] ${signal.title} — ${signal.evidenceType === 'feed-metadata' ? '피드 제목 기준·본문 확인 필요' : '등록 자료 기준·원문 대조 필요'}`),
     `선택 기간의 등록 자료 ${current.length}건, 서로 다른 발행처/출처 호스트 ${coverage.sourceCount}곳을 검토 범위로 삼았습니다. 전체 시장의 기사 수를 뜻하지 않습니다.`,
     `${scope === 'all' ? `${BUSINESSES.length}개 사업 중 ${withData}개 사업에 기간 내 자료가 있습니다.` : `${BUSINESSES.find(item => item.companyId === scope).label} 범위만 검토했습니다. 다른 사업은 이번 집계의 검토 범위 밖입니다.`} 등록 우선도가 '높음'인 자료는 ${current.filter(signal => signal.impact === '높음').length}건이며 실제 영향도가 검증된 것은 아닙니다.`,
   ] : ['선택 기간에 검토할 근거 자료가 없습니다. 이번 주의 시장 변화·사업 영향을 작성하거나 추정하지 않았습니다.'];

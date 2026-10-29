@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import initial from '../public/latest-news.json';
+import koreanTitles from './news-korean.json';
 import { companies, type CompanyId, type Signal } from './data';
 
 export type NewsItem = { id: string; title: string; sourceName: string; sourceUrl: string; publisherUrl?: string; publishedAtISO: string; date: string; companyIds: CompanyId[]; summary: string; verification: 'feed-metadata' };
@@ -22,9 +23,11 @@ function initialSnapshot(): NewsSnapshot {
   try { const cached = validateSnapshot(JSON.parse(localStorage.getItem(cacheKey) || 'null')); return (cached.lastSuccessfulAtISO || '') > (bundled.lastSuccessfulAtISO || '') ? cached : bundled; } catch { return bundled; }
 }
 export function newsToSignal(item: NewsItem): Signal {
+  const translated = (koreanTitles as Record<string, { originalTitle: string; titleKo: string }>)[item.id];
+  const titleKo = translated?.originalTitle === item.title ? translated.titleKo : '';
   const words = `${item.title} ${item.summary}`;
   const category: Signal['category'] = /regulat|restriction|compliance|REACH|PFAS|규제|정책/i.test(words) ? '규제·정책' : /invest|capacity|plant|factory|증설|투자/i.test(words) ? '투자·증설' : /photoresist|EUV|polymer|patent|research|기술|특허/i.test(words) ? '기술·특허' : '제품·시장';
-  return { id: item.id, title: item.title, summary: item.summary || '제목·발행처·피드 발행일만 수집한 링크입니다. 기사 본문은 확인하지 않았습니다.', companyId: item.companyIds[0], companyIds: item.companyIds, evidenceType: 'feed-metadata', competitor: '키워드 분류', category, region: '글로벌', date: item.date, impact: '보통', sourceName: item.sourceName, sourceUrl: item.sourceUrl, isDemo: false, tags: ['뉴스 피드', '본문 미열람'], implication: '뉴스 피드의 제목·메타데이터입니다. 원문에서 발표일·제품·고객·지역과 핵심 근거를 확인한 후 사업 영향을 판단하세요. 사업 연결과 유형은 키워드 분류이며 실제 경쟁 관계나 영향도를 확인한 결과가 아닙니다.' };
+  return { id: item.id, title: titleKo || item.title, summary: titleKo ? `제목 번역: ${titleKo}. 기사 본문을 수집한 요약이 아니며, 원문 주장은 확인이 필요합니다.` : item.summary || '제목·발행처·피드 발행일만 수집한 링크입니다. 기사 본문은 확인하지 않았습니다.', companyId: item.companyIds[0], companyIds: item.companyIds, evidenceType: 'feed-metadata', competitor: '키워드 분류', category, region: '글로벌', date: item.date, impact: '보통', sourceName: item.sourceName, sourceUrl: item.sourceUrl, isDemo: false, tags: ['뉴스 피드', '본문 미열람'], implication: '뉴스 피드의 제목·메타데이터입니다. 원문에서 발표일·제품·고객·지역과 핵심 근거를 확인한 후 사업 영향을 판단하세요. 사업 연결과 유형은 키워드 분류이며 실제 경쟁 관계나 영향도를 확인한 결과가 아닙니다.' };
 }
 export function useLatestNews() {
   const [snapshot, setSnapshot] = useState<NewsSnapshot>(initialSnapshot);

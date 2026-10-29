@@ -11,6 +11,19 @@ const signal = (overrides = {}) => ({
   isDemo: false, impact: '보통', category: '기술·특허', ...overrides,
 });
 
+test('RSS briefing leads with cited headlines and business-specific review questions without claiming verified impact', () => {
+  const result = buildWeeklyBrief({ period, signals: [
+    signal({ id: 'nc', title: '포토레지스트 생산능력 확대', evidenceType: 'feed-metadata', category: '투자·증설', implication: '일반적인 피드 안내' }),
+    signal({ id: 'care', title: '새 퍼스널케어 규제', companyId: 'kci', evidenceType: 'feed-metadata', category: '규제·정책', sourceUrl: 'https://example.com/care' }),
+  ] });
+  assert.match(result.executiveSummary[0], /\[care\].*새 퍼스널케어 규제.*본문 확인 필요/);
+  assert.match(result.businesses[0].implications[0], /순도·노광 공정·고객 인증/);
+  assert.match(result.businesses[0].implications[0], /생산능력·가동 시점·제품 등급/);
+  assert.match(result.businesses[1].implications[0], /규제의 적용 물질·관할 지역·시행일/);
+  assert.ok(result.actionItems.every(action => action.owner === '미지정' && action.dueDate === null && action.evidenceIds.length > 0));
+  assert.match(weeklyBriefToMarkdown(result), /검토 질문/);
+});
+
 test('weekly boundaries are inclusive and old/future/undated/example records do not become current evidence', () => {
   const result = buildWeeklyBrief({ period, signals: [
     signal({ id: 'start', title: '시작일 자료', date: '2026-10-22' }),
