@@ -1,10 +1,80 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-10-29T02:03:17.431Z",
-  "updatedAtISO": "2026-10-29T02:03:17.431Z",
-  "lastSuccessfulAtISO": "2026-10-29T02:03:17.431Z",
+  "attemptedAtISO": "2026-10-30T02:20:23.360Z",
+  "updatedAtISO": "2026-10-30T02:20:23.360Z",
+  "lastSuccessfulAtISO": "2026-10-30T02:20:23.360Z",
   "status": "ready",
   "items": [
+    {
+      "id": "news-db41a2dffb7c25696256",
+      "title": "Electrifying O’Brien putting final touches on record-setting Ashland career",
+      "sourceName": "Ashland Source",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRFZmTWN6T29oaTVybXpSVk1IdDNjTS03Y2M0WWNtTUhpeUQwVjJXTmtIZUVJM3hNYkk5TzdlYmZ3akM5UXZLNkRSNTFEUExmeGVUc1RURTcxOXE4SkxTaGNoRWNXQy1wQmZpeFVKSHRBM0hCWFdVWlRlaW43dWJVdFczT2tfeXZKd0ZEV1FYRktkazg5MElhTVZqZ3ZCLURSYXUtLVpRME5lcXBtbE55dFNYZmRZVDQ",
+      "publisherUrl": "https://www.ashlandsource.com",
+      "publishedAtISO": "2026-10-29T09:00:00.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Electrifying O’Brien putting final touches on record-setting Ashland career Ashland Source",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3741b4f43f65f802a717",
+      "title": "BASF Expands US APG Capacity, Boosting Regional Surfactant Supply",
+      "sourceName": "ChemAnalyst",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQUZPS1RESUFPN242Q2FOSzk5aWJ4ZERudVdTSUJCenFKOENLTXdZMWpKQVpTMTB2TWRBYTEzaFZNdTNPc2g2OTQ5eFBOejdIczVpLVhYem1HN3ZuWHhSY19fcm9abEF1OTJqMW1xSG1SSTJxd2lpN2UtQ25CTUNuY3dzdFUxVFlSbFQtNEI2UjROZll6Wi1KZVZzRV9YNFBIODdyODZvVk1LelhUeWxCdGtrTkYwYXc",
+      "publisherUrl": "https://www.chemanalyst.com",
+      "publishedAtISO": "2026-10-29T08:40:34.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): BASF Expands US APG Capacity, Boosting Regional Surfactant Supply ChemAnalyst",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-5db4f0ae71b9d65008dd",
+      "title": "Lubrizol launches soft TPU for interventional medical devices",
+      "sourceName": "Medical Design & Outsourcing",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORTRWTGNWeFkzdlZhNVhBTVlzdzRPNXpGR09hOGlCc1VfTTNQY2hKWG5nUGxWLTdFd01hOXdfQldkbTQ2OWtXcl9OUW5HU0lSVW96T3hlcXpXS251Sm11LTBCWUFaVFJ4VUU2YzZKa3YtXzQxazdleHd4ekdKNy1IUDlVQnNFaFNZbHJ6VG1LZTBYM0xQVnFFSE1VM2hQUllzUXRYaVNBX0hHdw",
+      "publisherUrl": "https://www.medicaldesignandoutsourcing.com",
+      "publishedAtISO": "2026-10-29T07:40:09.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Lubrizol launches soft TPU for interventional medical devices Medical Design & Outsourcing",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-a360312270400b7eb8f7",
+      "title": "Innospec Inc. (IOSP) Stock Forecasts",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNkpLVWhBZ2NTSG1DYW9tNUk3ZGVqbkFKcEhrZ3VYMGxhVk9NQS1zX3luYWg0UktZYnhwOFJ2M1JuUk1pX0JWOUxXQ285Sk9HZE01aGJGSjFmVDU0TlM1NjB0X0xZU3VmdV94M3FBSFJydGJzVENrcldfay1GcWphcEU0N3pONTdZbWNGU2V4WQ",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-29T03:10:40.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4ea3724efe2655b382bb",
+      "title": "Innospec Inc. (IOSP) Stock Price, News, Quote & History",
+      "sourceName": "Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wbUl3TjJYUHV0QTBpY3VfYlhQY0NCM0NJUHB5VjZyR3hnaDlLYzVjdmRaVlBTZEoyell3TDRUd1pyLXlhbXNuNXRNZ25HdTYyZkE",
+      "publisherUrl": "https://ca.finance.yahoo.com",
+      "publishedAtISO": "2026-10-28T23:54:47.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-acfcd76469a9dcd3f8a7",
       "title": "Surfactants and Temperature Steer Which Microalgal Compounds End Up in Extracts",
@@ -17,6 +87,20 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Surfactants and Temperature Steer Which Microalgal Compounds End Up in Extracts Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-107aa57368fd5ce4320f",
+      "title": "Stepan Company (SCL) Q3 2026 Earnings Call: EBITDA Up 18%, Volume Up 7%",
+      "sourceName": "TradingKey",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DNWpnN2V6MTV6STZOVzVtTWV3Q3VDLWstZXNIa0V3YzZWNUhLN045SF8wTFk1ZGVtZElrbENOX0NvcGN1cGhCeFNxbWluTVVybUVtT0hfcVI5clBXR0hjdXBkU2UyTlhnM3UxdFpJd0ZGdw",
+      "publisherUrl": "https://www.tradingkey.com",
+      "publishedAtISO": "2026-10-28T21:53:14.000Z",
+      "date": "2026-10-29",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Q3 2026 Earnings Call: EBITDA Up 18%, Volume Up 7% TradingKey",
       "verification": "feed-metadata"
     },
     {
@@ -34,8 +118,8 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-32332a35560666223f0b",
-      "title": "Lubrizol CEO warns surging energy costs could steer manufacturers away from Northeast Ohio",
+      "id": "news-4b192618bd5192ba6ed2",
+      "title": "Lubrizol CEO warns Ohio energy costs challenge for manufacturing",
       "sourceName": "Crain's Cleveland Business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdTc0YUR3c0VYa0p2QWdEWURGRXp1dFdUbG5rRkQxV3JTWDBWcy1keEgxOXRBOVZfVnlzS1V0b01zbnJ1Y0hiYUpxRkczRUlTd3N2X3R6d25yMDBxbEZ4dTdwbFc2eUZwTmJMTUwzNXR2dWxVSnVVejA3NVZxMlB5b0NxZ3NmeExk",
       "publisherUrl": "https://www.crainscleveland.com",
@@ -44,7 +128,7 @@
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Lubrizol CEO warns surging energy costs could steer manufacturers away from Northeast Ohio Crain's Cleveland Business",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Lubrizol CEO warns Ohio energy costs challenge for manufacturing Crain's Cleveland Business",
       "verification": "feed-metadata"
     },
     {
@@ -87,48 +171,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase Kalkine Media",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-e9116c43ff914bac41ad",
-      "title": "BASF expands bio-based surfactant capacity in Cincinnati, US",
-      "sourceName": "ALCHEMPro",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3RqeEZTVTluekJXdFJidFpUVVQ1R0Myd2NkY1VZYnRSV25pZDhMOXRkcFJDY3Z1emwyMFBrSHhxN1Q1YzJSVjltVGZlbDRuOGhLa3pWWXlVR19nUEdHUVNobWRNRzFrejVhWjFfc0JZNTFMX3VSR1NadDdtNTJiMEZNZm9kUkVXNHF5WWYtZjZhcEtIYk9mNTdiQXJzYmdOaEZmZGp3X25BSnZnOGVuTUNyeW9oQVRiOFh3TnJMRnc1Ti1ESlpF",
-      "publisherUrl": "https://www.alchempro.com",
-      "publishedAtISO": "2026-10-28T13:18:45.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): BASF expands bio-based surfactant capacity in Cincinnati, US ALCHEMPro",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-82826ec57a133e742dc7",
-      "title": "Waste-Fed Microbes and Smart Statistics Could Cut Biosurfactant Costs",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPQ3AtWHhlNWFKcjRmMElYcTlMWnlaa3lhb1BDNk5WN0p0ZzFWOGNhM1p5dkxkbExTcXJVR0ZKckdYb2hHdEpEdVhFZFE4ZU5abkxYSE9jQnR6a1FXWkRKZ2xaVTc1MXg2b1JJZTk5NzRMQTRWdjR6WXNnODVwNlBMb2JIUk13eGpkYnZORGJBcEdWZ0hMc1NwVzd3",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-10-28T13:06:56.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Waste-Fed Microbes and Smart Statistics Could Cut Biosurfactant Costs Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-2d007abfcc9251893fd8",
-      "title": "Stepan Company (SCL) Q3 FY2026 earnings call transcript",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWV9hNDRjc2FQV3V5bWtoVXNnMFBzdlp2ZS1uZkFoMFNiRVNkMDgxdS1lLV8zbUl2WTV4MHUxYVRzN19hMGZ3N1I4dFk3SjlYaXV4ajhET2szU3E2djd4VEpzUVNGcjM1RG43NFVjbk9yQ1lDNjJfT3hwbFFWS251T1pzUkQ5dTN2c0E",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-28T13:00:00.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Q3 FY2026 earnings call transcript Yahoo Finance",
       "verification": "feed-metadata"
     },
     {
@@ -230,34 +272,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-921a06754e629e3cc5c4",
-      "title": "Mixing Natural and Synthetic Surfactants Reshapes Micelles, CMC and Surface Activity",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkJmTUNudEtrUXNvZl80NEZ2cTNDdldpVXh4NGJzdXhlWndIZUp4NUlaeEhoT21NOVIyUEZNUmpzWkNVdUVhRFpzbEZmTzYxMGU5MUV3c19CWWowU28tUEJUelR6bnh2c2h3ZzJOeUpuaEEwbmpLekJWQWM4eFhkS2ROVVJESFkxUzFELWljbkZ2cl85dXFacWFDeGtzc1A0alBrejRyaTNGQTI5",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-10-27T17:14:37.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mixing Natural and Synthetic Surfactants Reshapes Micelles, CMC and Surface Activity Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-6fe46606080ef7e33eed",
-      "title": "Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdmdmE5V29IN2V2bUo3X3VKeHRZZGNRV1l5VVJJMm9SU1h6ajhGUmYzeGM3aVpUb085UjY3bXpxbTE2ak90b3Vnc0Q2RUJ2V0M5aHd6Q2xlN01HMmJIcWIyN0JNTHQwaTJ3OTRPN0VXTG45VUQ1X3drckdrTF9BSXV2SVhEWS1HeWEzY2otX3Y1WGJWUUI0WHVCYU1TUnZQR3Jv",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-27T13:00:14.000Z",
-      "date": "2026-10-27",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-ed9dbeeca81bfa3b7982",
       "title": "Ashland (ASH) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
       "sourceName": "Yahoo Finance",
@@ -272,59 +286,45 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-95de54d0b1b387dcea57",
+      "id": "news-0ff410dec7ee67d3307e",
       "title": "Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow",
-      "sourceName": "Simply Wall Street",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTS1pMEhSVnVINXNpcHBvdk9pbmdiTng0VHJvOTRBTTgtQU5xSE5Lc0tTWFE3c2MtU3V3U3g1T2Z4MVBJMWg0Wkx0a2xJTHFkUTVIbXBTNHVySWxkTE0tcFR5SnpJRUV5Y3FyTHI0NVhEVFhsVTM3enhMa0wtYVg0QXJZLUFHQlpZaWMzSFg4STdDYTZyQUlLYTJ4dE51N1FfOTBRRkN5TWVRdnVINXFVSmpjeGMyekxnV1FyamVaZ1U1b2c5dFp3ZUE3YkbSAcwBQVVfeXFMT00taTBIUlZ1SDVzaXBwb3ZPaW5nYk54NFRybzk0QU04LUFOcUhOS3NLU1hRN3NjLVN1d1N4NU9meDFQSTFoNFpMdGtsSUxxZFE1SG1wUzR1cklsZExNLXBUeUp6SUVFeWNxckxyNDVYRFRYbFUzN3p4TGtMLWFYNEFyWS1BR0JaWWljM0hYOEk3Q2E2ckFJS2EyeHROdTdRXzkwUUZDeU1lUXZ1SDVxVUpqY3hjMnpMZ1dRcmplWmdVNW9nOXRad2VBN2JG",
+      "sourceName": "Simply Wall St",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2JzLWdsN05KaTlmaHFGeWQxTURZOXRmazVBU3VJTWM0X0ZBQWc3bFBFUWhFUllpR3lGd1J3SUdHVTlLNnB6T1BfVHZaTy1tV0thYjdDanE5QXlfWmNyS0pFMGhrSHZ1U2JiMTd4eE1WOWJta2o5bm9vNXJvRmdReXlTWjhwbTBYd1k4ZVFHUWp4dnE2TU5PRl94Q3luZkEyODBLZ1lsY2JQaVpLVHZTWmpXSWJ5Q2JXcGxsOXpNZmJaR2NNVFNV0gHMAUFVX3lxTE9NLWkwSFJWdUg1c2lwcG92T2luZ2JOeDRUcm85NEFNOC1BTnFITktzS1NYUTdzYy1TdXdTeDVPZngxUEkxaDRaTHRrbElMcWRRNUhtcFM0dXJJbGRMTS1wVHlKeklFRXljcXJMcjQ1WERUWGxVMzd6eExrTC1hWDRBclktQUdCWllpYzNIWDhJN0NhNnJBSUthMnh0TnU3UV85MFFGQ3lNZVF2dUg1cVVKamN4YzJ6TGdXUXJqZVpnVTVvZzl0WndlQTdiRg",
       "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-10-27T09:21:22.000Z",
+      "publishedAtISO": "2026-10-27T09:21:21.000Z",
       "date": "2026-10-27",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow Simply Wall Street",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow Simply Wall St",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-4f63135c18f0aa6a20b2",
-      "title": "Innospec Inc stock hits 52-week high at 100.48 USD",
-      "sourceName": "Investing.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanhDYnhfcHR6VHRPMTZHYmFWWE5WZ1NMbEp3LTFPLXhyU2tSbTFCZWdQcXZMRFVMcGZnVDl2OHlyUnJRZE5fWC1vdkt0akdMRmJTWExMb3VSSEZnSm9LMW1fT09xWUROVkMxWlNoMURaTGxDZHdTT0VTTTV6Yk9qb2FwcUwtbWVhbWwxcV9HRml5cGlCVTg4Y1EzUmRsRGJXVzRtb2NrVXg",
-      "publisherUrl": "https://www.investing.com",
-      "publishedAtISO": "2026-10-26T17:23:57.000Z",
+      "id": "news-b9176c1aa69488b5d2f2",
+      "title": "Innospec Inc stock hits 52-week high at 100.48 USD By Investing.com",
+      "sourceName": "Investing.com Nigeria",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNOXVpdmp6OXE1Sk9jSVBIMVJXUXdIM1dEdnVUYjFXWGtRcXdkb2x6VTJRVm5fRmNPWUVlSjl5Z1RIaDg5dUJvWXVkSVFyMXgtbnh0cTdfVW5fUHEzWkI0TGdMVDg4WC1iZjZhX0dsT3U4QXZ4TE4xRW9ObW1UOVBUWGIwNUxZZmJSajNBQmJvOFlpV1dudjlVcHFQZlNsc24tQkhUNmR4V3AyS0ozeEE",
+      "publisherUrl": "https://ng.investing.com",
+      "publishedAtISO": "2026-10-26T17:30:31.000Z",
       "date": "2026-10-27",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc stock hits 52-week high at 100.48 USD Investing.com",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc stock hits 52-week high at 100.48 USD By Investing.com Investing.com Nigeria",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-eba7683cd56e90b4d236",
-      "title": "Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals",
-      "sourceName": "Indiatimes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UdIBigJBVV95cUxPU3VKRXl0bzFjbU1paHloc2Jha2loMS1mOHJyaE1nd2VUampsdlEtOXNxalVYRzRLUTlEUGx2WXBXNzFxaVk1YzJRMlQ0blFQZUlaRm80MWNfdXA0eUgzSnlYSmhXdGNHUVFwamtJQV8xTjAzQ2NhN21kNnA3M2VuR0llSmZKRDhVczhXekkwRk5VeUNZYVFmWEdCdmRzS3dmWm41U2RwbFVfV09CaDRxTkluX1pHZ0JQZ1VVaDRNanljVjZBcnczVE8wTTloMFAzc3BuZXNxdFkzcF95bmJwZ0J3VzA5VWZDZTVkWGRSMFo4SGs2V1ZnMndtQ3lENk84Rm1mQUhSR3Q5UQ",
-      "publisherUrl": "http://chemicals.economictimes.indiatimes.com",
-      "publishedAtISO": "2026-10-25T12:32:47.000Z",
-      "date": "2026-10-25",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Merck’s new South Korea facility highlights rising demand for advanced semiconductor chemicals Indiatimes",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-24890f3d91fc9ed3bff9",
-      "title": "Stepan Company Estimates – NYSE:SCL",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9LQkRXTmtoNDhDcV9FOE9yOU9wTlcyZWt6X0tQUzF5MDlVakw5V1dkZzZDSWJoZkJpTHJ6NHJBM08tVVhOQUVmRWVvQjZOSEhIOFFHOHFvZzltcmhWWHpEZ21hQ1RsSm1HV0I1MlhpU25BY2Ew",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-10-24T06:17:53.000Z",
-      "date": "2026-10-24",
+      "id": "news-051da45c9ab79fd776b2",
+      "title": "Anionic Detergent Surfactant Blends Market in China: Size, Trends and Forecast to 2035",
+      "sourceName": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTWR4cEZIU21RN3FscVNiOVB6aVNoM3ZEN1NHeUhmWnFMeF9JTWplbi1QdXlGei1ncUNRb2JMZDhqSUtUckVGa1pnME9qV0x2cVhMNUduRkpqc2Vhdnp1bU5wN3BMdEpxV3BSNFFGdjBfZlByNXNKYWNydzZzR1B5eDlMV0pDVks5UnlzOWhWN3NjQTk0dEZzQWJ6MzZuNjZQM1hZZmY1aXZNUkV2Q2MtelZWRDhsTU5keXFfSHo4VQ",
+      "publisherUrl": "https://www.indexbox.io",
+      "publishedAtISO": "2026-10-26T07:00:00.000Z",
+      "date": "2026-10-26",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Estimates – NYSE:SCL TradingView",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Anionic Detergent Surfactant Blends Market in China: Size, Trends and Forecast to 2035 IndexBox",
       "verification": "feed-metadata"
     },
     {
@@ -356,26 +356,12 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-28e762977d9c17c5aceb",
-      "title": "Innospec Inc. (IOSP) Stock Forecasts",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVGpHMUtDOFNlbXE4dloteEhBYmREVWtNaUVNaHBIWnhlOWdGc2M0cmpJaUJhTHozZHBFU0s5Y2drR1daRFR3OUF4eE11NlI0aWtNcDlkLXpqMUV5XzFKTWNSRWdZU3o3SFhtWXlBYzlJTXV0bkZBM0RVY1BQbnZoZ1k3S0k3WEU2Sk8wRUlVWQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-22T01:38:26.000Z",
-      "date": "2026-10-22",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-dab0cc7a4d9f474648be",
       "title": "Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties",
       "sourceName": "THE ELEC, Korea Electronics Industry Media",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dVp0amhhNEZremxFdWxuVUtZcVJJbmU5U3AtSnZwY0p0Yzl4dF9FbGN1S3NST0dRUG5zMW00TDFwY0otdW1JYVZfVFpxSFhERzZuUGpSc3JiaVlZNjc5UXU2cXpvcGc",
       "publisherUrl": "https://www.thelec.net",
-      "publishedAtISO": "2026-10-21T11:18:41.000Z",
+      "publishedAtISO": "2026-10-21T07:00:00.000Z",
       "date": "2026-10-21",
       "companyIds": [
         "ncchem"
@@ -384,59 +370,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-73b9ca8a0cab2aaf3f2a",
-      "title": "Stepan Company (SCL) Stock Forecasts",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSV9yMm91Z3VLYUExeEhhendLcUxfb0MyMmJmODBONzk3UzNpQW9CSlNidEJTY0ZSdmMtcmtTME5CODBKZzFrRHFwSUlLcXE4SW1Mai1FSDFxcXEyUzRvMktRQkNmN1FndGdTdjJpeUlIaUU1Q0JxZWpPVG82MFBEMDdPM2Vtc3UwcmdvbU1Gcw",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-21T07:00:00.000Z",
-      "date": "2026-10-21",
+      "id": "news-0e441bfc3194f8f78ab0",
+      "title": "Sophorolipid Biosurfactant Products Market in Africa: Size, Trends and Forecast to 2035",
+      "sourceName": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcEoxeVJpVlVCbkJTT1JNdmU5MEczcWJMM2lBY0N3U1VmR0VqSmp4X0ZzU29LMUI1TEpMcEFHUVJ3LVlGOGxPWUJUZmNuaTgwY2xSWnVHdnBhd0hacl9DTlJrdUtuM2FhandocTFwXzhtOW13b1JOWTZXdV9HM2FQa0xONlhRelBaU3A1dnhNeTM4X2dYR3VkeDhKR09vU0RfVkh6UVk4TG9fa3NzcVFDWHVlRnlKNVFxOS05T3A4RkI",
+      "publisherUrl": "https://www.indexbox.io",
+      "publishedAtISO": "2026-10-18T07:00:00.000Z",
+      "date": "2026-10-18",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Stock Forecasts Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-e4eb74842c5a1dba016a",
-      "title": "Probiotic enzymes could unlock greener industrial biosurfactants",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNekxSZGxPZjNUM0hXZ1FZeS10dVZiNU1kcDBteGRsMmRycU9ibkRVWFJKa1Q4Vmo1UU5oMkV2R3dScl9pOXFqSFhGOTFFaUxVOE1SR1VMSmVhdmxoTnR0ZjhZeTVfWldLTzRvZW13Ni1LSTB6X2kzRXdaZ3Fyem9wWG9YUF9Yekp4QjZoQnMxNTBYTHc",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-10-19T10:56:21.000Z",
-      "date": "2026-10-19",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Probiotic enzymes could unlock greener industrial biosurfactants Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-7851a9866bd139efac68",
-      "title": "Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWhPcDRGUHZPNldYV3FsXzVXdnBKV2lNNDJhanpjNFdIbmtrOVhyM21qZ3RrY2t3NHh2cGJ2VXBaVzZxU2xUNGVSOHdkcVJteWRKTWI1RWhuQTBhTmM5WS1pMVRwTUVndjhUZk9VSi1VT19ydUcwd1M4c3c5SlBiZk5mY28xWEI2cUppVlF1MVlaQQ",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-10-19T00:11:20.000Z",
-      "date": "2026-10-19",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-3c5c6212e08c4c55f12b",
-      "title": "Nouryon showcases Biocide Solutions as Europe tightens rules for disinfecting cleaners",
-      "sourceName": "Indian Chemical News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOMEpQZmhwbnQzUmhVWUtJMTE5YXExRTJzUFA1d19QQXNZZlhvWS1hRnQ2VUgtVmxQeV9EbUY1OTA1UHdHYVl1Q200ZXMtcDRGeXBzSFBONlNvdFVWa3l0R1M2TVBtYlFWZExBVWhKOTlvV1BFc1RTTEQ4OEJZV1dTLVg5TmdWYTVzMmFpYmw5Z0l3VjFSTzZ2MkZUSm5lbUxyMWp4OGhUTDVwa0JFcm5NVjFPaGpqTFhLN1lYX3czdTVBNF91S2UybFZ1cEhPYlJwWWfSAdgBQVVfeXFMTkhiUnUzWkxORUx6dS1QTTU5QVhlNkpmdzFvY0RvLVpULWlPVER6ZV9SdmJDZE40Yl9QQ1l4LWNKNjVkb1NhZExtM0ZUNlgzUF92cVR2VTRtcnlWOGRodEdSXzVhY3JSaUlZQVNwX2NMbnpzd2QxNWZjbXdJc0hNamUwUWRqMUNfZWhGMDRuYUQ0SkJwczBmbXowYVhWTkNRdy13OEFZUjk5SmU3NnNObmRiNHNkelBFRmRBZWZYMFZzcWFmOFc0cW9lMEM0VWtVRXp3TTd0VW9Q",
-      "publisherUrl": "https://www.indianchemicalnews.com",
-      "publishedAtISO": "2026-10-16T07:00:00.000Z",
-      "date": "2026-10-16",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon showcases Biocide Solutions as Europe tightens rules for disinfecting cleaners Indian Chemical News",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Sophorolipid Biosurfactant Products Market in Africa: Size, Trends and Forecast to 2035 IndexBox",
       "verification": "feed-metadata"
     },
     {
@@ -451,20 +395,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Cell surface receptor loss impairs surfactant production, lung resilience American Society for Biochemistry and Molecular Biology",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0b217fe88c0abf483af3",
-      "title": "enGene Highlights Surfactant-Enhanced Bladder Cancer Therapy Data and 2027 Update Path",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1JJVUxWVkdCa3pGWHZuS3Q0Xy1icVREeVR5RzhVd1FCNjFpeDZUZFRKQl9JUkdCSWI3dXlxMjVDOFFJUGM2MW9aZ1Brekl5RUI0NzgtQzVJRWltYWFSYS1pTHd1X3FNQ2RkV2J1RVNMTkEyc045aVN0ajZUVFFQcUdWY3dOZGlvN00yWDVrNkFHcjJjNWNGUHpLQ2ZYb0w0ZkJOVHBRbHJJUQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-15T07:00:00.000Z",
-      "date": "2026-10-15",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): enGene Highlights Surfactant-Enhanced Bladder Cancer Therapy Data and 2027 Update Path Yahoo Finance",
       "verification": "feed-metadata"
     },
     {
@@ -507,20 +437,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-d694b3493d0fc0fd0410",
-      "title": "Nouryon promotes biocide options for disinfectant formulators as EU regulations tighten",
-      "sourceName": "World Aerosols",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmNnYU1lMWZtX1hSenlCSm9lei1LeDV0R0pIZGJvblZDc2ZqM2FKWWZtWEhUTExVWGRKY3pLLUlBdmVDUURpa0Rvd2NtZU40eUxaVnNVRjg5VTgxWFp6VjdlalNWMG1JNHltTTQxdXVXXzNyUmVRR0ZGSVhTblJIN2l1TUVibGc3SXBrMWFZYnFWMUlhMko0dld2Y25INlJ5SE1SOWFOeWtHWjJzZ1JxcHQxOWN2SkFiZWU0",
-      "publisherUrl": "https://worldaerosols.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon promotes biocide options for disinfectant formulators as EU regulations tighten World Aerosols",
       "verification": "feed-metadata"
     },
     {
@@ -571,7 +487,7 @@
       "sourceName": "www.marketscreener.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXYyTDdra0M1TXpsSkVzSUUwcmxrTXd3eHpkTTlOQW1xRlhHZEJrLUV2Y0hpRU1Zc1pDdXBycHp0VjY5YklqclFaamNEclliV09XMFVjNmRyWUo0cHYyYWlvZDNFLUFpUVlsQWtkMG9xdGhtd2pxZEMzYm9SMGZET2lUSnhmMGx5S1B6QkZRd0R5OUxQTjgtT05zUmNiS1hyMzhaX1B5VGVMbmotU1Awd0pjZVVfOTdEcHZMN3BxR0QwVVpwNlE",
       "publisherUrl": "https://www.marketscreener.com",
-      "publishedAtISO": "2026-10-12T10:18:49.000Z",
+      "publishedAtISO": "2026-10-12T07:00:00.000Z",
       "date": "2026-10-12",
       "companyIds": [
         "ncchem"
@@ -580,36 +496,64 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-89537a7b53eaf71ef6f0",
-      "title": "Solar project comes online at Nouryon’s Illinois facility",
-      "sourceName": "Solar Builder",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVkRMYlFqNWw5ejZmbWxpbDgwTnJXRXZ5NFpoOERXTVV6eGRMWXhEUXJ5dTU5Nl82X09RbkYxVl81U0NhREZ3dU1sSGl0OFFHNENtanZ3dzVnNXdKUkd1MnBVVHlSRjY5YkY4QllrbGlORzUtYXlEcXpZcGdwQ1hxT2tUTDdmZmVWQnNuQlJDVlQ1S0JhbW1QdFdB",
-      "publisherUrl": "https://solarbuildermag.com",
-      "publishedAtISO": "2026-10-09T13:58:47.000Z",
-      "date": "2026-10-09",
+      "id": "news-3bf8c19c00bba3e9f4f3",
+      "title": "Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System",
+      "sourceName": "Business Wire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2FmWHF6ZnNGeVRlOTlJNGFoTEVxVE91Q0pIal9UVzFtNFVkLUNGR1FQcHkxWm1abGRqb1pJLUtDa3FFbkwxVFdWYUYxamJYb0xBT21wRDN5bWxJa0dsOWxBVkxxZDFaUXF2YUlQN1VuTnpMZE1IWk00UkdzajF1UG9Kci1BeVdGV3R0WDVOUk9tV3hJWTJMeEZZTm9nNDFmaHFSVGQwbk9YZlBBQWNOdmlVckFPTDF1cElfNFBldUtyTUtwejI0NzRWN1FibWZWSWc2RG1IWUNDOUdnc0J3bTZIQ2YxV0JF",
+      "publisherUrl": "https://www.businesswire.com",
+      "publishedAtISO": "2026-10-07T07:00:00.000Z",
+      "date": "2026-10-07",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Solar project comes online at Nouryon’s Illinois facility Solar Builder",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System Business Wire",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-796f15fe8764805e9c64",
-      "title": "Kale Care expands Turkey surfactant capacity amid supply chain pressures.",
-      "sourceName": "Personal Care Insights",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1NfN29oaTNocjdnc2lQYndMWHpDNElBSzd3OFIySklaZGdQZTZsMGVXNEMtNGdESWZ6dlVUQk1pUlpTNWI2Q29wVnNxbFVYT0ZoMXJpdHRSaTJUVmpzNmEyOWJaVmFyemlXc2UzMldIOUNOX3Fkc2RtMTk4a1dmQw",
-      "publisherUrl": "https://www.personalcareinsights.com",
-      "publishedAtISO": "2026-10-09T07:00:00.000Z",
-      "date": "2026-10-09",
+      "id": "news-a126184db36cf1c8230b",
+      "title": "Nouryon cleared by regulators to supply a plant-based,",
+      "sourceName": "GlobeNewswire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPeTliUld3dVdpT3cxMjhUTktNS1RzQm1VVHlneF9JUFFKR3ZMUE5jVEJPNnlBT1hnc2RjSU5YVXZsRDNsdkdHdTRNNUdGbmFDTnNOaVVzMEVtdm9LWkNzWU96UTZicVpvOGhTQ3JEeDR6NHlMaGRXcFQ1Nmk0UnctTUdVUWVKamdSbHl0cVM5c1lENHozbXJ4V2VMbXQ2QktWOXdlenhZc0lPSFRMWXpCYm1fdU1pR0t5Q3VOU0FnX214Y2ZXYUZJdm4yUEJCVFhXV0F3TFdobTZoY0xVVmV2Yy1FNXhLUGRZOXBVLVBMNXd2dmJvNkgtMHJ3VE1DalJiN0NhQnd0dzNMZ091ZXJDU3NiX0dCekVpdzNCM2RfMGtRX2dnR09FN1NkUkI0SmMwXy1NZFZWMA",
+      "publisherUrl": "https://www.globenewswire.com",
+      "publishedAtISO": "2026-10-07T07:00:00.000Z",
+      "date": "2026-10-07",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Kale Care expands Turkey surfactant capacity amid supply chain pressures. Personal Care Insights",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon cleared by regulators to supply a plant-based, GlobeNewswire",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-84dface6ad0f8a65580b",
+      "title": "Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFdLSHhwazZuaUtpbFQtaW1Yb2UzbHZndnZVTEl1cGJSallrZTJ2TUE0QTU1LVRmbl9ickZjdHo1V1FiZExWWDdyVXREQkxYNVpuZEdtVnQ4SmF5VVE0SU1xYW5YUUJVSVdiNGg1UWFtOUI3SDdxV28zQkdydk93aVE5Q3B1X3kyQ3pkRW5QVnZOdVFuNndtNExYeWFMOFFNZW5HcQ",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-05T07:00:00.000Z",
+      "date": "2026-10-05",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-c99b016069849d1c1c6c",
+      "title": "EPA Publishes Guidance on Surfactant Reference Values Based on New Approach Methods",
+      "sourceName": "Bergeson & Campbell",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamlQWnIyMHFpMXZJZkFDUl9NMkJibDdNNjJUVXA4eG9SdTM3M0VTUzlCVWh2OG5MdDRvdkF1ZnpuNk45SWo5elhCV2xYVWhBRkFuS1RscEcxOVl4YzktblVNUkJUUnlaQkVmeFU2bXBITjNCOVk1U1BJYzdVczk3SnRZeEZ1TVhuQ2xiby00cVJ5TzhBWU41U1cxRmFYQ0Y3ZzREYUlwTTZJUQ",
+      "publisherUrl": "https://www.lawbc.com",
+      "publishedAtISO": "2026-10-02T22:31:47.000Z",
+      "date": "2026-10-03",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): EPA Publishes Guidance on Surfactant Reference Values Based on New Approach Methods Bergeson & Campbell",
       "verification": "feed-metadata"
     },
     {
       "id": "news-ec19d654987da0f5430f",
-      "title": "JSR Opens EUV MOR Plant in South Korea’s Ochang",
+      "title": "​JSR Opens EUV MOR Plant in South Korea’s Ochang",
       "sourceName": "THE ELEC, Korea Electronics Industry Media",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZR3BDRHZWWVpRaXZRMlMtWTRaVXhSQzFqOG5tRnBacnRmN1I2Q29hTE9rdloyZ1dVLU5iQ3dLVmEzTG44NkcxYnlTU1dVMjlOOUt1TTcxeGlKeFdIWVBBU0tpbTJNUVk",
       "publisherUrl": "https://www.thelec.net",
@@ -618,7 +562,49 @@
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): JSR Opens EUV MOR Plant in South Korea’s Ochang THE ELEC, Korea Electronics Industry Media",
+      "summary": "RSS 제공 요약(기사 본문 미확인): ​JSR Opens EUV MOR Plant in South Korea’s Ochang THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-eaf9f7d0950248bf3383",
+      "title": "Nouryon brings U.S. solar project online at Morris, Illinois, facility",
+      "sourceName": "GlobeNewswire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVWhudGo5ZU9OMVFKcUZvVFhOMmRjX0ZtbnluLWtOMkZrVTVfZDVrSzVqQkQtdWRjYWVGQWlpaVFiSXZaMVhtemYtWWF1VGZPeDVtMGdBYjBLcHF6QWpYcFBaOTRtMWNPTnJmVXZaTU1FdjA3ZjE5QmtpaXBlcTdSazFMZFg5T3FjZ2NJVW5zMmpocm5mbnFDc2pkVVN4V18wcGRMX1JETWhkVUZKanNoS1V0enJCZDhvQS1SN2NnbmV3UmFGOUN4bmJzZGlpWldveDNtdzdB",
+      "publisherUrl": "https://www.globenewswire.com",
+      "publishedAtISO": "2026-10-01T07:00:00.000Z",
+      "date": "2026-10-01",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon brings U.S. solar project online at Morris, Illinois, facility GlobeNewswire",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-0934caa6fe4d4bd6e493",
+      "title": "Unlocking probiotic potential: Non-ribosomal peptide synthetase (NRPS)-driven biosurfactant synthesis for industrial innovation",
+      "sourceName": "Frontiers",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPN0VTTkltcU1UaF9ZOFU2M29Yd01lbWIxa1dGcEFOSHQyNG04bkQ1QkYxWTdmYm1BT09Ub3RTNmRzRHY2cU5oZmsyT2tuYkxuQVpvelRKX0RHUGJYYUJCOFRwRUVMR2pOSDhaSWpqa3puTDVCSEVvejdNenVNUWc1MzVvTERXMkozV3dJZmZEZU9wb1NaQUQ0c2hwYXNXZmZCZTU4",
+      "publisherUrl": "https://www.frontiersin.org",
+      "publishedAtISO": "2026-09-30T14:03:32.000Z",
+      "date": "2026-09-30",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Unlocking probiotic potential: Non-ribosomal peptide synthetase (NRPS)-driven biosurfactant synthesis for industrial innovation Frontiers",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-1eab910516c55794f3d0",
+      "title": "Krahn Chemie expands distribution agreement with Nouryon",
+      "sourceName": "European Coatings",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd3M4aDFfdXNqbGlvSVNKSGNtWlZVTVduMkV5QjZtNFpLYzdyTTJXcV9wWi03dkkwMW56RlBmQnd2anZJVWFZSmkyRnhoSlhGY0I1R1NsdXk4ZkREMXhoYVdrOVhyd1BOaTJFTlIxQmhXaUt6T1c4aXFZbm5DdjJ3VjVfcFd3ME04RTFvY1h4R1owYi1fdkN3Y3pDUk92bElPeUpQQk5oMWVacThFZzI1ejFKYUY",
+      "publisherUrl": "https://www.european-coatings.com",
+      "publishedAtISO": "2026-09-30T07:00:00.000Z",
+      "date": "2026-09-30",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Krahn Chemie expands distribution agreement with Nouryon European Coatings",
       "verification": "feed-metadata"
     },
     {
@@ -633,20 +619,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Leading Domestic Semiconductor Photoresist Enterprise: Dual Breakthroughs in Self-Sustaining Profitability & Core Industry Lifeline Technical Barriers 36Kr",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-536a1f423bc2925d6b7e",
-      "title": "Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise",
-      "sourceName": "Newswise",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVdIB7AFBVV95cUxOTjBRRHFQdS05N0RnTzZPUDd5VVRXb2xLOUl3clZhZG5xeG1yUUd0dVNieFl5amVVbDJGRlFnalF3QkN5QXZfNnl5RjVpdDZtd3prS3FLN2tBMFdja2tWVVFNbkMzNEtoVVN0WDk5a2k2dHVCMVZxQVFWeEpMc2lYNlowSzEwTkRfRWZhb0o0azFWNUMwdGt6cUVjaDB2ajdKSG9mX2s4T0NGbm5NT0hhejFJZnFCNFJoekhxaTZNQlM2akthNkpkQnhsX1p5ckJTREZMUjZQSVJybFltTlVmcGRYU1pHWHU3RWkxVQ",
-      "publisherUrl": "https://www.newswise.com",
-      "publishedAtISO": "2026-09-22T07:00:00.000Z",
-      "date": "2026-09-22",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Scalable Nanoimprint Manufacturing of Achromatic Metalenses Based on a High-Refractive-Index and Low-Shrinkage Photoresist | Newswise Newswise",
       "verification": "feed-metadata"
     },
     {
@@ -717,6 +689,34 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Groups Challenge EPA Approval of Semiconductor Chemicals EHSLeaders",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-09bb36204aa643b3eaa8",
+      "title": "Study finds common vaping additives disrupt lung-surfactant film in lab model",
+      "sourceName": "KU News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlFBMGNGVWtNRVJsNnV3eFJQQlpqaWFuUlpDUXhNaWpZVWExdXF6dXY5d1NNOEpldTRQb016czFaUjBEbVE0MWZBcDBTZzZDVjFudEZSYTRsTlBuMFVaRDlBZzlxMnVKbGx3amt5WWdUek5qSnR4X3p4UWlVR0R3WDltZzBJRWNtb05VbjlaUnlHOGRvUmZPQzRpSXQ0RWxfeVZPUzZNMjJhQWFfZzdZ",
+      "publisherUrl": "https://news.ku.edu",
+      "publishedAtISO": "2026-09-08T07:00:00.000Z",
+      "date": "2026-09-08",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Study finds common vaping additives disrupt lung-surfactant film in lab model KU News",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-64c4bbf14426340491e1",
+      "title": "Data-driven pipeline enables discovery of plant protein surfactants | Communications Chemistry",
+      "sourceName": "Nature",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lcXdzd0xfZGdjZFB5MXNUTUkwX3ptTkpySGktQW00WXg5V093clVuUnM1dE5rODJ2eE9BUlY0LW8xem9FZnY2WnFVWWxQMGl2VjdwU01wTF9oZDUwNVNJ",
+      "publisherUrl": "https://www.nature.com",
+      "publishedAtISO": "2026-09-03T07:00:00.000Z",
+      "date": "2026-09-03",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Data-driven pipeline enables discovery of plant protein surfactants | Communications Chemistry Nature",
       "verification": "feed-metadata"
     },
     {
@@ -830,6 +830,20 @@
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): TOKYO OHKA KOGYO CO., LTD. Business Results StockWeather",
       "verification": "feed-metadata"
+    },
+    {
+      "id": "news-947362e5187b2259efe9",
+      "title": "Brewer Science Strengthens America's Semiconductor Supply Chain with Acquisition of Heraeus Epurio's Semiconductor Chemicals Business",
+      "sourceName": "PR Newswire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNX2YwNHY3eGQyOUF0Y1EwSDQ1X2pScWZWQVBDZms3MkhFbkF3WU5fNC1PdHhucldUX2xPMW1zelRJamNYemZ4bG5NdDBBdE96aDNIWkk0NXhYamhlcHJkM29LOVJaY3A4NVlRMmlheU1EOVNCMHB0MFloVkh3eU1iUHlOeVIwRVlQZVduaFAycU1GM2IycFhHX2ZiQmw0b29mOGwtM0NFTzJjQzhPRE53MVZVTHB4anZCZVNaUjBGRUNGN1ZSWkVaWGt2YTB6ZVFkeVgyWHBTa1U2Y1VTUkpOR2VLZ2xNSFlMekgtUXZmNFpmWjcwSEpmV3VJUS1tbjhOZkFMYmdJRFhSeGNFbXRZank4M0NmUQ",
+      "publisherUrl": "https://www.prnewswire.com",
+      "publishedAtISO": "2026-08-03T07:00:00.000Z",
+      "date": "2026-08-03",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Brewer Science Strengthens America's Semiconductor Supply Chain with Acquisition of Heraeus Epurio's Semiconductor Chemicals Business PR Newswire",
+      "verification": "feed-metadata"
     }
   ],
   "sources": [
@@ -837,19 +851,19 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 25
+      "itemCount": 24
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 4
+      "itemCount": 6
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 81
+      "itemCount": 37
     }
   ],
   "errors": []
