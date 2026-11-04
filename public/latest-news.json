@@ -1,10 +1,444 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-03T03:48:55.343Z",
-  "updatedAtISO": "2026-11-03T03:48:55.343Z",
-  "lastSuccessfulAtISO": "2026-11-03T03:48:55.343Z",
+  "attemptedAtISO": "2026-11-04T02:51:54.483Z",
+  "updatedAtISO": "2026-11-04T02:51:54.483Z",
+  "lastSuccessfulAtISO": "2026-11-04T02:51:54.483Z",
   "status": "ready",
   "items": [
+    {
+      "id": "news-c04e34773ba31a1f4297",
+      "title": "Japan's JIC Nears $8.2 Billion Exit From JSR With Sale to Mitsui Chemicals",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVlR1MW1lNEJxa0ZjUXpxMUZ6X0FWUVhvTjVfZmVpOUp6U1BUR0lrWXAxUzBCQTB3Q2NHUy1iS1pWVWg3aTF3WlVNamxBQ3MwMFZENVVaVG9DMEFxbjF0VldibXdLNWI2MGw0WHJlajNYb0ZrQlE",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-04T01:26:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan's JIC Nears $8.2 Billion Exit From JSR With Sale to Mitsui Chemicals BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ea5e60400ab93b7d21f6",
+      "title": "Japan's state-backed fund to sell JSR to Mitsui Chemicals for over ¥1.3 trillion, setting up one of the chemical industry's largest restructurings",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBjS19XYl9PTlNUbm1FNnowN3ZBWTJKOTJGMDVDcmw3TTMzQWM5bENXT2VYVGE0X000T0J1UHdqdXpvUzQwTkdENUxkMFpvN3hnX0cwRXd5U2g1UjZUUUFFR3YzYjhvblRyemNiQm5oZEVlVjRVdlE",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-04T01:05:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan's state-backed fund to sell JSR to Mitsui Chemicals for over ¥1.3 trillion, setting up one of the chemical industry's largest restructurings BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-dc53bef0a4479b56e9f9",
+      "title": "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
+      "sourceName": "Investing.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPT2RFUnZWQlE1VXE5TjJKNThuTUtzYlVyblhpSkFhY0tPZ3JDV2YxVkNKbmpYdmExREE3Vk05ZTVoZjlIUXRYYjNmVGN5ZlU3TnYwSWJLY0N6RU5zR0RNbjNzWEU2dFFCZUZMZDZPWEJDcHJmTVpsQ0Fod0FuN0pxS21YRzV3RHpvRXNlV3VxWG0yOEltcEtvX2phMTZuUlVuWHd1TWdURk1tNW5pQUt4d0k4WncydElhdGV4NzlMOTFLSFZTOGJXQQ",
+      "publisherUrl": "https://www.investing.com",
+      "publishedAtISO": "2026-11-04T01:01:36.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters Investing.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3409cf59994e2f5cd656",
+      "title": "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
+      "sourceName": "Investing.com UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxONVRHdUtieFlBZGhKQldTMEd2cDNPSU9ZbEdNbFRnX0VUN3hqaXNOWFhUenB2OHFGdk9QZ2QtTXV4UzRSQk5RbEFsbXM2OVVoMVZ2cDhRVDNoYXVySmVEZDRjWEMxU1B5YVNwd0N2M3pHTmFoem9OZ1p6cldLWWRxNG1lUkk3ajVLSm12QlNCSUlEalpYRVVpbUhCZWgyRGtjbUVwSDNKTUNpcVZqMGRuNzdaakhGdjRUWnVnMHpFSnhIZWtoekZV",
+      "publisherUrl": "https://uk.investing.com",
+      "publishedAtISO": "2026-11-04T01:00:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters Investing.com UK",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-e20960c1c97d66ec9097",
+      "title": "JIC May Flip JSR To Mitsui Chemicals For 1.3 Trillion Yen",
+      "sourceName": "Finimize",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORE4xcHh5c2pRMmVXVUIyWUY4dWhYYUR2QWE4dXQ3MjlqdXNUU29GYmpjSmFWSUNfOWlHd0lOaUtzNmxvaURhc3VuaE1pV2FXNU9KUTJPRjBrSE5HOXMwVGZIWUwya2doMlo4eFpEOXVweFVDS2M2NERTZXlGMTZiZWhDN2lvNEZVT0xoY3dB",
+      "publisherUrl": "https://finimize.com",
+      "publishedAtISO": "2026-11-04T00:59:30.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): JIC May Flip JSR To Mitsui Chemicals For 1.3 Trillion Yen Finimize",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-48668c0e770b7fec9eb7",
+      "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+      "sourceName": "Tacoma News Tribune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBpR01aWnlWNmRnUl92ZDkzaWdaVVU5MkNkSE5wcXUwRXlLYTVnaXdqSHI5MlNMd01lVEpoZ2kyMm5Pd1B3aFBGSW9oRDgxTGpFRGptUklYMkx0SjgtMVc1b2ZmYmptRkZWWkpWY25xd3RweVVH",
+      "publisherUrl": "https://www.thenewstribune.com",
+      "publishedAtISO": "2026-11-04T00:59:05.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say Tacoma News Tribune",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ad38c5cc4d2e257fb987",
+      "title": "Japan Investment Corp plans JSR sale to Mitsui Chemicals in potential 1.3 trillion yen deal",
+      "sourceName": "Traders Union",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSFJ0LXBDV3U4ZndRWUdZUGtsOHpYOGVTbjhGTWtXVVhESWhhQ1Y5WjlFM0U0YWg0a2lPeG5aWVNlU1J6MUpkSmV1OHc1WElyaF8teFBpWXZyN1BMUk1TYkwxWGJuVzh5RzVDNEVmUHB5N2gxZm8wR05fdWNESUFwcFJrZEg0dU9INmJVUkVsZnB0R1RV",
+      "publisherUrl": "https://tradersunion.com",
+      "publishedAtISO": "2026-11-04T00:54:25.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan Investment Corp plans JSR sale to Mitsui Chemicals in potential 1.3 trillion yen deal Traders Union",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4477a1928738531dfe2f",
+      "title": "Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPRGFQN0lXT29xLTZudzItaUFwaldrZmt5X0VoU0xxVVQwRGRzdHZ6MGM3UnItRkJKQUlUYlVTX1d3V2E4Qi1mRmJHU0loX1U5dDlTalgzb3U4S1p6NGRsTmJHTVFvTHh5NzFHaXkzZW9YNGlUWVdEU1U4MkRnV0xJVVl3MXhGVUZVZzNFbzEtYnpXQ2VNNzZTZ0hlWG9uOGx2UGV1bmI3ZXZQY1pUei1sRzZNSWh4emtHYm5EeGxiM2tFcmlfUzJfSm90OXRNZms",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-04T00:40:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-376d40f482cf00cadf0b",
+      "title": "Innospec Inc reports results for the quarter ended September 30 - Earnings Summary",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYVZwR1JLUkcwekNIQ3k1aURfdUNTeFJIbHRrZ0pwY3JaVmtiOWtnSW9aRHRzLThCUV9UWkJrVzZaMGFUMFg2R0VRZVh6Q1ZIQnptUFVzaklCVHdYZEIxeGk1blYwOTZoSnpsN2UtaWl4cDlyQnpfcU4wZ0d5RFVJTVo5R09ZUEY2bVhVRDRIa0JwdHBhalhMbzdlTUp5Y01XVWFHVDNuMXN0YzVlVWxrZFhYMUtxelJwaFVFcnd6YkJpTjhydS15dFRBY2NnZ1JzLTNaWjkzTlhqQUZtY2NZSnJwYVk",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-04T00:09:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-1c25be9fc4966a26b7ec",
+      "title": "Ashland Inc. reports results for the quarter ended September 30 - Earnings Summary",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQTlhQUjlwbXYwNS01b1pmbkxodWhQcUhPMnhfWmhVQW0zQU1TTk1pRDg2NUR1Tml0ZUtiWGhqREx5aWNBMEltWUNxZEpfNVNXaEdFclhFWWRONk1MTnpJX2tOUFdUTHU0UU5YSXNaajlpeFRNQUpxTERkM1MwMWZfeEdTR0ZaYVo0cXhiQ2RINVRNTGxEbDhPdmtGSEhQUXhGSlNvUTllbUxTR3Z6V0dhTmpvblV2NFZubTNfQ3BXWGpDNkt0R21NVjZpandjaXBtMDZqMEdWWS1ickx5Y2pwNTRfSQ",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-04T00:05:19.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Inc. reports results for the quarter ended September 30 - Earnings Summary TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-265d3d92af66b00827b3",
+      "title": "Innospec (IOSP) Q3 Earnings Beat Estimates",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDNuTW9yQWtlOGNtQURXZGpFbEQ0OE1pLWJueEJQQ2pPNVVQZWdfQnhkYUhwV213emcyNlpyWDVzSVd6S1VnOEtNUGZDRWZNRnFiTWY5N1ZxMDhUaDVtTXdyWDBPZ3FHSDgwQzFlVU9hY2hsMHhGa0dxRVAyMFVraWF6bkh2eHQtVmlYM1dkTHVXYURGOXZfVS1GQQ",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T23:55:05.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Q3 Earnings Beat Estimates Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d7585e99e05415df90da",
+      "title": "Ashland (ASH) Misses Q4 Earnings and Revenue Estimates",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPakJXc09WRWhXeEdXdy03bThGX05ubkVYN2FFU0dPR2FfdGJtSk1KbFlUMFZCYWI1NnZJTjhwUTkwUVdSWTA1TFp6dXZxTXpfbm9oUVNKcG5qNUd3anFFNGRUT1FWTFZFcmVRSlJNdEVVV0VmS0QySUxkZnFaZkZQVFRtMFF6T08yeEI3ZGNGUDFaMzh6bDBqdWw3Yw",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T23:55:03.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland (ASH) Misses Q4 Earnings and Revenue Estimates Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-2084c6ca391dac9cb4a8",
+      "title": "JIC Weighs A JSR Sale That Tests Mitsui Chemicals’ Balance Sheet",
+      "sourceName": "Finimize",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjBBNi1xajd2Vjh3TTl1VmlsZVZGdGpkWDhiVFNmOU04WE5IVk5GTzR4RDY1dGU0QmQ5Z2VNM2ZfbHc5ZWgzanBNYzNwZk9iWkJBeUJWTFMzY2hFbG4wMmlVRVZ2QzlOS250bU5VeTFENS1GVHVjQlgydlctbU1qNDBKU1lfbVE0UGp2aDhlMnM1alV2YlZn",
+      "publisherUrl": "https://finimize.com",
+      "publishedAtISO": "2026-11-03T23:34:32.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): JIC Weighs A JSR Sale That Tests Mitsui Chemicals’ Balance Sheet Finimize",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-bda641a08c2215c3c93f",
+      "title": "Ashland (ASH) Reports Q4 Earnings: What Key Metrics Have to Say",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYUN2VnhpNk1MVzVoSTNRa3BSbUFmWUtEbGhmYlJ6ZnpfUW9Mb3ZqZ3VFaTVCYmVKUEoxNEpzUXhCT0N4LVJsVnhTcVNrZXJ4SEtaLU10Z3gtWmNuclM3bThtdEtfRjlPMTV2bE1iODN2N3RkQVV0ZmJRWnBGOHFTQWZZdnItR3FTVUVFaWV5aWhGc01QM2RSLV82amw",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T23:30:02.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland (ASH) Reports Q4 Earnings: What Key Metrics Have to Say Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-83e41b48ccdf01b7a7b3",
+      "title": "Innospec earnings beat by $0.02, revenue fell short of estimates",
+      "sourceName": "Investing.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFNiaDVVeU9pbWNrdVowdzYwM25FTXpESWtUSzBCNnZlajBzckJTam13cktwMUN0a29KS2c3bXN3d25QTHZzOHEyZG5XazJNbk42eXJGYWN4SWVsRzhkTk1jdFRJMk9kYmNoeWRyb21wNHdTOGFFMWdDcmZzUlp2MFQ2TjJhbWpTMlRsWnI1d3hmTDhVam9hcFRFUUpNLUdEU0NpX0tkSl9YNzVlSnc",
+      "publisherUrl": "https://www.investing.com",
+      "publishedAtISO": "2026-11-03T22:54:53.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec earnings beat by $0.02, revenue fell short of estimates Investing.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3c2aa06bdec28db43f9c",
+      "title": "Innospec Q3 Adjusted Earnings, Revenue Rise",
+      "sourceName": "www.marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMDN2WG9aRTFzRklIQjlDUHFnalI1QXZwYjZQY0NtTE1PV2J3aHFPMHVPRDlCMFJtQUQ5SXhaR1p6WE1RWDZRLWgxeXpvTzF5a2NJc2tReVRhRkdxWFVkMmMzQU5zME1WcHZ1X2QybkZpZHFwYjl5bXJBMFhCamZoN2lSYUxwQ2I2OXFBdFRKRHItcUFadEJoVGxQbw",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-11-03T22:48:15.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Q3 Adjusted Earnings, Revenue Rise www.marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-e95a510ba2a3ed9abd03",
+      "title": "Ashland: Fiscal Q4 Earnings Snapshot",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNkxab3dYRTA1N1JZTnJ5a0xka1BWNjhGcFNqWUlLSWYyc2hrY01xYmN0R2dDLXVQRzhETWZ5c1o5cnFVV1hiMFl6dnVBcVBUbGpmcjZTNldkZWNEUDdUSzVYaVphM1doRUF5SzNHSnBiLTFrMDdxQV9wR0ZLdjJtcGtodldHLUpQTFNoVlNOQ1VobE5EY09ONFQ2LVZiUzJ2Ync",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T22:46:05.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland: Fiscal Q4 Earnings Snapshot Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-9e227dfac0b8268551df",
+      "title": "Ashland reports fourth quarter and full-year fiscal 2026 results and issues outlook for fiscal 2027",
+      "sourceName": "Quantisnow",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUXpnS292MjlvQ2UxeHIwYzgyWk9PXzZ0ZUVUSmhkNFV3VmVpODBWVDI4QnJuMGVwLTRRTkhMb0hBb3FLcWpfblRZNjQ4QUx1eVJFNXkzUGMzUnBGMkZTdTdSUkZhczZYSlQ3UGlaWjRlR19ETElieVU2SUVKRHhJRmpTWVktelo3U0tyTEFqMGpteWM1azVvSm4xT0dGNy1ZZlQ1emc3dnczRm91YXoyeg",
+      "publisherUrl": "https://www.quantisnow.com",
+      "publishedAtISO": "2026-11-03T22:28:26.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland reports fourth quarter and full-year fiscal 2026 results and issues outlook for fiscal 2027 Quantisnow",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ed9f1dc487d06d4d7bfb",
+      "title": "Innospec: Q3 Earnings Snapshot",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTm00V0hLSVdJYjJ1LVcyU0FGSWtOVVZpNDdUcmx0eHpNNWJGSlMwYUt5U2hMNWhNZ1ZGUHVFdml4NTU1WTJ6b3IyNUhxaGJOMnowN1hKNDdxaTc1STNpdDJPdkMtMGNNU2otZkw1LUM4RndqYTI0YjQ4b0lGRzVqeDJzWUppRzAwcjl1UVF3Q09Md3ZaMm1YYjB3",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T22:19:48.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec: Q3 Earnings Snapshot Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ac7f5e4681ff0a20d044",
+      "title": "Innospec (IOSP) Tops Q3 EPS by 2c",
+      "sourceName": "StreetInsider",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZDhjY2NoU0RCXzRkNUhBaFZjWkVKNW0xNnI0SS1lSDduQzAtZ1JSdElocHJqR0c2Q1NzeFVlV2Jzc19rMlE1UW9TTFA1UElEMFh5cFhDcEptTEQ3X0hvcF9BSTZxNktuSFRCQjh6X05tN3diQ0NJbnptdFBUODYxSTZFblE2WWhFcmU5ZFhvSVJtQV84",
+      "publisherUrl": "https://www.streetinsider.com",
+      "publishedAtISO": "2026-11-03T22:14:53.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Tops Q3 EPS by 2c StreetInsider",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4d9a1367266d23647360",
+      "title": "Innospec Q3 results: EBITDA up 16%, dividend raised by 9%",
+      "sourceName": "scanx.trade",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQTFoUGlFM3oxcHdPcFpCYVF5eDdTSVlVTjJzc2tFRFF1R2t5UEhCTWdvc2cxaDVkQ0Q1NGVYbWwwWmZJZllFMWFNaXExQ1MxRXRwUXJOMHBHeDNmTXAtRGQyZjdKQkg0cXpKZWI0VlZJQlNTaG1yX3BfaWdIZUxneDJ0QWF0dFVJRDBFTnJINS15TFF5SXNxamFrRGZsTm94V19aeTcxUENMUXdKOE12T1V5RHZBQUE",
+      "publisherUrl": "https://scanx.trade",
+      "publishedAtISO": "2026-11-03T22:10:06.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Q3 results: EBITDA up 16%, dividend raised by 9% scanx.trade",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-88c8c0f8d771bf562534",
+      "title": "Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
+      "sourceName": "Quantisnow",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPN2ZRbk1yTHp6QmVnQTlkeXp2cE9QVkxWeFVvMjJFTVZqNktUX2V1TzNJS3ZJRGZpMm1KWFZkYlgwN3hfcGJEYXg2TnZuZEtIaHJ1Smx6V29sdGVGOC0wb0Joam1LUFBCUjRzR2ZNSjNZend6Nm9UMFdlYk1YeUhvM21ublBmWE10LVU4a1ZRTkJnS0dQM3lz",
+      "publisherUrl": "https://quantisnow.com",
+      "publishedAtISO": "2026-11-03T22:08:23.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS Quantisnow",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f6f369bc5a0037d993c8",
+      "title": "Ashland-Greenwood persevering, will hit the road to Chadron for state quarterfinal",
+      "sourceName": "KMAland.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPemV2R3A2QWRzeHkyR1dzQVJMYnlMUU5ndzVMc05LY3phU2lzNmhxVDU3YXVuQ0VwRDdEVlkyaU5IeXdKTWRyNU5ST3h3ZTdCNVh1Uk93VUpwbHRQVmtSUkp4SEs4TFBZMmRpNHYyYzE2NHh2bUxnZnl0LTI4d2lHRVdzS3JDcGxPeDhsSnNsbHY2dFFRX3V6eUVMZHZhaG9EdF9mc3ExaVVXTnlEaUU2OUNoNTZhT2tuX2tnY3dENlBFTUI1THpVN1NGMWJYbkpVR3IxaUEwZ0NrUjRYUS1IaTNFRktVVnVsVndFU1gxc2plR3lD",
+      "publisherUrl": "https://www.kmaland.com",
+      "publishedAtISO": "2026-11-03T22:00:00.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland-Greenwood persevering, will hit the road to Chadron for state quarterfinal KMAland.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-181fc66ca7364dca17c9",
+      "title": "Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
+      "sourceName": "The Manila Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQX1R0QUVlb2UzS2F3NFc1SmpkSVFlRzNpUVBtV3B6cXNiUEdaeWJaczRSY05BMlUxQWFIbzNjRVVsWmNkcHMwdzhUdEEwR0UzQWw5OXZKX3YyWE5vYmJIckJXeEE0UlhKQzUxY2s1S3NwRXpwb3k1MmZwTDNPSC1nYnZ3bGE3ZGhWYkt0aThkZF9oZGU5UDhlMEFQU0ppU2FmWTQtN1FHOGFPRllyazFZdmI0ZFZLM0tzd3B0MnhuODdzcTMyU0HSAcsBQVVfeXFMTk1YUHFYeGFsOXQwUFR6ZHF5ckU2TXpvb1NHNjljXzFBZ3lJM2M4UzZYZU5udm01LU1UY0hHVGxPVTBNb2VwVVIzckZ5ekVzV0swTmRwWDdnZ19fdUxQdU81Slg1SVpNQ0ZpOE0xOV9SZGVCTTRQazVMNUZpdExqZGRXcXhqb3hUOEpGc2VrNE5kLU9JLXNId1hTTTQweVpDdkFfekExZG9Qd1pMRmF0WW04NEZhUFhucGNZLW1HcFF4R0pEaUV6NExMTlE",
+      "publisherUrl": "https://www.manilatimes.net",
+      "publishedAtISO": "2026-11-03T21:51:59.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS The Manila Times",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-26f0a2e9fec41fa39511",
+      "title": "Earnings Flash (IOSP) Innospec Inc. Reports Q3 Revenue $473.6M, vs. FactSet Est of $479.2M",
+      "sourceName": "marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNS192UkV1SENMV2lCZVd3N3hEemp3aXdCVjA5ZU4zeG9tMGE3THdUVHprcWlFS3ZiVy1HZE1KdExQcVIwc1JLZzRCZDBfSURVMV9FaE93QTFHaXp6b0NXUVZMb0hZamRuaXVPVnhoNXdpRkNuYVVKSFVaVUtmZXZDSHhabzFJTjVnSEtPMTZpbUlNUXZLWDdKZEdzYVNPbWlhcHJLRTVxeGpMdGhlaEtRTGh1bkFiNDhuRDloMVVQMTRkMnUtbHowZXdraDQtTXVXaUE",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-11-03T21:51:25.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Earnings Flash (IOSP) Innospec Inc. Reports Q3 Revenue $473.6M, vs. FactSet Est of $479.2M marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f61c64207e44ca739371",
+      "title": "Earnings Flash (IOSP) Innospec Inc. Posts Q3 Adjusted EPS $1.29 per Share, vs. FactSet Est of $1.26",
+      "sourceName": "www.marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPRGpLNGxpVDhDYlU2M281aDd2OVhFREZfZjhlT3lGY09JT3hsVGgzWXVLZnhleHlDc0RBTk9mQURLbGFmejJyamF2S3g2VE5ya3c3MUV5VmRRNmFMTFBVV1dCQVJjUnBfTUFUTW5NbFJaVC1BUFdHbDhxdWdFNjItVURVZU9iNW94ajJlRUZtMEJRcnBEUEJOWU1DbGQ0cFo5NExzUmJwMUJQUmRESWhqWThBeVR0VEdjOVJHazlkbHltcG9NMEFkVGJrUTlZdG41dDFvMkttV3BfQlRsX1E",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-11-03T21:51:14.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Earnings Flash (IOSP) Innospec Inc. Posts Q3 Adjusted EPS $1.29 per Share, vs. FactSet Est of $1.26 www.marketscreener.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-e0f3e6868c7b3de135a5",
+      "title": "Sugar Based Surfactants Market To 2035: Bio-Based Demand Accelerates - News and Statistics",
+      "sourceName": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdGxPbUY2cnVkeTZCVXhzbXZIS0Z0VWNmbTRsa3ZxQ25od2w1dGJuSktCelJKSEdfM2kyMXMybUlrZG5jSHc0X2ZDUXlkN3pwT0F6eW1jb282RnlTbzZnUER0TllVclJ3U2c4QlNWTkZQQzM3LWt1bi1yXzctbmdPd3NZS2VZOFNRY2lJR3pKNmI0ejU0WXhMckh6aTcyWVN5bFM3V1hERDU4V0t6dWR6aVcxakl3SzBrTjhFRWxJWHB6bUNDZi1jYg",
+      "publisherUrl": "https://www.indexbox.io",
+      "publishedAtISO": "2026-11-03T21:16:04.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Sugar Based Surfactants Market To 2035: Bio-Based Demand Accelerates - News and Statistics IndexBox",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3f1276f45009b0c8f00b",
+      "title": "Innospec earnings loom with revenue test after strong quarter",
+      "sourceName": "Investing.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN240dUsxRVhtbVpsWnJiZ0xodlJBOWxXczZYYzVUbW1aV2ticzVld1FpY3hnZE8wOTd2RUFpOXhHWVNTdFk3YlgxeWR3Q0Fwd1pEcnhoZE96VEZLdzZoLXhwZUlaNFBXU04yUkxhR1NOVXlPLVM0Ump4TmNFM0tkTUkwUmZkQ1FfcE50TW5GVEx3MUR0TmNsQTNSZmptMWpsREVycmxNVzVFVlN1djZudWhXRnE",
+      "publisherUrl": "https://www.investing.com",
+      "publishedAtISO": "2026-11-03T15:27:29.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec earnings loom with revenue test after strong quarter Investing.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d198f70fe2400627ac98",
+      "title": "Lubrizol’s medical-grade Tecothane Soft AR-65 TPU",
+      "sourceName": "Today's Medical Developments",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDlEU3diYU9PVkwxVUZDcEhqaXU0eGdVQ19wRnljeW5GclJTeUtmaXJKOVBtYm90ZDVOWjZvOUFkbEYxS0FCQkw1QjVfc1lRM3Z5cGRhbjNUMDhOQzhCUlRQTEs1NmFtTVdGWW1wSlhxVXZRQXRqZ3VURThId1RlZXpDTTBWaDB1dW1OUUZiX0kxX2hkOXdXMmNSbFN6SE0",
+      "publisherUrl": "https://www.todaysmedicaldevelopments.com",
+      "publishedAtISO": "2026-11-03T06:06:51.000Z",
+      "date": "2026-11-03",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Lubrizol’s medical-grade Tecothane Soft AR-65 TPU Today's Medical Developments",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-0937fe80f904d94b74cd",
+      "title": "Caterpillars fight off ants with surfactant spit",
+      "sourceName": "Chemistry World",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNM25XQ3VIUHl3dngzcmk1bHBxNGlUOEdQSzhLeWZUaUVETG5ucG12bWRvVUxObzhuVGZFekYyOFBRUE5na29yNDhzQ2VwanVIc1JHM1YycFZLZFBhNTFPd1V5bnV3R2d0TGR4elAzLTdxbEpxbEZSdDM3UjQ0eTlNVnlsZmxkTU1MVTU4d1k3cEdMOWg5ZlVMaG15ZTc4M2IxSmc",
+      "publisherUrl": "https://www.chemistryworld.com",
+      "publishedAtISO": "2026-11-03T01:30:17.000Z",
+      "date": "2026-11-03",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Caterpillars fight off ants with surfactant spit Chemistry World",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d5c0534d189466cafabf",
+      "title": "SupplySide Global 2026: Lubrizol presents microencapsulation technology and ingredients for beauty-from-within",
+      "sourceName": "Personal Care Insights",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYTZHOXFUc2xyc0hCSWt6aXBINVB2a1JfbkhlZFFnN3RGOGdrV3ZRMmVubTgxd203ZGp6Ry0yT2NuZXhCQUtzQmhqc0F1T2JId2lzV3F5NjNxZUppY2xIVEZXNXJkbEpMWndmX0RMOEZ1RjRNMVM0UFd0c3d2dXViNksyeXJFQXlPMmVhOFltZjFrZ3pfRkI4cU5GVXA2c1haVVc4SGxTREM",
+      "publisherUrl": "https://www.personalcareinsights.com",
+      "publishedAtISO": "2026-11-03T00:03:01.000Z",
+      "date": "2026-11-03",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): SupplySide Global 2026: Lubrizol presents microencapsulation technology and ingredients for beauty-from-within Personal Care Insights",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-bc4cfc478e87b44005ed",
       "title": "Groups Sue EPA Over Approval of Toxic Semiconductor Chemicals for AI Data Centers",
@@ -17,6 +451,20 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Groups Sue EPA Over Approval of Toxic Semiconductor Chemicals for AI Data Centers Science, Public Health Policy and the Law",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-62faaa830c65c04cbc9a",
+      "title": "Ashland Sets November 3 Release for Fiscal 2026 Results",
+      "sourceName": "MyChesCo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQjhWbVBqQjhYbE9xSm9pYjdlOVhNdGZtZzlfWXk5T0REMm11X3Q5V0xqUU00dDh1RjF3N2h5cm1JQWRtS1hESGtSV3QwSEhOUHR3Y2JqUkV0NUdLcXc0T2FKOFE1QU5mdFVfc1R1M3RNUDY0TlRGQWU1ejFOb3Y5dFh5RzFPTmtDMEd2UE5HWFpqQWs2bVFKUUxHMVJLdw",
+      "publisherUrl": "https://www.mychesco.com",
+      "publishedAtISO": "2026-11-02T12:00:00.000Z",
+      "date": "2026-11-02",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Sets November 3 Release for Fiscal 2026 Results MyChesCo",
       "verification": "feed-metadata"
     },
     {
@@ -48,6 +496,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-4ea3724efe2655b382bb",
+      "title": "Innospec Inc. (IOSP) Stock Price, News, Quote & History",
+      "sourceName": "Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wbUl3TjJYUHV0QTBpY3VfYlhQY0NCM0NJUHB5VjZyR3hnaDlLYzVjdmRaVlBTZEoyell3TDRUd1pyLXlhbXNuNXRNZ25HdTYyZkE",
+      "publisherUrl": "https://ca.finance.yahoo.com",
+      "publishedAtISO": "2026-10-30T19:20:28.000Z",
+      "date": "2026-10-31",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Price, News, Quote & History Yahoo! Finance Canada",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-336884790ad8328bc579",
       "title": "Ashland daycare owner convicted on two child abuse charges",
       "sourceName": "KETV",
@@ -62,20 +524,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-a29cbb1928fb6f9aa18f",
-      "title": "Solubilizing Surfactant Blends Market in India: Size, Trends and Forecast to 2035",
-      "sourceName": "IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcU5XbEU4b2k5QUt0MGxVU0laSWhiRUE3NjVUdDN6VGU5eWVIQjd1SThwWjFJU0dMZ19JUlJNVkNnVnMyRVNXYjZVUldMdkdPZHprbkxMc0trTnQ4U3J3Qy02bzlBdUVGdnRVWTdwU1pwMlM0a3ZFZVFiUDRvbnV1ZEJpeWJ4LV9GWVF2QnVFRVRNcERiNjJWWlg5SmhJN0E0bVVwbm9zaGpsZGtWYllURjZyaXlWVUFE",
-      "publisherUrl": "https://www.indexbox.io",
-      "publishedAtISO": "2026-10-29T13:43:30.000Z",
-      "date": "2026-10-29",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Solubilizing Surfactant Blends Market in India: Size, Trends and Forecast to 2035 IndexBox",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-ae499be14df113a5a929",
       "title": "Dongjin Semichem: \"Supplying EUV Photoresist... Developing Advanced Packaging Materials\"",
       "sourceName": "아시아경제",
@@ -87,20 +535,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Dongjin Semichem: \"Supplying EUV Photoresist... Developing Advanced Packaging Materials\" 아시아경제",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-fd2e4ff4683546691764",
-      "title": "Specialty Surfactants Market in Germany: Size, Trends and Forecast to 2035",
-      "sourceName": "IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZ09xNEVWV2FyX1RtTWIzTFB3akNNWUx6WXdrMjJzalg3Y2ZPdFJic0dOcEJVVGFaSU1qV3Z0MVA0SG96RlM4R2t4b0VpRUZqT1dHMXh2OXFQWWZpekJNZHlfNmlmMnpUdGM0dFZDMUJaU21pWjNXaFFNTHdDR29QaWUzblhXdEpkMWM2VFJyZWMwVXlZbi1WQ2MtQURIaVBEZ3VSd1o1dEFlcTdwZEhz",
-      "publisherUrl": "https://www.indexbox.io",
-      "publishedAtISO": "2026-10-29T07:00:00.000Z",
-      "date": "2026-10-29",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Specialty Surfactants Market in Germany: Size, Trends and Forecast to 2035 IndexBox",
       "verification": "feed-metadata"
     },
     {
@@ -160,20 +594,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-fffc754b8b25d1f77b65",
-      "title": "Scalable nanoimprint manufacturing of achromatic metalenses based on a high-refractive-index and low-shrinkage photoresist",
-      "sourceName": "EurekAlert!",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5FNkVsd0NoVXRfY3g5cy14b25ZQVFKaF9sbUtsZUtIVmZXSjlOVzRxVWpQTWpYd2FmS2lxOFNHTUVqOGNXZ2daTDJMUHJ5Z0hHMVBBc2cxOWdldk0w",
-      "publisherUrl": "https://www.eurekalert.org",
-      "publishedAtISO": "2026-10-28T15:06:36.000Z",
-      "date": "2026-10-29",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Scalable nanoimprint manufacturing of achromatic metalenses based on a high-refractive-index and low-shrinkage photoresist EurekAlert!",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-2d007abfcc9251893fd8",
       "title": "Stepan Company (SCL) Q3 FY2026 earnings call transcript",
       "sourceName": "Yahoo Finance",
@@ -185,20 +605,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company (SCL) Q3 FY2026 earnings call transcript Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-8a0972c8a2b453d2207c",
-      "title": "Stepan Company Q3 2026 Earnings Call Is Live",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT2JmbXRWVmlJQXlzSk0wQko1bFJqVnFxQmJaTEdIS0RFZG5oVGQtb2RpcmJYb1V4M0pMaFE2dHhlaHB3TllKX3Z3bkFoc2JxV1VGcnUyZi1oeTA0dGE5ZlJSLU5jYW1sYnFnSUN4cWZpazNSUHdIem5SUU1RblhWcExXLW94amZFb2ZnNEoxMG1LQ29CdTh3aEdFeE5QNlhmT1R6eVRYMmVCa3FBQ08wdm9aZw",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-10-28T12:57:03.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Q3 2026 Earnings Call Is Live TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -227,20 +633,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Increases Quarterly Cash Dividend, Payable on December 15, 2026 marketscreener.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-b8ddcd44f5d787354a1a",
-      "title": "Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase",
-      "sourceName": "Kalkine Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2p4VEVrRXlfZXpiTXFMVzZBaUlsaTA1UHV4bzBXekV6cEppWkRxX1ZyaW5WbnFpOGd2TGVWampOVlA4elpJWkF6MjItNlZFVllDMmNLcEs5eXR6Um91d0JxVWwxTEhtYnV3VEJ6czVGSjYwUHhUcEZ0U05hamlTb19TNVpNTlhiV0psaHdCbnVpUG1ia1hsdlctRmxBM25tU3FTTERhMGNfbUYxY1FzUGdiS0dNSE1vYVc5c1RMLWY4a0l4WnoxWmNyWVBQc2M",
-      "publisherUrl": "https://kalkinemedia.com",
-      "publishedAtISO": "2026-10-28T11:04:39.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase Kalkine Media",
       "verification": "feed-metadata"
     },
     {
@@ -300,48 +692,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-69bde8adb157a89b5dd0",
-      "title": "Stepan Company to release Q3 2026 earnings on O...",
-      "sourceName": "Pluang",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPODVKd2VWa3g2NFhiMnJFX0JIZkIwV3lNZEloMUx3OENqdGJsWldVbUVMYUZELTRYdzkya01UYTZVdndLUjdTVXNDZnh6VTRQVDN4VXhBRGdjbzhfLUJTVWVua0VDU1hUcXFxVktBZkZoczhmSWpuWnpsT1NTY0p2MXVPcW5mUXhNeVQ5YVlXdjc3RWxVMUE",
-      "publisherUrl": "https://pluang.com",
-      "publishedAtISO": "2026-10-28T07:00:00.000Z",
-      "date": "2026-10-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company to release Q3 2026 earnings on O... Pluang",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-6fe46606080ef7e33eed",
-      "title": "Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdmdmE5V29IN2V2bUo3X3VKeHRZZGNRV1l5VVJJMm9SU1h6ajhGUmYzeGM3aVpUb085UjY3bXpxbTE2ak90b3Vnc0Q2RUJ2V0M5aHd6Q2xlN01HMmJIcWIyN0JNTHQwaTJ3OTRPN0VXTG45VUQ1X3drckdrTF9BSXV2SVhEWS1HeWEzY2otX3Y1WGJWUUI0WHVCYU1TUnZQR3Jv",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-27T13:00:14.000Z",
-      "date": "2026-10-27",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a7c8f4459de20ca3b32f",
-      "title": "Ashland sets date for fourth-quarter fiscal 2026 earnings release and conference call webcast",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZ2RrakNxWEdseDN0Y2E4emtrYmtHOEVJSTRXNDhlVWRFZGpyMWloRG1pV25UVUJqYVhBMk44RHdDMG9EU0RqMEdiVlJxSG1IcUctcXVCQnUzNEhKdnlCSUZQSGIzN0t6em5ITGhITF83UjZMNmp2RWR6bXAwZkppY2ZZV1NyLVJWMTdDSVljcnBTa2NvX1M1aFF4MlZJUQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-27T11:00:00.000Z",
-      "date": "2026-10-27",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland sets date for fourth-quarter fiscal 2026 earnings release and conference call webcast Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-0ff410dec7ee67d3307e",
       "title": "Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow",
       "sourceName": "Simply Wall St",
@@ -356,20 +706,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-6057b1a3abe212f1c567",
-      "title": "Galaxy Surfactants (NSEI:GALAXYSURF) Stock Price",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zUGZVUXNXVERYSVZqY0lVTnp0b3FMQm4yY0RSRGRxSnJFVHpuZzFqRVlSODJja2xYSEVEbkZOMnhMZnRvaHh0aFY0OHMyNXVua3cwT0lB",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-10-27T06:10:28.000Z",
-      "date": "2026-10-27",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Galaxy Surfactants (NSEI:GALAXYSURF) Stock Price Simply Wall St",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-4f63135c18f0aa6a20b2",
       "title": "Innospec Inc stock hits 52-week high at 100.48 USD",
       "sourceName": "Investing.com",
@@ -381,20 +717,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc stock hits 52-week high at 100.48 USD Investing.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-9cb2d75dd09a60418c08",
-      "title": "Innospec Inc. Estimates – NASDAQ:IOSP",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9sTzFJb296aHp1U2xCZEFsdkdHRXpkb1FHR19ja1EweDRTT0tGNElNMkdKVEN1RktQSVVoOXE0ZHJVcmdQX1JrdUJDNWlhNERaN0NxeEVKbHoyaWVqcWRfbjN1YjIyNVpPN1RnNTBPVWNzOFp4SGxqbw",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-10-24T09:27:04.000Z",
-      "date": "2026-10-24",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. Estimates – NASDAQ:IOSP TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -426,20 +748,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-dab0cc7a4d9f474648be",
-      "title": "Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties",
-      "sourceName": "THE ELEC, Korea Electronics Industry Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA0dVp0amhhNEZremxFdWxuVUtZcVJJbmU5U3AtSnZwY0p0Yzl4dF9FbGN1S3NST0dRUG5zMW00TDFwY0otdW1JYVZfVFpxSFhERzZuUGpSc3JiaVlZNjc5UXU2cXpvcGc",
-      "publisherUrl": "https://www.thelec.net",
-      "publishedAtISO": "2026-10-21T07:00:00.000Z",
-      "date": "2026-10-21",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Fujifilm Prepares for EUV Photoresist Mass Production in Pyeongtaek, Deepens Samsung Ties THE ELEC, Korea Electronics Industry Media",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-e9532c03f5232c7b9ee2",
       "title": "Pyrolyzed Photoresist as a Continuous‐Tone Mask for Grayscale Lithography",
       "sourceName": "Wiley & Sons",
@@ -454,118 +762,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-7851a9866bd139efac68",
-      "title": "Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNTWhPcDRGUHZPNldYV3FsXzVXdnBKV2lNNDJhanpjNFdIbmtrOVhyM21qZ3RrY2t3NHh2cGJ2VXBaVzZxU2xUNGVSOHdkcVJteWRKTWI1RWhuQTBhTmM5WS1pMVRwTUVndjhUZk9VSi1VT19ydUcwd1M4c3c5SlBiZk5mY28xWEI2cUppVlF1MVlaQQ",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-10-19T00:11:20.000Z",
-      "date": "2026-10-19",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant-Tweaked Salt Blend Slows Coal Spontaneous Combustion Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a63d9ac1ef955bdf858b",
-      "title": "Battle brews over proposed personal-use airstrip in Ashland",
-      "sourceName": "Rogue Valley Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWgyYVpNa0lHTzV4bUFxYXZlWE5aUzM5VGxsYkh5ZzdzMS1KY3U4YWtiV3JBaHpDQnNLUU9ob2lia0kxUl9yRngxV0M1RG1UWmxFaW9oTmhqblRjYzBaNHVWSlRUWm5XS041YzZUSXZRYlpGU0hKYjdMT1Z3VFlHUGRyVDJzVW9sYUZlOGFZRWFISGRCMVIw",
-      "publisherUrl": "https://rv-times.com",
-      "publishedAtISO": "2026-10-18T07:00:00.000Z",
-      "date": "2026-10-18",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Battle brews over proposed personal-use airstrip in Ashland Rogue Valley Times",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a3d921e8b875d57d2b02",
-      "title": "Cell surface receptor loss impairs surfactant production, lung resilience",
-      "sourceName": "American Society for Biochemistry and Molecular Biology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFg5NnJpQnlDeHhiWC0xRzFZMEFiV2JJSlluVUpXV21KNzFUNkJmS1ZtTWwtMjRIQVdVR0NET0RJbDBIZVFQTWNBS2tEOTZTMWdKTWpFVEZOR2RCMTFRYTdTR25DeEozWHRhYWZJQ1Z1VEU5T3pLa2s3bXc4eTFlSUIxRXY1QTd0b2dpeUVMUzdCU2Z5N3pJWk1n",
-      "publisherUrl": "https://www.asbmb.org",
-      "publishedAtISO": "2026-10-15T07:00:00.000Z",
-      "date": "2026-10-15",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Cell surface receptor loss impairs surfactant production, lung resilience American Society for Biochemistry and Molecular Biology",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0b217fe88c0abf483af3",
-      "title": "enGene Highlights Surfactant-Enhanced Bladder Cancer Therapy Data and 2027 Update Path",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd1JJVUxWVkdCa3pGWHZuS3Q0Xy1icVREeVR5RzhVd1FCNjFpeDZUZFRKQl9JUkdCSWI3dXlxMjVDOFFJUGM2MW9aZ1Brekl5RUI0NzgtQzVJRWltYWFSYS1pTHd1X3FNQ2RkV2J1RVNMTkEyc045aVN0ajZUVFFQcUdWY3dOZGlvN00yWDVrNkFHcjJjNWNGUHpLQ2ZYb0w0ZkJOVHBRbHJJUQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-15T07:00:00.000Z",
-      "date": "2026-10-15",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): enGene Highlights Surfactant-Enhanced Bladder Cancer Therapy Data and 2027 Update Path Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-2725d3e1bcec5e94be87",
-      "title": "Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXUwS3Q0Nk5GZDdmalJaLUFoNDBzdkFYV21LaWhvREE4YmU3VzZhS0Fxd0hEb3Y5OVdzSWp3NmRMN1VCT2VScW5lOUxzWjE0QXFSNzFCSmRGVC1kcmlTY1hLN2VBVm5LNzRBVjhTOElDTXVLLU1sRnpnWGViU2V4X1dENUFEcENfYUhqUGlDOTM2eWJuLWpJaUwydVIyMUREVEtoYmNkMW9hN19vZHhV",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0f0302c806466e684113",
-      "title": "Systematic investigation of cationic monomeric, dimeric, and trimeric surfactants for self-assembly, adsorption thermodynamics, and enhanced oil displacement",
-      "sourceName": "Nature",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhSDdIckFMbXFlSWVGV1pfeU05bkJVel9oVlI2Y3Vra2FJRWhYcXJYdnJZUkRxYVVjbFZQSlFnN1RxUkZMOWdzVW5HaXZKQi1EcnRLamVsNW1qWXBFNDJZ",
-      "publisherUrl": "https://www.nature.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Systematic investigation of cationic monomeric, dimeric, and trimeric surfactants for self-assembly, adsorption thermodynamics, and enhanced oil displacement Nature",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-d694b3493d0fc0fd0410",
-      "title": "Nouryon promotes biocide options for disinfectant formulators as EU regulations tighten",
-      "sourceName": "World Aerosols",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmNnYU1lMWZtX1hSenlCSm9lei1LeDV0R0pIZGJvblZDc2ZqM2FKWWZtWEhUTExVWGRKY3pLLUlBdmVDUURpa0Rvd2NtZU40eUxaVnNVRjg5VTgxWFp6VjdlalNWMG1JNHltTTQxdXVXXzNyUmVRR0ZGSVhTblJIN2l1TUVibGc3SXBrMWFZYnFWMUlhMko0dld2Y25INlJ5SE1SOWFOeWtHWjJzZ1JxcHQxOWN2SkFiZWU0",
-      "publisherUrl": "https://worldaerosols.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon promotes biocide options for disinfectant formulators as EU regulations tighten World Aerosols",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-da0035e4309b1c74f143",
-      "title": "Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices",
-      "sourceName": "The Manila Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLThhVTY5SE1BM3hqOF9rd0hnUVBMcnhwVkN6bE1ZTmY2dzhTU1pRMXFOWHFjWkxSX2MtRWtDT3RDNHFrWDJPb3NiMVdlYzdNdW9YTzEtWWw3aTl0Qi1GRU1oN0R6Nmsyc1dKckFWLXN6ZG1yaHg4Q0t0aU1JOUNtSW94YXdVWXBXU2E1RHlpenZYbDVHX0x4cU1OWWVSM3VaUjFvXzY5MmlLOUxseWxzb2VRdHBKRl9yR2RMSnZlMU5nM3hQOHd4UHUtWnYtQjBYX3Yydm85bXFaQ1RudXBsSzhsMFVNNV9RTnNmSm01RmXSAfYBQVVfeXFMTjAyWnI3blFFYjZhNDN6cGwzb3J2M3VBeXRZdmJKY3hDNGJXT0pkTFpnLVRzVFdHaGJqX19MSGVueHNFRlRfdHhONUZ3SmN2Z21EcmFibTJNcTkwOFA0aVc3Qi1kODc2S2lEVFFKaUFCTGY3aWlNQThwa1BiLWZ3a0tSWnJ0T3p0bDl0bU5fdlFvSDRIRDJ3R3hUNnAtbktldHZMbk9WMzhHNGVZM3ZJV21NcnlXeUtlNGtOZGFQMThRN2d3VWNtU3M3ajV3X2w1REktNVRxQWRRaHVfUHE1dXZTVlNjZlZ6SG1STllqN0lmNkZVaV93",
-      "publisherUrl": "https://www.manilatimes.net",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices The Manila Times",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-5bf855a9575d3a421e8b",
       "title": "Electroluminescent photoresists make LEDs easy to pattern",
       "sourceName": "Nature",
@@ -577,34 +773,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Electroluminescent photoresists make LEDs easy to pattern Nature",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-96c1a99a7b532d6211e2",
-      "title": "SBI Securities Starts Tokyo Ohka Kogyo at Buy with 15,000 Yen Price Target",
-      "sourceName": "www.marketscreener.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXYyTDdra0M1TXpsSkVzSUUwcmxrTXd3eHpkTTlOQW1xRlhHZEJrLUV2Y0hpRU1Zc1pDdXBycHp0VjY5YklqclFaamNEclliV09XMFVjNmRyWUo0cHYyYWlvZDNFLUFpUVlsQWtkMG9xdGhtd2pxZEMzYm9SMGZET2lUSnhmMGx5S1B6QkZRd0R5OUxQTjgtT05zUmNiS1hyMzhaX1B5VGVMbmotU1Awd0pjZVVfOTdEcHZMN3BxR0QwVVpwNlE",
-      "publisherUrl": "https://www.marketscreener.com",
-      "publishedAtISO": "2026-10-12T07:00:00.000Z",
-      "date": "2026-10-12",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): SBI Securities Starts Tokyo Ohka Kogyo at Buy with 15,000 Yen Price Target www.marketscreener.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-5da1e4a4c2556fb34aa0",
-      "title": "Annual Ashland Open Studios Tour invites public to get up-close, personal with artists",
-      "sourceName": "Rogue Valley Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ3JWVGFCa21YM0VTUkpFcUF1LXdKUDlXYXNpUGhlMHJmYmN0dWNLdnRTWm1TOExlWTJ1MndwY3lKamxva0VWV3lMRUViZGhmX3BiYWJtejg1Rjk4ckpXeHFLWWpVYnpiSW5aVkFfVTVPM3phemRKZjNZMlBqQ1NFVmNoNUxkSjZJdHNQU1NTVUJ0ZXFoVGZONzFBenJhM25aczFJSlB2TzhDUEFQVE1wQjA3UEw1UUxGRWc",
-      "publisherUrl": "https://rv-times.com",
-      "publishedAtISO": "2026-10-06T07:00:00.000Z",
-      "date": "2026-10-06",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Annual Ashland Open Studios Tour invites public to get up-close, personal with artists Rogue Valley Times",
       "verification": "feed-metadata"
     },
     {
@@ -650,20 +818,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-b0059f0e14fcd067bae1",
-      "title": "UNIST Develops Tunable Tin-Based Photoresist for EUV Lithography",
-      "sourceName": "Seoul Economic Daily",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRUw0dzJwSDJBRVVHLVphcVNVUDFjak5MdkxKSm14bDM5UUFadDgycnhEYURBZEFhbzc3UDZsRUZQLXhlbi16ampGRmZYdHFDVDhsT2pzNl9OaDAxbUU3aDNuR1RfQ2hqWVk3UWF2UFRrTFZJOVprU0R3QVZIT252WjZkSHpQUUdrd1NMN0E4cnFzTzExdHVZTGRiWGR1dw",
-      "publisherUrl": "https://en.sedaily.com",
-      "publishedAtISO": "2026-09-21T07:00:00.000Z",
-      "date": "2026-09-21",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): UNIST Develops Tunable Tin-Based Photoresist for EUV Lithography Seoul Economic Daily",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-9f39e7b2f04175ac6bf8",
       "title": "Tokyo Ohka Kogyo (TSE:4186) Stock Looks Cheap Against Its Cash Flow Outlook",
       "sourceName": "Yahoo Finance",
@@ -690,76 +844,6 @@
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Electroluminescent photoresists extending lithographic scaling to OLEDs Nature",
       "verification": "feed-metadata"
-    },
-    {
-      "id": "news-3c52cab7fb6c71bc5bf3",
-      "title": "Groups Challenge EPA Approval of Semiconductor Chemicals",
-      "sourceName": "EHSLeaders",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbVhuZWJoZnY4VFlKQTZxSHRIYVFMWlI2UDhIbjFaR2lwd1V6SnlCbTZndkV3NHE5Q2E4VWZjS2oxZC1uSUYyU3JFalpBb01LbjlpeExqM2FZZWdIc0JvZXhaSUN1RUZVRjlVLThCcXFCcl90NWl5ZVI3b2hTdU9kMC1manc3UExtSHcwcmJzZHBmdw",
-      "publisherUrl": "https://ehsleaders.org",
-      "publishedAtISO": "2026-09-10T07:00:00.000Z",
-      "date": "2026-09-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Groups Challenge EPA Approval of Semiconductor Chemicals EHSLeaders",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-53f68b24e71ce4f1cd81",
-      "title": "Yomiuri: World's Leading Photoresist Maker Tokyo Ohka Kogyo Enjoys Strong Sales",
-      "sourceName": "MarketWatch",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQY2dOOEFkUEtOcXIzMkRUckZpQkgwbzdkcjR1X2JZakxRN18yeHdPNWFSSkdDdzdiQkd4Z1lWYm1EblJpY01wcUZJTS1UQ2JNTGlVZ1NhVm1EbEJRVVhmVjhkbUJfNWNaeUI2QW56SWN0aU93anZEMmQ0cTRDX2d0eEVpVEQzWTJ6WENuX1pjY2s0UnVKSWMtdzFEcGJWV1RyUVlYVm1JLTdDelZYdEh1dlkyd3NMYVBENFMxYXRR",
-      "publisherUrl": "https://www.marketwatch.com",
-      "publishedAtISO": "2026-08-24T07:00:00.000Z",
-      "date": "2026-08-24",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Yomiuri: World's Leading Photoresist Maker Tokyo Ohka Kogyo Enjoys Strong Sales MarketWatch",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-385d032c47b5a10b60a3",
-      "title": "EPA sued for approving semiconductor chemicals that may pose health risks",
-      "sourceName": "The Hill",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONG14c2d3TlNsTUR2OGpieV9QMnNCaV8xREtWSHRvOUNYaDdBWFl1eXdwTkJIMEZqaldsMFdldVJZdTNWdnpodGE3UWpLN1Q4X04xRm90VWRlZkVvejk4dVJ5bmJOT0ZKbi0yeXJkc0hoelE4LXg0U1l6NUxLVXNDYzd6U1JBRlpPUE5VRtIBkgFBVV95cUxQZGxTQ0NOeFVMelBRNkZ6ajlReTd4eHM5SkJtU1I5UXVTOFJCbWxVaGg0NzlhTmhWRkJ5Mzh3aks2bVRmMlVRYWhKMFpIMlpGdTh5Z1RxOXNRZW5XVnBGOHo4Qm9JaGFJUFV4QjN3emZTaWpzdGFqclN1RldZc0lhYzlidklweEFNUWhsdGhRMkkwdw",
-      "publisherUrl": "https://thehill.com",
-      "publishedAtISO": "2026-08-14T07:00:00.000Z",
-      "date": "2026-08-14",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): EPA sued for approving semiconductor chemicals that may pose health risks The Hill",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-4518042dd7486b3c420a",
-      "title": "Green Groups Sue Trump EPA for Approving Toxic Semiconductor Chemicals Amid AI Data Center Boom",
-      "sourceName": "Common Dreams",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5LbWdUMm9QM3JNQkpsWlBXaHlHZDZhdTlmWDVEdE1VX2lnWGtCZTRad2p0LVd4TFA5UXNCSmxVNnVqelVXdzRkbFdVOG1ERFNvMURnNjJJV0hwcVc2eFM2OXZhc2ZHM2JoRVI2NS1R",
-      "publisherUrl": "https://www.commondreams.org",
-      "publishedAtISO": "2026-08-14T07:00:00.000Z",
-      "date": "2026-08-14",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Green Groups Sue Trump EPA for Approving Toxic Semiconductor Chemicals Amid AI Data Center Boom Common Dreams",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-30e7069e1a3c4e54a243",
-      "title": "Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media",
-      "sourceName": "Record China",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1WS0xKdHF0dEZjTUNobmlqWTNURFhHZTkxRDJfNGp6VDExLUMwYzFZVXZ6aThNVlVnNXBqNXJRaGRmTk11YW1tRzUxeGFyMFhhMGFUTmdWeDVPUEZfMEtrbG9sVG9wOEFwMmY4",
-      "publisherUrl": "https://www.recordchina.co.jp",
-      "publishedAtISO": "2026-08-07T07:00:00.000Z",
-      "date": "2026-08-07",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Why Japan Cannot Stop Supplying Photoresists to China - Chinese Media Record China",
-      "verification": "feed-metadata"
     }
   ],
   "sources": [
@@ -767,13 +851,13 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 20
+      "itemCount": 24
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 4
+      "itemCount": 11
     },
     {
       "companyId": "verdant",
