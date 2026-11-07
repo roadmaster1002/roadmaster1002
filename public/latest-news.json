@@ -1,10 +1,24 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-06T03:02:41.007Z",
-  "updatedAtISO": "2026-11-06T03:02:41.007Z",
-  "lastSuccessfulAtISO": "2026-11-06T03:02:41.007Z",
+  "attemptedAtISO": "2026-11-07T02:29:57.791Z",
+  "updatedAtISO": "2026-11-07T02:29:57.791Z",
+  "lastSuccessfulAtISO": "2026-11-07T02:29:57.791Z",
   "status": "ready",
   "items": [
+    {
+      "id": "news-66aa4763e33f09f1d9e6",
+      "title": "Mitsui Chemicals eyes $8.5 bn JSR takeover",
+      "sourceName": "매일경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE45dU1QNFFZNkh5eXREcHV1ZVpiOG9RRk9VZmJiWWpuYV9lMmNvNnRGbkVONEJ2SWo2YmRLdGhibVRRZkdScWN1QlNuS0pJRFpaZWV2NzQzbw",
+      "publisherUrl": "https://pulse.mk.co.kr",
+      "publishedAtISO": "2026-11-06T02:25:51.000Z",
+      "date": "2026-11-06",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals eyes $8.5 bn JSR takeover 매일경제",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-3b439bf1b134f7dfca2b",
       "title": "Ashland Inc (ASH) (Q4 2026) Earnings Call Highlights: Record Life Sciences Margins and Strong ...",
@@ -17,20 +31,6 @@
         "kci"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Inc (ASH) (Q4 2026) Earnings Call Highlights: Record Life Sciences Margins and Strong ... Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a7057a5717304267908d",
-      "title": "Synthesis of polypyrrole‒Laponite nanocomposite particles via surfactant-free aqueous chemical oxidative polymerization",
-      "sourceName": "Nature",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5UU3hYODZrcnYtOHVZdFZqdF9PVnBDZUtyZnhwNjNsa3ByeURIV2FmcWF0cWZJUjBDNS1RVGU4cUY3MEZOd3VYZFJBcWRBa25waVZHUUFTLXRDZ2hBVF9z",
-      "publisherUrl": "https://www.nature.com",
-      "publishedAtISO": "2026-11-05T15:04:20.000Z",
-      "date": "2026-11-06",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Synthesis of polypyrrole‒Laponite nanocomposite particles via surfactant-free aqueous chemical oxidative polymerization Nature",
       "verification": "feed-metadata"
     },
     {
@@ -132,20 +132,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-ce729feb6a7c16c35754",
-      "title": "Japan’s JIC Plans to Sell JSR to Mitsui Chemicals",
-      "sourceName": "THE ELEC, Korea Electronics Industry Media",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE11cFdCTWpHSGJpd3lLaVJYNlVnVUN5V2lPT1hhZE00NGtTeXQ1NEtHMmtRVHVTWGU0SS1XOVVUWk5IUE5mSDA2VDk1R016Zm1UeEo5cmliTldFY2Y2bDlMRWd6WGhPaEE",
-      "publisherUrl": "https://www.thelec.net",
-      "publishedAtISO": "2026-11-05T04:38:39.000Z",
-      "date": "2026-11-05",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan’s JIC Plans to Sell JSR to Mitsui Chemicals THE ELEC, Korea Electronics Industry Media",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-edc3931685c4769e0a14",
       "title": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion",
       "sourceName": "The Japan Times",
@@ -174,17 +160,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-896c6987380653f63f35",
-      "title": "Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push",
-      "sourceName": "digitimes",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNGpoN1FiN0Y4bWd5SG1kOUh4MkNHeVB3QXhxOEtDVTB4dUVlTUgxZTFqSHhRcXpOMnJpVXA2RmdLY3dZS2hTUDBtd0NmakZwTk1vMzVtZEU0MFU4LXJaUVY5Z1lFMk0xOU1JclBYYzhHVms3Z1lveXhfZDdNRUk2MWpMem1lc0Y1LXJGOWFxdWxvc0RHZUdaeA",
-      "publisherUrl": "https://www.digitimes.com",
-      "publishedAtISO": "2026-11-05T02:13:02.000Z",
+      "id": "news-a0539b7cbc4857859dc7",
+      "title": "[News] Mitsui Chemicals Eyes Record $8.2B JSR Acquisition to Expand EUV Materials Business",
+      "sourceName": "TrendForce",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjRJOWtlM3FQUFFYUzl6QlJ0eFBuamllWWVmVi1GV2dvaUV2YjU5NFllNks0R0JuajY2M1N3V0hqT3Q2MjlETkRLNjlRS0N1OHJiZjljWUcxV0R0RjRyZ1FZekVPSDJtbVhadEhscTlFenRjY1VPcGFtZkFvYkJLamNHZXdzVHE3VnFLeWE0c2FDSzNTOU1zYWlGVjZJRWtRUlZQcjRhUjlFbzdLcURuNWdieUt5azBwWldfS0hxVWJ1eFY1ejh6Wm9RMA",
+      "publisherUrl": "https://www.trendforce.com",
+      "publishedAtISO": "2026-11-04T23:34:04.000Z",
       "date": "2026-11-05",
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals reportedly plans US$8.2B acquisition of JSR in Japan chip materials push digitimes",
+      "summary": "RSS 제공 요약(기사 본문 미확인): [News] Mitsui Chemicals Eyes Record $8.2B JSR Acquisition to Expand EUV Materials Business TrendForce",
       "verification": "feed-metadata"
     },
     {
@@ -216,17 +202,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-7ae0228180df3b67c2b2",
-      "title": "What Innospec (IOSP) Said on Its Q3 Earnings Call",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05CMjZXTTMweVJYbERETnFsUjdVRlIxU1I5UHoxbEpVSkktbm1ta2lheThCb2RNTXphd3pEeGpwSGRuME54aWFGUUpjbnZscUNPUTZrQTZlTXFjU2JGbnJfTmFYRHhVU3VpWk9EYTJwZ3JMWVhWTVZwRkVtT3AzTXY0VTkxOFVkMXVYTmVlZkhzYy1zQVdqSG1fMA",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-11-04T18:14:26.000Z",
+      "id": "news-6194d4d535f518074937",
+      "title": "Galaxy Surfactants Limited Q2 profit rises 80% on revenue growth",
+      "sourceName": "Multibagg AI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWW5ZQU1VM3c4TXRjN0NxWl9xVWF0YXRyRkJuQ29IWkhiVWNJX2FUUy1ielk4V3oxcld0dUMyMlBfNTNCcklCV2FWMFA2dkVBRGZSYlZqdWUxLUREV3c3aWRsOTRxeE43THFqZ3R3N3RkckJxQWxHS3JsZFJVa3NEeGpuR2hXQ1RuSlBfOHE0NnBBSzQ5SnhFWEJkMk1feFpHLUxadzhzbTlqb3JI",
+      "publisherUrl": "https://www.multibagg.ai",
+      "publishedAtISO": "2026-11-04T20:16:50.000Z",
       "date": "2026-11-05",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): What Innospec (IOSP) Said on Its Q3 Earnings Call Yahoo Finance",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Galaxy Surfactants Limited Q2 profit rises 80% on revenue growth Multibagg AI",
       "verification": "feed-metadata"
     },
     {
@@ -314,34 +300,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-2f9cb5edbe99085a27e1",
-      "title": "Mitsui Chemicals Eyes Acquisition of JSR for Over 1 T. Yen",
-      "sourceName": "Nippon.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE56dV9lMTZKa0R1SXFsNXVzbF93SHUza1FXallvdDl0OU5DSVJlbnF6ZWZMbEExSmZoQWUxUTdoeG1kR0JFQ251VHRJeEZ5Nkw5ck9qMg",
-      "publisherUrl": "https://www.nippon.com",
-      "publishedAtISO": "2026-11-04T12:53:04.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Eyes Acquisition of JSR for Over 1 T. Yen Nippon.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-2084c6ca391dac9cb4a8",
-      "title": "JIC Weighs A JSR Sale That Tests Mitsui Chemicals’ Balance Sheet",
-      "sourceName": "Finimize",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOcjBBNi1xajd2Vjh3TTl1VmlsZVZGdGpkWDhiVFNmOU04WE5IVk5GTzR4RDY1dGU0QmQ5Z2VNM2ZfbHc5ZWgzanBNYzNwZk9iWkJBeUJWTFMzY2hFbG4wMmlVRVZ2QzlOS250bU5VeTFENS1GVHVjQlgydlctbU1qNDBKU1lfbVE0UGp2aDhlMnM1alV2YlZn",
-      "publisherUrl": "https://finimize.com",
-      "publishedAtISO": "2026-11-04T11:34:43.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): JIC Weighs A JSR Sale That Tests Mitsui Chemicals’ Balance Sheet Finimize",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-e5de6f6d80e46a96cac8",
       "title": "Is Innospec (IOSP) Undervalued As Third Quarter Results Put Valuation Back In Focus?",
       "sourceName": "Simply Wall St",
@@ -353,20 +311,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Is Innospec (IOSP) Undervalued As Third Quarter Results Put Valuation Back In Focus? Simply Wall St",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-5fc93b1ceee210cdf660",
-      "title": "Mitsui Chemicals Considers Over ¥1.3 Trillion Acquisition of JSR, a Leading Photoresist Manufacturer",
-      "sourceName": "KuCoin",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZzJta0FNSFEwUmRTRnF2UkRvSDVkVHY3WTRzZDhITDJTajhjd0FRdUdQbUtvY0NxOWRaTW8xTDc2cmZUdS1OZ1pZcTd4cDNNZkhLZzVSNGItckNvT2k1dmJRdlBfV0t0MjJrTno5eGN2aGhpUjlJQW8yTjFobFdoTUNBVWhvdVF2SWstSlQ1RnNTS1lvVFN1enhGYllRLTdLa3NHNzMyaGlNZEtCYjRGa1duTDQ3cFpNUVVWVmZPTzVSc2M",
-      "publisherUrl": "https://www.kucoin.com",
-      "publishedAtISO": "2026-11-04T09:26:51.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Considers Over ¥1.3 Trillion Acquisition of JSR, a Leading Photoresist Manufacturer KuCoin",
       "verification": "feed-metadata"
     },
     {
@@ -384,11 +328,11 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-dcc45532fe0e78b2229c",
+      "id": "news-251a039738d008af35ec",
       "title": "Japan Investment Corp to sell JSR to Mitsui Chemicals for over $8.2 bn: Report",
       "sourceName": "electronics.economictimes.indiatimes.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVElPMGVqXzJIRC1Sc2dlSzBHcTQ0VllDMHVEcF9oak1WaGY1dmRQSG1PS01FM0pQS3FKZVdJOU84TGtZUkVNYUNyOXotYWFVYldXQUxHNFQzdHRJdW81ZzJXalEzTTdlSlgzbmN4QXBVY1ZDUHppRXp6SE91cVdrNmJfdTBGallYdjVGZWtGQVFiLUwtQVdOYzNXZHkwMUVReEpKVkxYTEgxeHVsX0RFQ3MwRk1YdlF4NFdxSGRuUDg3Nml6ZFpFWGFoY1padEg3TmpFLVduYThBVDIxZUJZVWxfTHoxMTdiRHROeUw2cTPSAfQBQVVfeXFMUHRUOUJIcGdNZEZ4bUFpNFVJd3NuUTFVVHkyRzY4eGE2ZGhhcDkzRnZCY19ta2V5bUh6QnVFVWFiakpSOEVGbVZFaWJxSXNPYVJSNFhILXNnWU04Y1RBSXJSSWM2YlloaE5SSEpFRVlCWlVMQlV5elFFSFk1dVdkTjRSZjhiRFU4WVUtZ3hpUjdTLXppaFZtUXNXbkFaMHlOSHdHblpIcktCOVJqdTNDbWltU0VNUXVqSHJhYzc1MEstZHR1WExLaTFGNW1hT3o2d0tZSm9OQWpnSGQtMXJVQllNQzJRT3hldXgwVnBjd2pmOTRCWA",
-      "publisherUrl": "https://electronics.economictimes.indiatimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa0JvNzVQd2FBRklOaWZhRjg0b1liLUp0LW1FYm5xN3czeVUzSUlBdDlCWXBKb1lKVzc1UTREckZaa0d6TWNDd3ZwUzYxS1dEVFpoMm1uX3FWMkc4Rkxsa2dlU3FIaEZqMXV2QmRMdFRmbVhpNlQtOFNaUWdqMm95eldJaFJQN2hJNTdHQlk1YTNxTzVxdXJkY1d3Qk1GdzVpVDlfaFlKeE5USlNpWkhXZmhKVmFkYWNUeS1Ramh1Zy1kWlhNNVB2UWtlaEVEMGRyYmpydTZEOUFOdGk0NDk5enFMMmMzN09sZUtRdUNUZ9IB9AFBVV95cUxQdFQ5QkhwZ01kRnhtQWk0VUl3c25RMVVUeTJHNjh4YTZkaGFwOTNGdkJjX21rZXltSHpCdUVVYWJqSlI4RUZtVkVpYnFJc09hUlI0WEgtc2dZTThjVEFJclJJYzZiWWhoTlJISkVFWUJaVUxCVXl6UUVIWTV1V2RONFJmOGJEVThZVS1neGlSN1MtemloVm1Rc1duQVoweU5Id0duWkhyS0I5Ump1M0NtaW1TRU1RdWpIcmFjNzUwSy1kdHVYTEtpMUY1bWFPejZ3S1lKb05BamdIZC0xclVCWU1DMlFPeGV1eDBWcGN3amY5NEJY",
+      "publisherUrl": "http://electronics.economictimes.indiatimes.com",
       "publishedAtISO": "2026-11-04T06:45:21.000Z",
       "date": "2026-11-04",
       "companyIds": [
@@ -412,26 +356,12 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-f43c9f14237616354e9a",
-      "title": "Mitsui Chemicals Says No Decision Yet on Reported JSR Acquisition; Shares Fall 12%",
-      "sourceName": "www.marketscreener.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPYllrY0pjd1BYME54RU95SGNVRzVfZ0daTEt4NEZaSWV6RkRpZjFjMVNreHMtYy1iNXptTkc1eVZnSVZ4RDdXU3hxMk0yOEt0YmlaZlhqa2J4LTYtYU5xRGwtTkRIX3J0eUI5TklWa3I1S0hCYTQzdkxWdkZkalVxWWJFeWo3bjE4aUY3NG5EZjJWM241RG56ZkZONWNydU02UDM1a3JLVFJCRTFQZ29pTS1vSHlmLWtvckFueTk5YlhaUk5BQmxBUVB4WF9ZUQ",
-      "publisherUrl": "https://www.marketscreener.com",
-      "publishedAtISO": "2026-11-04T05:52:14.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Says No Decision Yet on Reported JSR Acquisition; Shares Fall 12% www.marketscreener.com",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-6114a4e2f8add2de7f93",
       "title": "Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn",
       "sourceName": "Nikkei Asia",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDlRV3hVRTVwNFI1djM0X2k3dnhLaVM3ZG9aVEdGYU5FN2ZKOWdYR0xFNUdOZ2tiZGJ1ZmhwX3F1Wi1MYWo4OVBKaFRkbVZzVjQ2S0xUQmNOVHo1SGstOE1ZYUpFZWswUlFienF0MDRZSTRwZzRmNE9aYzRCNmVFeWFJRHNjMERCaTY5eXdyanhFVTlabzk3bHV3NTBUMHF0NE5xdmRUYlFQX0wyWlhLdnQ5em9Wc1hF",
       "publisherUrl": "https://asia.nikkei.com",
-      "publishedAtISO": "2026-11-04T04:43:00.000Z",
+      "publishedAtISO": "2026-11-04T05:22:00.000Z",
       "date": "2026-11-04",
       "companyIds": [
         "ncchem"
@@ -440,45 +370,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-e1064f3806e034b417c6",
-      "title": "Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters",
-      "sourceName": "Investing.com Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmVhVFY5cDNjSk1LczlGUUltSFNGd2tmR2NQSHhEeWdvVFdLMEJUUXJmbzhSaktTXzV1YUpGdi1RYzNkMFI1cFFHek1ZSmZLWWdSNUtPU3FJWDEzT1BjeFp1MHFzLUJVQ18xdDM3Nmx2d2luc1BneWFLOVBOMy1wazBiV0poeDc3ZXdNQWdWdExnb0tVd2lyZEx4NkQ5STBYMTU1UWVybloxT0ktMF9WUkNBazMyMHdiaGRIaVFRQWlIc0VaMTVn",
-      "publisherUrl": "https://ca.investing.com",
-      "publishedAtISO": "2026-11-04T04:33:21.000Z",
+      "id": "news-b072a74d48a8b37cfd51",
+      "title": "It is reported that JIC intends to sell JSR, and Mitsui Chemicals may take over for 8.2 billion US dollars.",
+      "sourceName": "ChemNet News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9qVVFHUUxSN2I4NjN0ZFlYcnA2WGlqTnFiNFBYTVFEck1ibEp1cy01V01YWUlmMllUNl9lU19RTEFQLVhRVmp0dnotbS16OWtnSVE",
+      "publisherUrl": "https://news.chemnet.com",
+      "publishedAtISO": "2026-11-04T01:47:53.000Z",
       "date": "2026-11-04",
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan state fund to sell JSR to Mitsui Chemicals for $8.2 bln- Reuters Investing.com Canada",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-3772fc0cb2bbe65da64f",
-      "title": "Mitsui Chemicals Denies Reported JSR Acquisition Decision",
-      "sourceName": "TipRanks",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0FvQTJGT1ducjNuTkRCdDNrSjdHNXpxeDNBNnVHUklYMXZQZHMtREl4WDVtSDBWU3Vka0RyaWUxTlpuMmF2N2ZHTWp4WXRKeFF5cTlEbXV0NmJtWUdFX1ZST3FBYVZIWXRYMmRHblptX3dvWkJ4S0cydjN6UXFBZEd6N0FxSGdBWGhYWUEtMmU4NnNtSFUya2lPcHVoR0xsWVJzX2Nqc3Jpb3o5Ymc",
-      "publisherUrl": "https://www.tipranks.com",
-      "publishedAtISO": "2026-11-04T04:30:41.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Denies Reported JSR Acquisition Decision TipRanks",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-d58ac123c9a370230df9",
-      "title": "JIC Weighs Sale of JSR to Mitsui Chemicals in Potential 1.3 Trillion Yen Deal",
-      "sourceName": "www.marketscreener.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPX1V3cFNGdVVTcHYwWExUUlBsYm5QNEI5amlkMzJ3QUI0RzNpUWxZODhEdUYtS3dDZVhQX1p6bEIyaFNMODZNSlZVUnEtU3ZKNmNIbVN1WGQwaHNlZHJJZWJfbTd1T1hxU1lHNUFNUk5lSGJHOE0wdUJtWkpZNF9pRGNfV0tUVmoyX1R5Ul9lUTY3X1dqc011cVBqbUV6Nm05SVZFQmJtekVickpLMDNqRkVaQnJ6R2JxajZ3RkJkVFVaSnEwVjEwVUxn",
-      "publisherUrl": "https://www.marketscreener.com",
-      "publishedAtISO": "2026-11-04T03:05:14.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): JIC Weighs Sale of JSR to Mitsui Chemicals in Potential 1.3 Trillion Yen Deal www.marketscreener.com",
+      "summary": "RSS 제공 요약(기사 본문 미확인): It is reported that JIC intends to sell JSR, and Mitsui Chemicals may take over for 8.2 billion US dollars. ChemNet News",
       "verification": "feed-metadata"
     },
     {
@@ -524,17 +426,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-8586a2f76f48abd195b9",
+      "id": "news-9517847021cee43232fa",
       "title": "Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-      "sourceName": "Idaho Statesman",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43YmhZaVhXV1RiazdIMS0yMUloc0l0b2NGcng2ejQ4ZVV2QkxHX0xMd0U1cnpidlNEa0VkQUtEOEpzbW9DSGlaVjZHNjNyQ1oxVFZ4QWJ1azRWNUJTYUJvb1BWeGZ0Z1F5dUdUZHYtUENFN1NH",
-      "publisherUrl": "https://www.idahostatesman.com",
+      "sourceName": "Durham Herald Sun",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE05RWhSWEM2eExVV1ppQXV5enhwcGJ5WFJrNVpDZ2xYTlpJUElFTkFTbGEtZHBsNkV5X0ZEUTZNbXJLNG1vdjdhTXUwZzhYZW1UUm1TbHhrQ1d3SHBuUzByUTNpOGR2UU43REdEVnN3",
+      "publisherUrl": "https://www.heraldsun.com",
       "publishedAtISO": "2026-11-04T00:59:05.000Z",
       "date": "2026-11-04",
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say Idaho Statesman",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Exclusive-Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say Durham Herald Sun",
       "verification": "feed-metadata"
     },
     {
@@ -566,20 +468,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-e20960c1c97d66ec9097",
-      "title": "JIC May Flip JSR To Mitsui Chemicals For 1.3 Trillion Yen",
-      "sourceName": "Finimize",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORE4xcHh5c2pRMmVXVUIyWUY4dWhYYUR2QWE4dXQ3MjlqdXNUU29GYmpjSmFWSUNfOWlHd0lOaUtzNmxvaURhc3VuaE1pV2FXNU9KUTJPRjBrSE5HOXMwVGZIWUwya2doMlo4eFpEOXVweFVDS2M2NERTZXlGMTZiZWhDN2lvNEZVT0xoY3dB",
-      "publisherUrl": "https://finimize.com",
-      "publishedAtISO": "2026-11-04T00:53:54.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): JIC May Flip JSR To Mitsui Chemicals For 1.3 Trillion Yen Finimize",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-93dc4faef556d896f5c0",
       "title": "EXCLUSIVE: Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
       "sourceName": "Reuters",
@@ -591,20 +479,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): EXCLUSIVE: Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say Reuters",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-376d40f482cf00cadf0b",
-      "title": "Innospec Inc reports results for the quarter ended September 30 - Earnings Summary",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPYVZwR1JLUkcwekNIQ3k1aURfdUNTeFJIbHRrZ0pwY3JaVmtiOWtnSW9aRHRzLThCUV9UWkJrVzZaMGFUMFg2R0VRZVh6Q1ZIQnptUFVzaklCVHdYZEIxeGk1blYwOTZoSnpsN2UtaWl4cDlyQnpfcU4wZ0d5RFVJTVo5R09ZUEY2bVhVRDRIa0JwdHBhalhMbzdlTUp5Y01XVWFHVDNuMXN0YzVlVWxrZFhYMUtxelJwaFVFcnd6YkJpTjhydS15dFRBY2NnZ1JzLTNaWjkzTlhqQUZtY2NZSnJwYVk",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-11-04T00:09:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc reports results for the quarter ended September 30 - Earnings Summary TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -734,6 +608,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-576edcf02de7e70c8a53",
+      "title": "Specialty chemicals supplier Innospec's Q3 revenue slightly misses estimates",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPdGpkS0VOSGh1cXlRaXZvQjZNSlJNbXd5eG43eVNQNXJOVzl3WWtqOWxVaWVxME9JQnFmY1V6OXpXZlg2QkpKdDRvZGlhOFN3MzRjRUctbjBaTkthSGpaOW52YUpNWGJISlhxSFBGUkxNalBqWWJmSWZIQVBsZGgxcEFBU2d5T0hFMGRKalZ5ejZTYjAzckkyUXo5T3hXN2ZSb1BVdUlNNDlzVXdWelVQLWM4cWxKSTdQcTdzSDJ2Rk9QcWZza2Y2bUZaZGpOa3F2S3M5U0hVZmlOVTVOMTlr",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-03T21:54:37.000Z",
+      "date": "2026-11-04",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Specialty chemicals supplier Innospec's Q3 revenue slightly misses estimates TradingView",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-f61c64207e44ca739371",
       "title": "Earnings Flash (IOSP) Innospec Inc. Posts Q3 Adjusted EPS $1.29 per Share, vs. FactSet Est of $1.26",
       "sourceName": "marketscreener.com",
@@ -748,17 +636,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-a8c29f5f44213f1962e3",
+      "id": "news-ad5f134fa6f0d3494bf3",
       "title": "Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
-      "sourceName": "Quantisnow",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPek5CUEFMNEYxbjFuUVhYbThrYUpkRTVFRWs0c3pHZGp3NnJ2RUlTMFBqcmlxYU5fMmlPVFpGaXNxb3NFQVd0T19COEVyQWx0YmRwSlhLS3JoNU5sNklFeU9rb0FwMVhzSnF4bzIyZDNTR3lwamtTMXc5bWxCMVFDVzVBZ05TdHpKTFlEbVVZZ3JqMEphLUItTjJ0X00",
-      "publisherUrl": "https://www.quantisnow.com",
-      "publishedAtISO": "2026-11-03T21:48:01.000Z",
+      "sourceName": "Yahoo Finance UK",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOelRDY1RmMXN5NFg3RUpaTXgtNWdNUnRyakNhQ0JxOWJyOVJfR0plZUVYYndTLUpkVzFvNHlhYnp5aVhGUVo5eWRfUzllRHlVNk9OdkEyREo5WmVRLVhpYWVLVWtMcXFHbnJMUXYyUmJKc29hWU05dVU4bTdDbVJZOGhBemNPS1hjZWdkSg",
+      "publisherUrl": "https://uk.finance.yahoo.com",
+      "publishedAtISO": "2026-11-03T21:45:00.000Z",
       "date": "2026-11-04",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS Quantisnow",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS Yahoo Finance UK",
       "verification": "feed-metadata"
     },
     {
@@ -776,6 +664,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-ba6735336678888daf81",
+      "title": "Stepan Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCL) 2026-10-30",
+      "sourceName": "Seeking Alpha",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSDNhdG8wUklwYWoydlNnUWhVdDJ5Sl9Yb2hUWHdnOXJkNTluczhEazg0WlhubmxWZmJzMEU2cy1vOUtFTlFvOVFqUWJ3Q0YwVkRNM3FDbVBMRzhGVGVtY2MzMkFCUS1HMlZCRGFEM0dBXzFfVVdEQ3FESy1vaTh0c0kyd0FrVksxWm12SkRDTTExMlB5YV9BMHl4VGpvRlk",
+      "publisherUrl": "https://seekingalpha.com",
+      "publishedAtISO": "2026-10-30T23:09:34.000Z",
+      "date": "2026-10-31",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company 2026 Q3 - Results - Earnings Call Presentation (NYSE:SCL) 2026-10-30 Seeking Alpha",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-4ea3724efe2655b382bb",
       "title": "Innospec Inc. (IOSP) Stock Price, News, Quote & History",
       "sourceName": "Yahoo! Finance Canada",
@@ -790,17 +692,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-0ff410dec7ee67d3307e",
-      "title": "Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZ2JzLWdsN05KaTlmaHFGeWQxTURZOXRmazVBU3VJTWM0X0ZBQWc3bFBFUWhFUllpR3lGd1J3SUdHVTlLNnB6T1BfVHZaTy1tV0thYjdDanE5QXlfWmNyS0pFMGhrSHZ1U2JiMTd4eE1WOWJta2o5bm9vNXJvRmdReXlTWjhwbTBYd1k4ZVFHUWp4dnE2TU5PRl94Q3luZkEyODBLZ1lsY2JQaVpLVHZTWmpXSWJ5Q2JXcGxsOXpNZmJaR2NNVFNV0gHMAUFVX3lxTE9NLWkwSFJWdUg1c2lwcG92T2luZ2JOeDRUcm85NEFNOC1BTnFITktzS1NYUTdzYy1TdXdTeDVPZngxUEkxaDRaTHRrbElMcWRRNUhtcFM0dXJJbGRMTS1wVHlKeklFRXljcXJMcjQ1WERUWGxVMzd6eExrTC1hWDRBclktQUdCWllpYzNIWDhJN0NhNnJBSUthMnh0TnU3UV85MFFGQ3lNZVF2dUg1cVVKamN4YzJ6TGdXUXJqZVpnVTVvZzl0WndlQTdiRg",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-10-27T09:21:21.000Z",
-      "date": "2026-10-27",
+      "id": "news-b8ddcd44f5d787354a1a",
+      "title": "Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase",
+      "sourceName": "Kalkine Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZ2p4VEVrRXlfZXpiTXFMVzZBaUlsaTA1UHV4bzBXekV6cEppWkRxX1ZyaW5WbnFpOGd2TGVWampOVlA4elpJWkF6MjItNlZFVllDMmNLcEs5eXR6Um91d0JxVWwxTEhtYnV3VEJ6czVGSjYwUHhUcEZ0U05hamlTb19TNVpNTlhiV0psaHdCbnVpUG1ia1hsdlctRmxBM25tU3FTTERhMGNfbUYxY1FzUGdiS0dNSE1vYVc5c1RMLWY4a0l4WnoxWmNyWVBQc2M",
+      "publisherUrl": "https://kalkinemedia.com",
+      "publishedAtISO": "2026-10-28T11:04:39.000Z",
+      "date": "2026-10-28",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Stock Could Be 25% Undervalued Despite Steady Cash Flow Simply Wall St",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Stepan Company Announces $0.405 Quarterly Dividend, Extending 59-Year Consecutive Increase Kalkine Media",
       "verification": "feed-metadata"
     },
     {
@@ -818,31 +720,129 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-a37df5a1219484a03608",
-      "title": "Tokyo Electron dominates 87% of photoresist tra...",
-      "sourceName": "Pluang",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbnVackYxNENQaUNqM0l6Mm5jcWVNZTVVM1dSaXZ0Z0xIZ1REakk2SVFwaUY3NlVXMGUtblFramJpYXB0NWNjaVdWLWVyVWhvU09MMHExcW96RlhKbndRSnVrdVUwVmN0N0dEUlctMUkza0c3VWlVTXpQcF91RmxwRmxvRzl1MGRTeEc1REwyak1EYmdjcnA5T1BvSUhBY1QwM3Y5Nlk4SFBld0E",
-      "publisherUrl": "https://pluang.com",
-      "publishedAtISO": "2026-10-22T17:37:10.000Z",
+      "id": "news-051e3d82b0709cd7d803",
+      "title": "Polymeric Surfactant Blends Market in Asia: Size, Trends and Forecast to 2035",
+      "sourceName": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcXRkYjVFUVlSdEthVUhZQ3JWY1ltbWZ1cU5rX0hUdmtGVGl5ZE1KT3d6S3dpamh0N3QtUjR6TUdyYlFUQzRUb25sRzMtY2ZwanI1bXpDY1JGNnhEWUVCTTNyZEVPSl9lMHg4c0EwVFJXVk9yUzRVX2JWeVRZbW9lMXZtMlRPRzJEQkFUUjF4QWFSS1BmdDJkOFdkRWVzSGwwOFpJeFJmTEdZbDYyWGMtTnBrVQ",
+      "publisherUrl": "https://www.indexbox.io",
+      "publishedAtISO": "2026-10-23T07:00:00.000Z",
       "date": "2026-10-23",
       "companyIds": [
-        "ncchem"
+        "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Electron dominates 87% of photoresist tra... Pluang",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Polymeric Surfactant Blends Market in Asia: Size, Trends and Forecast to 2035 IndexBox",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-f9f14bf101220280b92e",
-      "title": "Photoresist Track Technology: The Overlooked Link in Specialty Semiconductor and AI Manufacturing",
-      "sourceName": "Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE91Y1VzcmpNeEp0elZuOFZwX1ZzU2xvUjZaU2lmSUpyenZEU1lDV3ZUZ29vWEEtOW5jYldFdHI4ckJWdHFHX1dYOEhhQVVoQmJCNHRJcVJ0TXpkYmdLcy1uSWNDVFBXcjNnZ0k5V01aWGFSRWFSa3p3dTYwNWI4ZGM",
-      "publisherUrl": "https://drrobertcastellano.substack.com",
-      "publishedAtISO": "2026-10-22T07:00:00.000Z",
-      "date": "2026-10-22",
+      "id": "news-e9532c03f5232c7b9ee2",
+      "title": "Pyrolyzed Photoresist as a Continuous‐Tone Mask for Grayscale Lithography",
+      "sourceName": "Wiley & Sons",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jLTgtdURNTXcyNEtMUW1Bb19EZWpLOHhBR0ZIeGRsZGcyTWdrdTFOdDJHRFEwbDBaTy12Y3NxLUwwa216LUxURk5UeWF2SVo4b0ltTV9mY1lHOFNCTFdsd09pam1yZHZMV21QMlpmUno",
+      "publisherUrl": "https://advanced.onlinelibrary.wiley.com",
+      "publishedAtISO": "2026-10-19T10:59:14.000Z",
+      "date": "2026-10-19",
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Photoresist Track Technology: The Overlooked Link in Specialty Semiconductor and AI Manufacturing Dr. Robert Castellano's Semiconductor Deep Dive Newsletter",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Pyrolyzed Photoresist as a Continuous‐Tone Mask for Grayscale Lithography Wiley & Sons",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d4a77c4dae8a15293ef1",
+      "title": "Tokyo Ohka Kogyo CEO Takes Direct Control of New Business Development",
+      "sourceName": "The Globe and Mail",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQcmZPUDdnUW1zWFV2M2FibXVmdU84WmptSXRDb19hWW13cDhPVy1TcTNqazlJR2pEQXFDWnhUMklFc0RXWDJrMXJabFA4cnlHc253WDhOVzJuQUlIYmFyS1pCQVJkOTdfcnlSdnFTYWhRcm52aUdIYUt2OUtpRzVjM0c2LWxIZ3pYQ0N0SUV4Wm93NW1QV05nNlg3ZS1TVWg5WjZzbXJrTmVjX1Fabm9GVmxTZ19ueTZMWGw2TUQ3VUZyRl9Pc3F4ZE9fQlIxalZPVFR2UE9yVi1PNUYwRmhEbVVzck5Ydy1JVnhZ",
+      "publisherUrl": "https://www.theglobeandmail.com",
+      "publishedAtISO": "2026-10-17T07:00:00.000Z",
+      "date": "2026-10-17",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo CEO Takes Direct Control of New Business Development The Globe and Mail",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-a3d921e8b875d57d2b02",
+      "title": "Cell surface receptor loss impairs surfactant production, lung resilience",
+      "sourceName": "American Society for Biochemistry and Molecular Biology",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFg5NnJpQnlDeHhiWC0xRzFZMEFiV2JJSlluVUpXV21KNzFUNkJmS1ZtTWwtMjRIQVdVR0NET0RJbDBIZVFQTWNBS2tEOTZTMWdKTWpFVEZOR2RCMTFRYTdTR25DeEozWHRhYWZJQ1Z1VEU5T3pLa2s3bXc4eTFlSUIxRXY1QTd0b2dpeUVMUzdCU2Z5N3pJWk1n",
+      "publisherUrl": "https://www.asbmb.org",
+      "publishedAtISO": "2026-10-15T07:00:00.000Z",
+      "date": "2026-10-15",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Cell surface receptor loss impairs surfactant production, lung resilience American Society for Biochemistry and Molecular Biology",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-2725d3e1bcec5e94be87",
+      "title": "Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXUwS3Q0Nk5GZDdmalJaLUFoNDBzdkFYV21LaWhvREE4YmU3VzZhS0Fxd0hEb3Y5OVdzSWp3NmRMN1VCT2VScW5lOUxzWjE0QXFSNzFCSmRGVC1kcmlTY1hLN2VBVm5LNzRBVjhTOElDTXVLLU1sRnpnWGViU2V4X1dENUFEcENfYUhqUGlDOTM2eWJuLWpJaUwydVIyMUREVEtoYmNkMW9hN19vZHhV",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-10-14T07:00:00.000Z",
+      "date": "2026-10-14",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-5bf855a9575d3a421e8b",
+      "title": "Electroluminescent photoresists make LEDs easy to pattern",
+      "sourceName": "Nature",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE55MWZrYS15RHB1cGJEQWNCUi1NU2VQbEhaUEx1bW1aTFAwRUZUTG1wckpYNVhKbzB4V042aV9UbTlCckFHYTV6b0ZfRDFUVDVidXJKVXZoNnFHWWFfbFVV",
+      "publisherUrl": "https://www.nature.com",
+      "publishedAtISO": "2026-10-13T07:00:00.000Z",
+      "date": "2026-10-13",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Electroluminescent photoresists make LEDs easy to pattern Nature",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ec19d654987da0f5430f",
+      "title": "JSR Opens EUV MOR Plant in South Korea’s Ochang",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9ZR3BDRHZWWVpRaXZRMlMtWTRaVXhSQzFqOG5tRnBacnRmN1I2Q29hTE9rdloyZ1dVLU5iQ3dLVmEzTG44NkcxYnlTU1dVMjlOOUt1TTcxeGlKeFdIWVBBU0tpbTJNUVk",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-10-01T07:00:00.000Z",
+      "date": "2026-10-01",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): JSR Opens EUV MOR Plant in South Korea’s Ochang THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-1a328af7195cd4b9af55",
+      "title": "China's Guangyin Polymer raises tens of millions of yuan for BCB photoresist",
+      "sourceName": "Dealroom",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN2IxdXdGc1pGWnhwVHpEY0syQ3d4NGxIQTc4Z0xHWXJCNnlvZjlZVXRMUm9WQ3NvMi02UFVNeVdCT1hvWVU5cDhDX1NuZ0Y5TkdCMHdEM2gyQXE3b1JacTRtZ3dzTjgyQ0xkRlFwS2p5bXBWYnVRRFdLT1VLUG8zd1kweDdxQ0JRdjlncEpueXNLcU5kQVM3Z0V5WVFtSlB3WmdDek1FcW41UWpScU00",
+      "publisherUrl": "https://app.dealroom.co",
+      "publishedAtISO": "2026-09-21T20:17:32.000Z",
+      "date": "2026-09-22",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): China's Guangyin Polymer raises tens of millions of yuan for BCB photoresist Dealroom",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-9f39e7b2f04175ac6bf8",
+      "title": "Tokyo Ohka Kogyo (TSE:4186) Stock Looks Cheap Against Its Cash Flow Outlook",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTVpvS2xxZ3ZXSFBjSmJnZWUxYnBWek9jTzZkclYybm53SUJ0eEE0VGlYT0tzd1dubGlLT3RsZDdHMXJiMnFadlhsbVh1bjl3NzZQOGxFdFBzWVRKamt6ckhHWk9QOUxNc2dkTFZ5SDBYZnp1M3YtZTF3QUZFbUxnc2d4aDJXRmE4TlN2WmNUNFFSRkZH",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-09-20T07:00:00.000Z",
+      "date": "2026-09-20",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo (TSE:4186) Stock Looks Cheap Against Its Cash Flow Outlook Yahoo Finance",
       "verification": "feed-metadata"
     }
   ],
@@ -851,19 +851,19 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 33
+      "itemCount": 25
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 11
+      "itemCount": 10
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 42
+      "itemCount": 43
     }
   ],
   "errors": []
