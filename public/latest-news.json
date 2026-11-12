@@ -1,92 +1,316 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-11T02:28:35.845Z",
-  "updatedAtISO": "2026-11-11T02:28:35.845Z",
-  "lastSuccessfulAtISO": "2026-11-11T02:28:35.845Z",
+  "attemptedAtISO": "2026-11-12T03:33:23.854Z",
+  "updatedAtISO": "2026-11-12T03:33:23.854Z",
+  "lastSuccessfulAtISO": "2026-11-12T03:33:23.854Z",
   "status": "ready",
   "items": [
     {
-      "id": "news-12408784319c79912a51",
-      "title": "Deer Park officials order shelter in place due to Lubrizol incident",
-      "sourceName": "Yahoo",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSW11SGdZLWRwXy0wOVlfWlpqanJxekhSUmE1TEV0Y1BVTmtSVkYtemRZNTJfUWlqQko4U0pDSmpWd1hrTmRyTFRncW9za1FnV1BKeHFYUmV0WUlVOHFNMjZCSE56SGtXZmdid2NUaldLWDJjNDFPUWI1bkhac0drN0Q4MWc5RC1CZG9uUg",
-      "publisherUrl": "https://www.yahoo.com",
-      "publishedAtISO": "2026-11-11T02:13:00.000Z",
-      "date": "2026-11-11",
+      "id": "news-96566c722e489fae8dac",
+      "title": "Ashland declares $0.42 quarterly dividend per share",
+      "sourceName": "Investing.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObW42YTBzY015bloxZ0JmV1cwLWVVaXNWYXlJSVEwRDZObnZ4YmlJRm9OYm9JNXpuQnNtTHZ6Q0d6b3QwVVlRUGxCOHV2a2syME91Q1h3V3M3UHFfU3d6VTRxQ1phS1JhSU5IZl9yVnBXblp4UVg2ZDlrVURZc2NBbHUzX0tRTVIzc1Y2SHV0akRRUS1fbkZhXzJBZWJpX3VTa2hreE5zQ19Hdw",
+      "publisherUrl": "https://www.investing.com",
+      "publishedAtISO": "2026-11-11T22:40:15.000Z",
+      "date": "2026-11-12",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park officials order shelter in place due to Lubrizol incident Yahoo",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland declares $0.42 quarterly dividend per share Investing.com",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-fd5058ae8788adde4082",
-      "title": "City of Deer Park issues shelter-in-place order following Level 3 incident at Lubrizol facility",
-      "sourceName": "Click2Houston",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVloRFZZX1h1cGp6NkhOT2xGWDY4TWRWWW9SZktia25zb0VxRVZuMWRROWg0Uk5hN3ZKeVp1WV84YTFzeHVFdWZ0bmZPRGhpam85RkNwZTgyOXk2cllIbmdTdi1QcTdJUmFYaktBVmRheHg0MlNoR2tPdThHSWN6bm9PWmpSNjQ3TzBtT2lIWkJvSW1HRV91T0hrX0dYTlZWeURTWVZaQzgxb2RNYWZhZng5WXM3dlQ4UW5yWlpCYy03Q0dLOTQ2aXBVSlJaYnNjMkdoNGdUSFhkODZJaE53WF93",
-      "publisherUrl": "https://www.click2houston.com",
-      "publishedAtISO": "2026-11-11T01:20:07.000Z",
-      "date": "2026-11-11",
+      "id": "news-98644e4dca5341bfd19e",
+      "title": "Ashland board authorizes quarterly dividend",
+      "sourceName": "www.marketscreener.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYi1zZ1VIYVFuUXNOanVpYUpvZC1oVDRNWGVpUnY3b1l1dnRMdkhYUFdNcGRROHN3aWF4ekF6QVh0REM4N0c2ODNRa1ZuUlJ3cnAwQmhVNnRSazg4SjJyOUZvNnpWRWxtM2hHd2NyMW1VeEE3UTM1UURncTBKb09PTUFpTFVRTmU0dE82RzRHQmtOZVVfamJlc3MwekY",
+      "publisherUrl": "https://www.marketscreener.com",
+      "publishedAtISO": "2026-11-11T22:01:04.000Z",
+      "date": "2026-11-12",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): City of Deer Park issues shelter-in-place order following Level 3 incident at Lubrizol facility Click2Houston",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland board authorizes quarterly dividend www.marketscreener.com",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-cbab963187499500c4eb",
-      "title": "Deer Park officials order shelter in place due to Lubrizol incident",
+      "id": "news-f8b78e235d96f12e9b3c",
+      "title": "Innospec Inc. (IOSP) Stock Forecasts",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaHV3LTRSREJtMDVUTkZqai1vdUNwTy1YeUg5LTE4LXNmeGJpbDdTaklZUDlzMXg1SUYxUlZXOWs1VkFZdkJ6X2R1ODFaTlB1WnBud3RoSDRVbGV3b3RVTXhvOGpydHFxWDZJcGtUc1o3N0FqeE9XSlRjd2RCWnhQMmxXd2lVeEYwZnlJcElPTQ",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-11T18:57:37.000Z",
+      "date": "2026-11-12",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-21de66e85d945c637ac4",
+      "title": "Mitsui Chemicals (TSE:4183) Stock Could Be 42% Undervalued On Its JSR Deal",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQTBrWkp2c0UtREFBUlpzZWNUbkZIU1ZHbjV2bXlqUC1sLXlCbXFRdGlmbWxQdERLa3duOVJTLVJLcHVEYXhpeEN2bWd4VUNtTUQwWjNPTGRGLVhRaGczWDk2cGtPT2UwcWxWNnd4MUVlcDdwSGxJN1ZyZjFNM0FnQlBGNFFxQjNsZWphWVFSOUV5dXZ6UmJKS25kQlo",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-11T13:15:43.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals (TSE:4183) Stock Could Be 42% Undervalued On Its JSR Deal Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-393b2ff94b00d28d9296",
+      "title": "AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement",
+      "sourceName": "UK Investor Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb01obm5MdVlGNEpIb0RiMzkzVDR1VGZ0RTBrcEFDVUpzb0xvM2ZZU1Q1Sk5oQWp5cGFsdm1zMnQta0p6WFlaNmd6a1l6bU9FZUtrajc2OVhuZF9ReGVZTnpZemNlQ1hYR01fQkl0c1hzR1VBX0JMSkRpVkFjRm91a3RGUnFzclFPdC1yOW40NEczNTFSNl9MbWdyVENnRk5RUXdjeXlDUXRoWm1XdXUxTnNDamdDSk1JT2I0a3BERnBhSUhIRXduNFpHMUNsNWVoN3puYXlxaw",
+      "publisherUrl": "https://ukinvestormagazine.co.uk",
+      "publishedAtISO": "2026-11-11T11:42:59.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement UK Investor Magazine",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d686c8513ca5804dcb9c",
+      "title": "Deer Park shelter-in-place lifted following chemical release at Lubrizol plant",
       "sourceName": "Houston Chronicle",
       "sourceUrl": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQnVkT0xFdTU3WGJYVzRIVG5qV2NIZVJOcmpWYkk2bGFHRzA5U3RBUUdCeEhfV0x0R0NJeE5VVzI4LUVCMENRend6djk0Q2s0LXRXRkhDeXQ2Z1FXZmJFNlBvUVpvai1FVjc0WS11UzJQUFdjVnFaS0RiSS0zajRLOWU5TElfRVl2TkFON1Y1Q3dyc0xsaXNFTFIySGFtSmNu",
       "publisherUrl": "https://www.houstonchronicle.com",
-      "publishedAtISO": "2026-11-11T01:14:59.000Z",
+      "publishedAtISO": "2026-11-11T10:45:35.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park officials order shelter in place due to Lubrizol incident Houston Chronicle",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park shelter-in-place lifted following chemical release at Lubrizol plant Houston Chronicle",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-f02058b2ae57f49dea1f",
-      "title": "Deer Park, Texas, issues shelter-in-place alert after chemical odor reported at Lubrizol",
-      "sourceName": "cedarnews.net",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOczd6eVFQSW0tOFdEYmxPTHZIOGo2TlkxNm4za3ZtRUxmZFBSdzJOX0dSb1ZsSnF0MTFpMEhsTVRlNTVSTVotVkxhNXpBUFMtQ0tRQU9BSE8wTGVyQW1Vd0JBQlg2RGI3bW5SLXR2X1VRb3FQLVJySHlpQlQ3WVBnRHlZN0tIa3JyYjZXdlBFWVhQV2dobHBib1BkazZCclBlbG5pTnlGUEhDRDd3OHV1NV9vWEU0SzBZNFhsRzZUS3VYMlYtemc",
-      "publisherUrl": "https://cedarnews.net",
-      "publishedAtISO": "2026-11-11T01:14:17.000Z",
+      "id": "news-7489bd610650261f6302",
+      "title": "Mitsui Chemicals Strikes $11.6 Billion JSR Deal in Japan’s Biggest Chemical Acquisition",
+      "sourceName": "ChemAnalyst",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFB6MlBBMXZEN2QxWEhJNGZIbGpfTkhyUXA1YTU1dGpfc1ZjSnRwTjNvSzduOE8yRmxWTWlLUVcwMEtuS0x3MEh0U01oWS1zb3RTbXloSHJvQ01rTHBCWHBocWRyemNkcDdjY3NLREcxekc4UV9EN21aZnZIQkliOE5RdXVxRWp5THBONHJKWVhZY2hBeWtnYWtuWkFYMDhzQklMVDZHNXltclQ4RWxmVTAzWkk5VEUzQ0dIWHlZV2tCbWVhOGZyajdsejNhRkVqcEFJa0g2X3htQVk",
+      "publisherUrl": "https://www.chemanalyst.com",
+      "publishedAtISO": "2026-11-11T10:26:09.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Strikes $11.6 Billion JSR Deal in Japan’s Biggest Chemical Acquisition ChemAnalyst",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-a7dbb98bb7302b0ad74f",
+      "title": "Innospec (IOSP) Lifted Earnings And Dividend, Is The Recent Pullback A Buying Opportunity?",
+      "sourceName": "Simply Wall St",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcWRCcVZxZU5ONkdCaC1VZ2NpZGZpY2NxWkhfSExCbUhuVGNEZWtLQy1VZ1hhWG9qdWVFdEUxNS02V25DMXRkbkVvdDRkVkM3cHdrYW5VakwyMEhnLTFWc2JtZVl3V1ZxVGxkYkRCS2RVOGtZQnpVNDFzSUJjNmdfWjdDQUNBQjBEX2tHdmFMZUFrZGpMbUZHa2tyRlEzN2ZLRGctNzBpWGtzZlJSZDRqQjN6UlpXZHg1Q19VTjF3SDBWa2RBdXlV0gHMAUFVX3lxTE5OMlFxOGJtd2VRUk1YTWNPZmZZLW1UbWtUZHRoMndIZEZ6aklZVmE3UzRXWWdwM0o1TktsN3RIMjA2RHlLX3IwczIyaVF6Y2FRT0hvS2hxWjdzQ0NxQ21FSXdDaGJrNUI5ZHVWNEt0S3dTVlhWZjltSmoxOXFGQVRudDhoV1RGRk0tNlQyazFkUXIwdDYxSXlmdmVCTnpMYm1weHQtNlp0dXZwMno1U0dWZjR2RlhZZHJxQ191Y2hHZ3M3Yll6Sk8xTnZTcQ",
+      "publisherUrl": "https://simplywall.st",
+      "publishedAtISO": "2026-11-11T10:24:04.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Lifted Earnings And Dividend, Is The Recent Pullback A Buying Opportunity? Simply Wall St",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-35e5708c8e60468965d7",
+      "title": "Surfactant Microextraction Enables Rapid Spectrophotometric Detection of Gold in Water",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNY2kteFl2QzNuQ2VHR3hMLXE1YWdDOS10NW8xNDJuakRJWU41bjg3TXZ2enlNUmkzbFF1bnpwdWo0bndFeGRWUnQ5UWFqYm42djZqQ3VYbXZTc0tKZTRUNWNxSUJEMXJZWTJNLVZqX2plWnJpTjdmMzlTOGt4TnUtek5mbWF1UWJUSl9LQkNEcHZTVDliakZoYkVNUndlNFhmS3A3V0pERkhiWWo0c3NidQ",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-11-11T08:55:37.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant Microextraction Enables Rapid Spectrophotometric Detection of Gold in Water Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-23c36d805a5291f7a48d",
+      "title": "Quadrise lets exclusive Nouryon deal lapse as trial supplies continue",
+      "sourceName": "Proactive financial news",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOY2lHNGJzNlhyOFhFUDVQZ1YzU1piREhza295M2FOc0lWbS0yR0JBRWwydzJsRnlKajQyQzBGT2FGVy1MZFNxaUFOSV9kQm5PZVZZakhkS0VvVm5IZy1kb3FxUDZZTUUwX3RiLThfalVCWV9mcVV3cEFmZ0ROcFNQOE5Kd3NEenFsaFF1WXNQU1NQM0xIS0d1WjFYcVZIcjJkR0Q1TXRkb2U0VTBTZWotb01IMlpwT3IyMmdsaE4zUUJFOEhxSS15NVQzMXhtUEd5bDNKdW9TYw",
+      "publisherUrl": "https://www.proactiveinvestors.com",
+      "publishedAtISO": "2026-11-11T08:27:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Quadrise lets exclusive Nouryon deal lapse as trial supplies continue Proactive financial news",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-026074d88a49f5a4a7f1",
+      "title": "Japan's Mitsui Chemicals Faces Ballooning Debt From JSR Deal: CFO Vows to \"Talk in Terms of Capital Efficiency\"",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQnQ3bVRXc29feWlfRmRzZmpYYUVFei1BWnRWdFp0OXpCZFNId0JlbW5JMVBqR05wcGNNNlR2VzJHQ3lQYjdpQ1EwYkVCYnQyQVhodXhzTGNPZTZHMjExZnM4dTh3ZzdYeEdNTXlaS2hJc1B5R3c",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-11T07:15:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan's Mitsui Chemicals Faces Ballooning Debt From JSR Deal: CFO Vows to \"Talk in Terms of Capital Efficiency\" BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-2a144171df0cb5d9210b",
+      "title": "What is hydrogen sulfide, the gas released at Lubrizol in Deer Park, and how dangerous is it?",
+      "sourceName": "Nacionale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMjY5M3VnN1Q3RjNZVUE3cEgwdjJuaklMSkhjd3ZhUWxFVHlNS2FpSmZIX1ppVmRIdmhIbHVuNGVJNlVCd3c4QkFkSXVLaUR0R0xXSXY4WFEwWVZGalJpU2FDWnpnQmpNTE1GMmdWekVhLUdmSlIzcm1PVUI4Z1Q2b0dlV0QycjZHOEp6ejQwRTVJcmhKS2V2TVR4TS1yeDhxLUtmSVNR",
+      "publisherUrl": "https://www.nacionale.com",
+      "publishedAtISO": "2026-11-11T04:35:00.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park, Texas, issues shelter-in-place alert after chemical odor reported at Lubrizol cedarnews.net",
+      "summary": "RSS 제공 요약(기사 본문 미확인): What is hydrogen sulfide, the gas released at Lubrizol in Deer Park, and how dangerous is it? Nacionale",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-14002bc7be7732dc3965",
-      "title": "Shelter-in-place issued in Deer Park as city monitors Level 3 incident at Lubrizol facility",
+      "id": "news-67cb0ddb7d081b988537",
+      "title": "City of Deer Park lifts shelter-in-place order following release of hydrogen sulfide from Lubrizol facility",
+      "sourceName": "Click2Houston",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVloRFZZX1h1cGp6NkhOT2xGWDY4TWRWWW9SZktia25zb0VxRVZuMWRROWg0Uk5hN3ZKeVp1WV84YTFzeHVFdWZ0bmZPRGhpam85RkNwZTgyOXk2cllIbmdTdi1QcTdJUmFYaktBVmRheHg0MlNoR2tPdThHSWN6bm9PWmpSNjQ3TzBtT2lIWkJvSW1HRV91T0hrX0dYTlZWeURTWVZaQzgxb2RNYWZhZng5WXM3dlQ4UW5yWlpCYy03Q0dLOTQ2aXBVSlJaYnNjMkdoNGdUSFhkODZJaE53WF93",
+      "publisherUrl": "https://www.click2houston.com",
+      "publishedAtISO": "2026-11-11T04:30:42.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): City of Deer Park lifts shelter-in-place order following release of hydrogen sulfide from Lubrizol facility Click2Houston",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-ff615d70a84942387ee0",
+      "title": "Adding Surfactants to Chlorine Dioxide Disinfectants Enhances Spore Reduction on Surfaces",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTc4YmEtN0lDdTJ3YmFPWVlONl9RcUY5RkJVb045WjVaVTlhWG5zVmg4MGlqUXJkeDhFdUQyVmpuWmYyRGtxQ2R3TG5pbmI4TUJyN2xpdmlab0wtZjNQMXQxaV9sTnpYLXBZXzk5LWF0UUVDQkFGZUVyY1J3NGxuZDBUVks0VmxlVXN2MHAxOVFXN1lqYUVGOW5Udnd0QTNCRUpqZlhfM3B2X01wSHJoZXJjN0Y",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-11-11T04:30:28.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Adding Surfactants to Chlorine Dioxide Disinfectants Enhances Spore Reduction on Surfaces Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-120a9e59dd4dd32e3597",
+      "title": "Deer Park, La Porte issue shelter-in-place orders after Lubrizol facility incident: City officials",
+      "sourceName": "Yahoo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNeWQzMEMtWHViMTF5cUFLMEhObUpveFpfY0lQblpCaUdMUTNEaVhpY054WUVxNWhUZ2JNWDcyVkZvSEloQldRRjdBZUtSeGhBNXMzRjRwNmpRNHdHQzF3dDFnTHVYbzhQVFVZcEhwd3h3NUJ1N0dVbzBMNFNuX2NwcmFwTWF0b3hUNWhyR0VNWW9nUQ",
+      "publisherUrl": "https://www.yahoo.com",
+      "publishedAtISO": "2026-11-11T04:16:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park, La Porte issue shelter-in-place orders after Lubrizol facility incident: City officials Yahoo",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-8007697f411b6703a977",
+      "title": "KHOU 11 Team Coverage: Deer Park shelter-in-place remains in effect after reported hydrogen sulfide release at Lubrizol facility",
       "sourceName": "KHOU",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQUNzVDhwUnJnRTRsZlNOQ2k4cDM5eHJLUUl0YTE1UXJ6Z3N5blI4VGFvZWZMSmxyZGZ0c0NGdFZ0RzlsOWdfZ2RVVHVEUjlvTWdtb3BhcjV1eHdlZU1QLUMyWS14SGFFdWRINlAzVlB2VWdyWFI5UXl3d1RsMlhuVnBleFZLSUdTSUN4STBQZTQxQWUxWFhQYXpJQkdaekRveU9tNUhlYnhLZzR3V3BVZ0NneTN0U01wZkJMOFh5QjNWWXFEUjlFUG14YUg2ajFwSmRDSG13MkFHUQ",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQT3FDcHZwOU1mTEhPcWYzN3h5UzlCREgwSUNrcFZnOUlNQXRCSklMRkZtNzNsLU5fZFVPc01kc0IwaVpDdkhFRkJMcWgwTm91RnVFdTJLcUptZGVON2xsVjNzSDktM2stQklyUXY3RFBzRDdSOUlTVnpob0xLVVZZcnZsTXpuLTA0U1JfZ25HQndCNW1feU9pR2dFTWVlU2dvd19xdEZqR2sxX3JrM29SUFRSSUc1ckpXa3BJTnc2N0ZqbE55OE1DNERJTjVyTnZCVkxITUlPWGRpTlp6LXdpTFZYX2M5YXNDc2tBWDZadmRNZXBBanVIWGItYVlNdG4tSlVZVzNUODlGWjE3aDNUV1pHaGJWNWEtMkZMN0JCZkVFcDJVNk8zdjJabjZxckU",
       "publisherUrl": "https://www.khou.com",
-      "publishedAtISO": "2026-11-11T01:07:28.000Z",
+      "publishedAtISO": "2026-11-11T04:10:05.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Shelter-in-place issued in Deer Park as city monitors Level 3 incident at Lubrizol facility KHOU",
+      "summary": "RSS 제공 요약(기사 본문 미확인): KHOU 11 Team Coverage: Deer Park shelter-in-place remains in effect after reported hydrogen sulfide release at Lubrizol facility KHOU",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-73e13eb36ffdeae20f6e",
-      "title": "Deer Park Shelter in Place: Officials working Level 3 incident at Lubrizol Deer Park",
-      "sourceName": "FOX 26 Houston",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDNESlFoYk1xbm9vMkhtcnYxU1Azd2JYRDJzVUZZbFZIRUNMdHNZR0w2UGExTV96RGpHX2NjYVR6elJoVTExc2JxM29ic2g2N2JoWWRrZUpFRV9qWlZXcWtCcHRqVlFqc3lGLWpxemxKWUs2cUhOZkpRMlU3LUN6ZDV1QmxnTEFxM3lWLXV6NEJfal9ZVW95Mm9pNF9vOFI4bWpnWUtB",
-      "publisherUrl": "https://www.fox26houston.com",
-      "publishedAtISO": "2026-11-11T01:05:54.000Z",
+      "id": "news-fe837746fe08078983c3",
+      "title": "Mitsui Chemicals: Earnings rebounded, guidance rose, and a ¥1.84tn JSR deal reshapes the growth and funding agenda",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingJBVV95cUxPS1NOWVNhYkJ5V0VYRUhhV3E4SmszOUZaRlJkRGRsUEtPelV1ZjNET0JnUmZJS1NEMVlsNGRKMjA2OVNwSURDTE1YaFBSa0pUV3JGZkw4LWstbG9yMURZeEpzcmRzdHo1WmdJc1NYeHl4Q2d1NmMzZDFFMm5IaXZkYmo4VFZrLVdROVhPT1oyRkhfb2tTREw5X2lialNaZWthRkFUSTBtc1JMQl85OVVFM193S2stc2U0Y2VtWTJVRTYyOHdPS0NreTFxVS1FVm0wMXRUc01xZkJpODNjbXd3TzR0NUVCSlRaSnFaRFgtVl9Qbnc3Qy1mdlROakUyN0FHdFpsNE1lS3AxZUtuck5GaEVfd0x4N3lJQkJha0Jn",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-11T04:02:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals: Earnings rebounded, guidance rose, and a ¥1.84tn JSR deal reshapes the growth and funding agenda TradingView",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-fda26e9d35f9577c8079",
+      "title": "Mitsui Chemicals to Acquire JSR in Record 1.84 Trillion Yen Deal",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JRERtdzFaLVUzYmtQb0VleWtEQm9yNGVIX1JoZUZfb1BzU01yUGNRRGlSMHZYRmF2T3JvMkE5MzZlcmdfcS1XVmdoTi1obWtZUjFBZXNzTTBDeC1iY3VaTGRFQ1VxYmM",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-11-11T03:59:24.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to Acquire JSR in Record 1.84 Trillion Yen Deal THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-33a8504f8548befadd5b",
+      "title": "Host Lung Surfactant Phospholipids Prematurely Activate Pseudomonas Aeruginosa Quorum Sensing",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONzhsU0dIMW5meDE2MG4xTGpEdk1MZUJQRGpZRHYwQ3ZzeGI4c01iMnpDUlQyaGZQVERvR1dmWEU2VzBEYkUybXpIZXEtMWNEZHFWc01HM1JoVEhvYWp1Rjhkc19OS0tnSXRLLTVtbDY4ZXRvam1zNVRhaE9ESkFOcmc2Xy0xMHJxUlAyanYwdEtVN2hfN1BwbUh4UllNTlkxZHRvbmlyMGd5ZUxSa1NrYUdGLS14aWl5M2c",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-11-11T03:40:27.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Host Lung Surfactant Phospholipids Prematurely Activate Pseudomonas Aeruginosa Quorum Sensing Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-25f80af208256a1b7c8d",
+      "title": "Has the Lubrizol plant in Deer Park had leaks before? Yes, several since 2021",
+      "sourceName": "Nacionale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaTZCMXhUdGxhWXhwVGtHVldISW5jQ2Qyak9nNXFQbTctV1VkNGEyaTBKeUJQUmhHbE5vMjh1RjVSUjQ2dS12THM5UEtOdmpVRjYzZXE3X1pXc2dBRFlBM3NvSG45Zm9NVkJjZGJMLV9LM0lFX205b0tMSWlIREIwV3JKbTBvMENST3FwbXlpUVFnSnpzOHo4",
+      "publisherUrl": "https://www.nacionale.com",
+      "publishedAtISO": "2026-11-11T03:28:31.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park Shelter in Place: Officials working Level 3 incident at Lubrizol Deer Park FOX 26 Houston",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Has the Lubrizol plant in Deer Park had leaks before? Yes, several since 2021 Nacionale",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-32d461cf86ba91263f82",
+      "title": "Shelter in place issued by the City of Deer Park: Lubrizol Deer Park",
+      "sourceName": "Baytown Sun",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNQ2hpNV96SC1rWnZkMk9zNmUyNmhvSWNoekNWNVV5LVRSRlBla2FRcHpON19TT19ENEd2NzBMUTMySjk4Q1FDUkZfVFFxbWxkUnRfSTZFdDhIU3VPYlEyTTU0TXk2ZHYwYk1EWVNzQmRvLUNCVGJfWlF6ZVRNY3R5RHFWdzh1QVBDRlNoWVQtSENza0lTS0N5NWhSNTV2VnpiNTFWekR0Z0o2YVJKc3J3MDZkRFU3OUtYTWN5TFJQWUhDTGFMV0lFQWhTLUFoSDVkTG9yWGxFWQ",
+      "publisherUrl": "https://baytownsun.com",
+      "publishedAtISO": "2026-11-11T02:34:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Shelter in place issued by the City of Deer Park: Lubrizol Deer Park Baytown Sun",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-fded629fb88b0b2597d3",
+      "title": "Is the Deer Park shelter-in-place over? Lifted at 10 p.m. after Lubrizol gas release",
+      "sourceName": "Nacionale",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUzhXZ0lUQVIwZEF6T04xaW9KWnBFNkstM05QQWNIRjdTZ2MzV28xcTN3WkJBY25DSW01N0Q1TExuZ3NXaERpVGVZQWZHS2s5UVJJdjdya0lIaWdmN2FPVG5xemFSUERDN0VtOEZkMm1ZYXpsQXBPU3hsS0ltYWN1QXB1enJDNUlMNFQ4bHJndjFSWjRoMU1IYlVIRTA2Zw",
+      "publisherUrl": "https://www.nacionale.com",
+      "publishedAtISO": "2026-11-11T02:23:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Is the Deer Park shelter-in-place over? Lifted at 10 p.m. after Lubrizol gas release Nacionale",
       "verification": "feed-metadata"
     },
     {
@@ -95,7 +319,7 @@
       "sourceName": "FinanceAsia",
       "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME1JMHFhSnF3R3hRRFZmbE1tSFJNWU9TYUlySHVmSUY4VUNSRkl6X3RGS1NDSURjLXV5akYzS252SVBTMFNJODV2MVMwSmJqeEdUZTFJUWhPVGhGbWZLbzFjN21UQnpxWGxvSElvVHl4Z1lpMDlQVUFGYUROWEZubDNpWElQamlHa19vM0xiRGVmUFNLbDJoNkFEbEJVVkFpSWZEMlVkZWc0c2h6OWdyZzhmaU1aWXh0UV9JRw",
       "publisherUrl": "https://www.financeasia.com",
-      "publishedAtISO": "2026-11-11T00:37:27.000Z",
+      "publishedAtISO": "2026-11-11T01:54:02.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "ncchem"
@@ -104,17 +328,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-2402c2c93cc68feb169b",
-      "title": "Tokyo Ohka Kogyo (TSE:4186) Faces Valuation Questions After Sharp Swings And Long Term Gains",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNEQ5TXhndklFb2p0M0U1dklxbGdLcE9yR0Y4MDlkM1Z0VzQ1MEVuZUhRYm1yRHRfQ2xnbWZ2d2pFWWVMTVNIYkhTZ3YwSGFLSGRWT0t0dWlpdTFoZjN1dXBXQXJUdjZDcS11TXBqQXVuYl92bjVCMGlmR3dKX1pzR3lmbGg5X2R4YmhLMXZ0LXdPakhvQ292ZUgxSmgyWmVUb2lGSUE2X3k0eUcwSFFKUGQ2VW1rS3E1X3ZNZk15Nk9mcTBMNXIyb2hGZV9LRnR4TWEtZzNPVdIB3AFBVV95cUxQeTBSZlhibGNlay14WEZEOEVvRmRKbkFKYXAtX29fOU9kaFpRYmFDUGpzcHhDWWdTUFEyZ1h1aDZldjE4YzdBU3ZjLU50NUphdUh4UXp1dTlIUS1WX2pVSk1iMGI0aXdLSE9ZWmpYTE1RX1UtZUJ0UmYxb0xHQllocmplaXJIUGtFbjVBM3FONlAxUzhwbWJmMUNLckpRUm9QLVp2Nkx6eGNzWUxmVGotNEJUMl96TFdQNHBQM2hEOWNOWXB1SVNTN1VOVnliTzZWN2Y4YlBheUItSk85",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-11-10T20:22:16.000Z",
+      "id": "news-90ece056a534d9c3a3e5",
+      "title": "Deer Park Shelter in Place lifted: All clear given after gas release involving H2S gas at Lubrizol Deer Park",
+      "sourceName": "FOX 26 Houston",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDNESlFoYk1xbm9vMkhtcnYxU1Azd2JYRDJzVUZZbFZIRUNMdHNZR0w2UGExTV96RGpHX2NjYVR6elJoVTExc2JxM29ic2g2N2JoWWRrZUpFRV9qWlZXcWtCcHRqVlFqc3lGLWpxemxKWUs2cUhOZkpRMlU3LUN6ZDV1QmxnTEFxM3lWLXV6NEJfal9ZVW95Mm9pNF9vOFI4bWpnWUtB",
+      "publisherUrl": "https://www.fox26houston.com",
+      "publishedAtISO": "2026-11-11T01:05:54.000Z",
       "date": "2026-11-11",
       "companyIds": [
-        "ncchem"
+        "kci"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo (TSE:4186) Faces Valuation Questions After Sharp Swings And Long Term Gains Simply Wall St",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park Shelter in Place lifted: All clear given after gas release involving H2S gas at Lubrizol Deer Park FOX 26 Houston",
       "verification": "feed-metadata"
     },
     {
@@ -143,90 +367,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Innospec's Q3 Earnings Beat Estimates on Chemicals Strength Zacks Investment Research",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-88dccc1d7242a13275d3",
-      "title": "Tokyo Ohka Kogyo Lifts Full-Year Profit Forecast on AI Server Demand, Sees Operating Profit of ¥63.5 Billion",
-      "sourceName": "BigGo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Eb3lxaU5sMVQtWGVZMUhMZVY4MDZLTVFHekp2bkN1cXNucXFuSEVkVXhTMWRBbUtPVUw1ZGNCOUo3c2xrZVZ3VF9jcnROaEhSSlVNZV8za0F4aXhUOUNGU09peTdOZF9zQTVVZEZoYzJDOEJaQlE",
-      "publisherUrl": "https://finance.biggo.com",
-      "publishedAtISO": "2026-11-10T06:06:00.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo Lifts Full-Year Profit Forecast on AI Server Demand, Sees Operating Profit of ¥63.5 Billion BigGo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-f59205d3509799eab508",
-      "title": "Tokyo Ohka Kogyo Reports FY2026 Third-Quarter Sales and Operating Income Growth",
-      "sourceName": "TipRanks",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLWZtZnZJZDRiU3lTYmlabTdsQW80TE1WNjBtTFdRRmJwZ1Q2el84VW56dmFhLUs4bjZtRlNuX1pydXFqNWRNQjhBWGt2S0htR3M0RDM1QThFb1h2cWNHYS1la0RyRDl1ZjZTVjVuNDYwZFNLal9uYUR5X1doMV9kRWd4M3RtWFBCRENzeEN5bEdNY19iTUNISUtNbWVfbmR1UXptOHNUTmVISFZqY1hWYi1qWWQxUktab0FNaEFROVdZRlVFM0oyV1k5TQ",
-      "publisherUrl": "https://www.tipranks.com",
-      "publishedAtISO": "2026-11-10T05:51:29.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo Reports FY2026 Third-Quarter Sales and Operating Income Growth TipRanks",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-789fd837d2519cddcf36",
-      "title": "Tokyo Ohka Kogyo Reports Nine-Month 2026 Results",
-      "sourceName": "TipRanks",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSVR5TWs2dHAxTURacFZ5Z3V3dy1HNFQwOFRGQmh3NGdROU1VZ0N4Mm1TSVFCSWt2WkJERl9ORVlpMXBiSWJ4aGJjYlh5WVNPMk5xVG9rSjBGaEI5X2p0TEo3QlVCRzNtSGZiRklPTU5OVkhPVUFJaF9DTGdXdGI3NUdyUDVRNHlJbWJjbUxOTzlzSlRMTUpad0pDNlB2SHNnVFE",
-      "publisherUrl": "https://www.tipranks.com",
-      "publishedAtISO": "2026-11-10T05:51:26.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo Reports Nine-Month 2026 Results TipRanks",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-19e0e3cc7b167c10d07f",
-      "title": "Tokyo Ohka Kogyo Raises FY2026 Financial Forecasts",
-      "sourceName": "TipRanks",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVklKemh1QXRSeGFDRkVJTlVBSTZybTJLdG1HZF8wdklKX0Z4YVNZcjlxQ1hxZkRabWtTbzNwdDZ6TW9WdDlkMmpkOFQzc1ZXbldWd1h2N3BidG9nYmM1M2VOZGU4TDFYMkNidEcyb1hKSGxuNnk1aWY5U2UtM0JNMFJjQmR3NWQ0Zm9HMnU4UUtINDF5N0gwc1JpMVI3MjhRZlZCTA",
-      "publisherUrl": "https://www.tipranks.com",
-      "publishedAtISO": "2026-11-10T05:51:25.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo Raises FY2026 Financial Forecasts TipRanks",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-c3241dbb1865f13b1b37",
-      "title": "Surfactant Protein D Reduces Lung Inflammation in Preterm Lambs",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNFE5OHFNNnNOanc4ZWZfWkpGX2NKUkN3WXpqZ3M1UVJXekx1QWhFbXVsd09vcmVYUkRvR1NBNzI4cGhsRDlqcVN5OGoxZFZjOWN5a3hvanhOakF3V3A2NGlYLXp6cnphNlIzVEJhQ2QtT1B6Z3ZXWmNHcUl4cFVvdHpER3dxd0RSa3pxd0s0SWItZw",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-11-10T05:03:44.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant Protein D Reduces Lung Inflammation in Preterm Lambs Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-9247e6604d2fcfd464ab",
-      "title": "Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPU2UyZWt2WEJrY2RaVVNRd0hoXzZhVTdYZjduaGllWlFnekxJZXBmRDZ4Mm9nU1VtbmVOclBfZXJqeXFDVFQ1dHdSOHZtZUJqQ3pmenVidU9vOTB4dlpwejhTRjI5MVNxZGlpMWRMR0R5ckdEMVRpWmRFM0wxMWt1TWlXSDZydG10Tzl3d3liWUY1TjFDdXl6VTdsMFBNNnF5VHVfTlBJRUZZaFBJeXhGRmVYTF9hUWktRUl4ckt4Tk5YU3VmMzVsQlJReDIyQllvNUtMeFVqSjBlN2lpLWt1VGFKS3c0MjF5TWhyRm9NZGkwQ0J1Nm91Q0tuNTU4NFBEUFRmZEJ0cw",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-11-10T05:02:00.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo: AI-led semiconductor demand lifted 9M results and drove higher FY26 guidance TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -325,20 +465,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals, DBJ to acquire JSR for $11.6 billion electronics.economictimes.indiatimes.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-b08bc4083970b4e8c990",
-      "title": "Alternative approach could reduce reliance on potentially toxic surfactants in pharmaceutical and food applications",
-      "sourceName": "Phys.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQR2hYQlZmWXVGZm44R1VIOG1tM2Vvam9GUEd4NXhmWTBYY2ZRVnJ2c0pQZXZ6OUIzSE11WElfOG1kOFdGSGx4ZjJ4dy1maUNXM0hUT0I3SHpBTFhQSHFVenZDQU9fekduMFZLdUxhVHVISnIyV2VGcG1tU1Bac2pjZHhHTEhhcUEzMFE",
-      "publisherUrl": "https://phys.org",
-      "publishedAtISO": "2026-11-09T21:50:01.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Alternative approach could reduce reliance on potentially toxic surfactants in pharmaceutical and food applications Phys.org",
       "verification": "feed-metadata"
     },
     {
@@ -566,6 +692,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-2011b3f55a5259c9335c",
+      "title": "Nouryon to Start MMAO Catalyst Activator Production in China",
+      "sourceName": "Chemical Industry Digest",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNLThUMnV3eko2anlPUTZYQzItWkVwTFFfNnl1Sm5jejdMeV9KVjUwamVfQm11YzhzY0gyaFN1UFB0STFmTjB1bU42dG5RZ251dllQWHZJZjFabkJ2MUtSSVdZRG11aGdsM05oazNIOGZmUm1zTVgtYnlUZTN1ZkRlN2wwbHQxLXpiWUFpdHpoWQ",
+      "publisherUrl": "https://chemindigest.com",
+      "publishedAtISO": "2026-11-09T06:26:01.000Z",
+      "date": "2026-11-09",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon to Start MMAO Catalyst Activator Production in China Chemical Industry Digest",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-bc34ebd5c4ec0c9ccafc",
       "title": "Mitsui Chemicals to take over chip linchpin JSR for $12 billion",
       "sourceName": "The Japan Times",
@@ -577,6 +717,20 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to take over chip linchpin JSR for $12 billion The Japan Times",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-cb98c570c481f990236d",
+      "title": "Mitsui Chemicals: JSR deal aims to make ICT the lead profit engine, targeting ¥300bn+ FY30 core profit",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNM3lwMkVXZzBYVGdaWmY2d2xrV0NSbmptQ2ZhZzltRTRnTUM3azNEd1R6YkNGcm4zMjl5UWxmRUNmRjN6RjY0SG4zR2hCOXZ2cW5mNEQxc2g5dXdBTnp2T0lvM0hTUGNkdTd1V1RMc2x5TUNNbVRSYmgwNWhkYy1LcnNPQ0NQaDdYeFNuV2JmRUtVZlpFWUFseGZkWmpzWTFmdXh4T2psYWFldEFxTHZpQmVlM3JNNV84TUpFZDZqZ3FzY2pJTjhhTFhVLTNIZUNnczhlT2dFVk5GUDU0NHVzenR4YXhTeE02alI3a2tMWWRscEx0cEE3dEFvRnRGVDJKRDBzNU5QTENGYVF2dnc",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-09T05:56:00.000Z",
+      "date": "2026-11-09",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals: JSR deal aims to make ICT the lead profit engine, targeting ¥300bn+ FY30 core profit TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -605,6 +759,20 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals, DBJ to jointly acquire JSR for $8.8B Breakingthenews.net",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-176e3d4331b64ab955ef",
+      "title": "Earnings Guidance Could Be A Game Changer For Ashland (ASH)",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOb1hWX3pfQ3ZiRWxub0VsT0V1Sm50eXhPbEpJU0tvRm9GU2lMbUZFQk5EaHpzQzNxOVNHUnh3cHJwMFhGemt2VW92VXI1VE52OGhXR0NzQWtDWThtTEFSaW9aMFU0cG5uLUJjeG5XLUUwZ1BISnExaDRIMElBS20xUHdQSkgzUHMwRjR1dUFHU0VaUDRvaXFuVDRXNkJxTDZ5dFdF",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-07T04:51:01.000Z",
+      "date": "2026-11-07",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Earnings Guidance Could Be A Game Changer For Ashland (ASH) Yahoo Finance",
       "verification": "feed-metadata"
     },
     {
@@ -650,6 +818,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-7ae0228180df3b67c2b2",
+      "title": "What Innospec (IOSP) Said on Its Q3 Earnings Call",
+      "sourceName": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZ05CMjZXTTMweVJYbERETnFsUjdVRlIxU1I5UHoxbEpVSkktbm1ta2lheThCb2RNTXphd3pEeGpwSGRuME54aWFGUUpjbnZscUNPUTZrQTZlTXFjU2JGbnJfTmFYRHhVU3VpWk9EYTJwZ3JMWVhWTVZwRkVtT3AzTXY0VTkxOFVkMXVYTmVlZkhzYy1zQVdqSG1fMA",
+      "publisherUrl": "https://finance.yahoo.com",
+      "publishedAtISO": "2026-11-04T18:14:26.000Z",
+      "date": "2026-11-05",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): What Innospec (IOSP) Said on Its Q3 Earnings Call Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-4d2824caeea3a623d958",
       "title": "Sales rise 7% at Innospec (IOSP), while Q3 profit more than doubles.",
       "sourceName": "Stock Titan",
@@ -662,188 +844,6 @@
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Sales rise 7% at Innospec (IOSP), while Q3 profit more than doubles. Stock Titan",
       "verification": "feed-metadata"
-    },
-    {
-      "id": "news-e261ffac5eeb94a3587d",
-      "title": "Innospec Inc. Q3 2026 Earnings Call Summary",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWFXbzBQb3Bod21UdkFqWFc3Z05VVkhacVlWdWlRX1BqNDNZWVhmWU15WGpVa19xTXo3VG9HRC1nb0J5ZnM3TmF5R2ltOTY0OGJUS0g3VWdPMFBCbEFrVEZ1UVZHYjA2d1VSNWlya212cEtKRFR4d0wxUTBmQ1A3LWFUdHZHUThJU2dpbktIVlpReFNYRE5US3lR",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-11-04T13:30:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. Q3 2026 Earnings Call Summary Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-265d3d92af66b00827b3",
-      "title": "Innospec (IOSP) Q3 Earnings Beat Estimates",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOeDNuTW9yQWtlOGNtQURXZGpFbEQ0OE1pLWJueEJQQ2pPNVVQZWdfQnhkYUhwV213emcyNlpyWDVzSVd6S1VnOEtNUGZDRWZNRnFiTWY5N1ZxMDhUaDVtTXdyWDBPZ3FHSDgwQzFlVU9hY2hsMHhGa0dxRVAyMFVraWF6bkh2eHQtVmlYM1dkTHVXYURGOXZfVS1GQQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-11-03T23:55:05.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Q3 Earnings Beat Estimates Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-ed9f1dc487d06d4d7bfb",
-      "title": "Innospec: Q3 Earnings Snapshot",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTm00V0hLSVdJYjJ1LVcyU0FGSWtOVVZpNDdUcmx0eHpNNWJGSlMwYUt5U2hMNWhNZ1ZGUHVFdml4NTU1WTJ6b3IyNUhxaGJOMnowN1hKNDdxaTc1STNpdDJPdkMtMGNNU2otZkw1LUM4RndqYTI0YjQ4b0lGRzVqeDJzWUppRzAwcjl1UVF3Q09Md3ZaMm1YYjB3",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-11-03T22:19:48.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec: Q3 Earnings Snapshot Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-f52a76c6b9e8f7726684",
-      "title": "Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUGNSRW51a29KNk1vbWI2dF9xVHJ1TzRvOXFLZ2tyRThTaVdwUXpCd3FaS2pVZWlpaENETDRMMUdKSXR2QTlBQXVOeXAtSnVUNW1mYnRxVnZkZG5XcTN2ZlY2MzRQOVVTMnNtalF1bDZodlV5cFZRMUpaZGNWNldqTTFoamIyUy1oYlE4cmx4YlZpLTlseU1takdPblBtSlFqbHc",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-11-03T21:45:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-6fe46606080ef7e33eed",
-      "title": "Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjdmdmE5V29IN2V2bUo3X3VKeHRZZGNRV1l5VVJJMm9SU1h6ajhGUmYzeGM3aVpUb085UjY3bXpxbTE2ak90b3Vnc0Q2RUJ2V0M5aHd6Q2xlN01HMmJIcWIyN0JNTHQwaTJ3OTRPN0VXTG45VUQ1X3drckdrTF9BSXV2SVhEWS1HeWEzY2otX3Y1WGJWUUI0WHVCYU1TUnZQR3Jv",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-27T07:00:00.000Z",
-      "date": "2026-10-27",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Earnings Expected to Grow: What to Know Ahead of Next Week's Release Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a3d921e8b875d57d2b02",
-      "title": "Cell surface receptor loss impairs surfactant production, lung resilience",
-      "sourceName": "American Society for Biochemistry and Molecular Biology",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOFg5NnJpQnlDeHhiWC0xRzFZMEFiV2JJSlluVUpXV21KNzFUNkJmS1ZtTWwtMjRIQVdVR0NET0RJbDBIZVFQTWNBS2tEOTZTMWdKTWpFVEZOR2RCMTFRYTdTR25DeEozWHRhYWZJQ1Z1VEU5T3pLa2s3bXc4eTFlSUIxRXY1QTd0b2dpeUVMUzdCU2Z5N3pJWk1n",
-      "publisherUrl": "https://www.asbmb.org",
-      "publishedAtISO": "2026-10-15T07:00:00.000Z",
-      "date": "2026-10-15",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Cell surface receptor loss impairs surfactant production, lung resilience American Society for Biochemistry and Molecular Biology",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-2725d3e1bcec5e94be87",
-      "title": "Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSXUwS3Q0Nk5GZDdmalJaLUFoNDBzdkFYV21LaWhvREE4YmU3VzZhS0Fxd0hEb3Y5OVdzSWp3NmRMN1VCT2VScW5lOUxzWjE0QXFSNzFCSmRGVC1kcmlTY1hLN2VBVm5LNzRBVjhTOElDTXVLLU1sRnpnWGViU2V4X1dENUFEcENfYUhqUGlDOTM2eWJuLWpJaUwydVIyMUREVEtoYmNkMW9hN19vZHhV",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon highlights its biocides portfolio as regulations reshape disinfectant choices Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0f0302c806466e684113",
-      "title": "Systematic investigation of cationic monomeric, dimeric, and trimeric surfactants for self-assembly, adsorption thermodynamics, and enhanced oil displacement",
-      "sourceName": "Nature",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhSDdIckFMbXFlSWVGV1pfeU05bkJVel9oVlI2Y3Vra2FJRWhYcXJYdnJZUkRxYVVjbFZQSlFnN1RxUkZMOWdzVW5HaXZKQi1EcnRLamVsNW1qWXBFNDJZ",
-      "publisherUrl": "https://www.nature.com",
-      "publishedAtISO": "2026-10-14T07:00:00.000Z",
-      "date": "2026-10-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Systematic investigation of cationic monomeric, dimeric, and trimeric surfactants for self-assembly, adsorption thermodynamics, and enhanced oil displacement Nature",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-7640445d34b8a8185f15",
-      "title": "A controlled comparison of two different calfactant preparations in a surfactant-deficient lamb model",
-      "sourceName": "American Physiological Society Journal",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1CTVJLMFdnMlZUX2p4NXR6S1pQZlFvVVNnWG9kRFh5cTBYU29jVFBBRE91SU1vVU53WG5BdFEtRDh4LUVZRGlMYUxjdUdpdzdPSXYtUUpRNlVLcVo5ZkNYNlZrVEpUdHFudjc1YmRQdWhCNDBmYnc",
-      "publisherUrl": "https://journals.physiology.org",
-      "publishedAtISO": "2026-10-13T06:52:44.000Z",
-      "date": "2026-10-13",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): A controlled comparison of two different calfactant preparations in a surfactant-deficient lamb model American Physiological Society Journal",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0a40a564e2d1b5e16a6a",
-      "title": "Innospec (IOSP) Dropped, So What Is Drawing Attention Now?",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQeTZacXNFcDJmYzVUVVRVeU5LOWJJSVlKdkowVTdQbHVqODlONHMyUldra05hbklvSWdXZXZqOFB0YWtHajR2aVpkYU4xQlJpTUR2Q3dLQjdTN2dmTFI1SU5nWElhekNUTGtGODhWU0VuZ3k4TFdsajhHbzdZOHpzeldwX3NCUUR4YlZiMVcwVHUyNHVsM1VnLUlqT3F0aXcwYkFVbkNpQWZhVERMNDJfLWJabXQwNm9abVNUaUhhONIBxAFBVV95cUxPYzlUdkZXSWd0blp1cm5fVEN0ZGx1MHl6bjdaZ0pOaE9KMnhfM2pRTEJqcDZkUXNud21wRklLVW1zbENHcmt4VkF5NjNhVThycWxmVjg0UDhnM2tNdkdhdTdBX3JzVEFCMElrM2pzZEZWNzRIMTlUYUdDSm9tc0g0dFZmYWlCdjM5SlJ6alNBT2M0YzdMMkZ2WUdGWFBPSUc3a204Z0J2Zl9jWjEtMl9yNGp3VUlLd0dYVm1tM2hLcGdpdlhI",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-10-11T07:00:00.000Z",
-      "date": "2026-10-11",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Dropped, So What Is Drawing Attention Now? Simply Wall St",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-3bf8c19c00bba3e9f4f3",
-      "title": "Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System",
-      "sourceName": "Business Wire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOU2FmWHF6ZnNGeVRlOTlJNGFoTEVxVE91Q0pIal9UVzFtNFVkLUNGR1FQcHkxWm1abGRqb1pJLUtDa3FFbkwxVFdWYUYxamJYb0xBT21wRDN5bWxJa0dsOWxBVkxxZDFaUXF2YUlQN1VuTnpMZE1IWk00UkdzajF1UG9Kci1BeVdGV3R0WDVOUk9tV3hJWTJMeEZZTm9nNDFmaHFSVGQwbk9YZlBBQWNOdmlVckFPTDF1cElfNFBldUtyTUtwejI0NzRWN1FibWZWSWc2RG1IWUNDOUdnc0J3bTZIQ2YxV0JF",
-      "publisherUrl": "https://www.businesswire.com",
-      "publishedAtISO": "2026-10-07T07:00:00.000Z",
-      "date": "2026-10-07",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System Business Wire",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a126184db36cf1c8230b",
-      "title": "Nouryon cleared by regulators to supply a plant-based,",
-      "sourceName": "GlobeNewswire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwJBVV95cUxPeTliUld3dVdpT3cxMjhUTktNS1RzQm1VVHlneF9JUFFKR3ZMUE5jVEJPNnlBT1hnc2RjSU5YVXZsRDNsdkdHdTRNNUdGbmFDTnNOaVVzMEVtdm9LWkNzWU96UTZicVpvOGhTQ3JEeDR6NHlMaGRXcFQ1Nmk0UnctTUdVUWVKamdSbHl0cVM5c1lENHozbXJ4V2VMbXQ2QktWOXdlenhZc0lPSFRMWXpCYm1fdU1pR0t5Q3VOU0FnX214Y2ZXYUZJdm4yUEJCVFhXV0F3TFdobTZoY0xVVmV2Yy1FNXhLUGRZOXBVLVBMNXd2dmJvNkgtMHJ3VE1DalJiN0NhQnd0dzNMZ091ZXJDU3NiX0dCekVpdzNCM2RfMGtRX2dnR09FN1NkUkI0SmMwXy1NZFZWMA",
-      "publisherUrl": "https://www.globenewswire.com",
-      "publishedAtISO": "2026-10-07T07:00:00.000Z",
-      "date": "2026-10-07",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon cleared by regulators to supply a plant-based, GlobeNewswire",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-84dface6ad0f8a65580b",
-      "title": "Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call",
-      "sourceName": "Yahoo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUFdLSHhwazZuaUtpbFQtaW1Yb2UzbHZndnZVTEl1cGJSallrZTJ2TUE0QTU1LVRmbl9ickZjdHo1V1FiZExWWDdyVXREQkxYNVpuZEdtVnQ4SmF5VVE0SU1xYW5YUUJVSVdiNGg1UWFtOUI3SDdxV28zQkdydk93aVE5Q3B1X3kyQ3pkRW5QVnZOdVFuNndtNExYeWFMOFFNZW5HcQ",
-      "publisherUrl": "https://finance.yahoo.com",
-      "publishedAtISO": "2026-10-05T07:00:00.000Z",
-      "date": "2026-10-05",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Schedules Third Quarter 2026 Earnings Release and Conference Call Yahoo Finance",
-      "verification": "feed-metadata"
     }
   ],
   "sources": [
@@ -851,19 +851,19 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 69
+      "itemCount": 66
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 15
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 31
+      "itemCount": 37
     }
   ],
   "errors": []
