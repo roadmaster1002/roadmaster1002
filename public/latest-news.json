@@ -1,10 +1,66 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-16T02:31:42.986Z",
-  "updatedAtISO": "2026-11-16T02:31:42.986Z",
+  "attemptedAtISO": "2026-11-17T04:55:28.335Z",
+  "updatedAtISO": "2026-11-17T04:55:28.335Z",
   "lastSuccessfulAtISO": "2026-11-16T02:31:42.986Z",
-  "status": "ready",
+  "status": "partial",
   "items": [
+    {
+      "id": "news-2de6a25eca529d18bca8",
+      "title": "Photoresist Market Growth Supported by Semiconductor Manufacturing and Advanced Lithography | Mordor Intelligence",
+      "sourceName": "StreetInsider",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTW40aTZIOFZzaUFLN0VrT1JBM0wxZmVvWWUwYzZjWXpYTTFzLTZ0enhhOENlODFydWNyc3dQSHhoRUlHcUlUcWlQRVpsdkszRU14NFZ4QWtTTERtdVZ2dExMeVJDanpwamZYWXBoeTI4WnVmbzJFaEZzck1MQmpIQkFOcDUxdWhERnJJVlJXS0puVlJwamFmYVJ0X0VEaHFLUzNGelRpeUtNcFBvTHMxMk1rbUVld2VrazZBZGxGbDRkM2lNUTNNTC0xYVVMWlJQR2x3SHc3YjlDTEc1WlZMQ1VsY1lUWVo3WW9pOXFKUDNrdkZBY3hXNU5YOA",
+      "publisherUrl": "https://www.streetinsider.com",
+      "publishedAtISO": "2026-11-16T23:51:46.000Z",
+      "date": "2026-11-17",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Photoresist Market Growth Supported by Semiconductor Manufacturing and Advanced Lithography | Mordor Intelligence StreetInsider",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-cec14eb2968e8eb421d3",
+      "title": "Deer Park, Texas issues shelter-in-place advisory after Level 3 incident declared at Lubrizol chemical facility",
+      "sourceName": "Energies Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9kLTg2M3lQbTZuYVNQNDh4MmZLQ19wWDhYM3hacUx3eU9zNkg3eC1VenBzTnpPeWtaazZDSk5Nd1ltVGJiTlc1VFJQemg4YWh4VVpfX0RUZ0ZHbGpPZE85SExqcHJSZGda",
+      "publisherUrl": "https://energiesmedia.com",
+      "publishedAtISO": "2026-11-16T23:32:49.000Z",
+      "date": "2026-11-17",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park, Texas issues shelter-in-place advisory after Level 3 incident declared at Lubrizol chemical facility Energies Media",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-161a4fdaa43359b4534e",
+      "title": "JIC Exits JSR Stake with Over ¥900 Billion Gain; Mitsui Chemicals Takes Over at ¥1.84 Trillion",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9leWhoa0s2Z0l3SElFTWR0N3AyMzNTSEoyY2gzazEzMkFrM3VTTjRnRUxWNFRWQmNrZnptblhCYUt1ZW8wX2k4Q3h2T3ZfRVF3NUYtMUR1ckZRU1NWVlA2eWlDaFl1VGFjRzdua3hPVTl2VG9Ra2c",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-16T18:15:00.000Z",
+      "date": "2026-11-17",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): JIC Exits JSR Stake with Over ¥900 Billion Gain; Mitsui Chemicals Takes Over at ¥1.84 Trillion BigGo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-c08d069abe9fde2abbc1",
+      "title": "Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals",
+      "sourceName": "MarketWatch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNlZNVm9PZzBpbmpibU5OVDhYcUJlMGpPdTJHbkhHaURkOW5ZUy1XOXJPb3pQRERxRGdFX0JsUTNhVm4xeWhRZkVlaW9ITjRvbmdHY2w2T181ZGtGaGtTNDcyVG14c29xX0h4alJoUDRSQ0tKZ2J1eE9qZklKdW8yV1lNdFlBcUdOVWZ3R1lMWXpJcmtqX2FvaExLU0dNN2tFcWJVOVJUbWRsNFRGM29ydHlWUExsRUVySjc4Z1ZfRHNDOEFPOTJyQ2FRTDRjVmdwVkZhNFFSVWxkaWN4V09KUkJDTDFQRDNfVW9pSzNEdXlsQQ",
+      "publisherUrl": "https://www.marketwatch.com",
+      "publishedAtISO": "2026-11-16T13:11:00.000Z",
+      "date": "2026-11-16",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Yomiuri: JIC Expects Capital Gain of Over 900 Billion Yen from Sale of JSR Shares to Mitsui Chemicals MarketWatch",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-749db1f055ce97aec25f",
       "title": "Engineered Surfactant Protein Fragment Lessens Ventilator-Induced Lung Inflammation in Preterm Lambs",
@@ -17,48 +73,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Engineered Surfactant Protein Fragment Lessens Ventilator-Induced Lung Inflammation in Preterm Lambs Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-d94f90f28c1ffae10e62",
-      "title": "Ashland Earnings Call Signals Growth Despite Operational Headwinds",
-      "sourceName": "TipRanks",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNckpNY2JpODJxUjhaUFNUakc5Q2V0UXVDeGZWUERxcFFBM1ZKWElETnFyNlV3T2NqRGhNZWU1Z2V4Rnc3U3VFYmlUV21XTkJlbGVBLUx6dy1ZX3BsaUNLUVpqQVdpZG1jLXQwUWhTb2VzVWhCQ3E3ejlheGVCSkx0NXpRaWdpdmVjcERDTVlGRGNfREdhNXRGTktSQWo0RE1JeXBFRGZYX3ZVQV93c0hiR3JsREhfaGhDZVE",
-      "publisherUrl": "https://www.tipranks.com",
-      "publishedAtISO": "2026-11-15T03:10:23.000Z",
-      "date": "2026-11-15",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Earnings Call Signals Growth Despite Operational Headwinds TipRanks",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-1c2dd618d946d4b097ea",
-      "title": "How Investors Are Reacting To Ashland (ASH) Earnings And 2027 Outlook",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOelBJMVlUS0RETmNram1jOV9ZTkNoZEJwbGFfTVVESF8tbU9aQ1BkYmF0QWVtcndYZU0tTUh4TE5qSTZfOU9vSzRnM0UwMnVxc1BJQzRyZjAyMnFnUm10SWRHSG1fSUo3UW5reTg0ZjRXSkpiYVcxTmpLb3hNb0FYUmduOG5PQWdXTDR2bDVFa2pCM2FJZE1HR04xS1ppb2FkVTBUSVFPWkNmQ3Bqb1dkMS1DRzc5UjN1NFg2eWR2WTLSAcYBQVVfeXFMTlp5N3pzNVhNOHREZE1fX0dTN0ZFRFg3bUROc2J3Q3FxN3VSV1FqOEExQ1BVZmctQkItN2FkOXhEOVZQV3U2ckt5eVRObkMxa09qaHhsVlFuS2tIZ0NXTzRtdXhvX2IzVVRNOFIxcVhXUHlrTDRpWjlvTVNxckhvODN3SGtjZldPMXVTMUpwbnp1VkhIZ3BFVlJ1a0RqQURfS2JRRXJuOTE1NndVYVJoSWFoQURjNnp3cjVuMEFJSXB2aGx0aS1B",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-11-14T06:14:18.000Z",
-      "date": "2026-11-14",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): How Investors Are Reacting To Ashland (ASH) Earnings And 2027 Outlook Simply Wall St",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-83affb2e4d99fd0931c6",
-      "title": "Ashland: Focus On FY 2027 Financial Improvement And Potential Sale",
-      "sourceName": "Seeking Alpha",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPY21wQlpkMVBIWUdZT0ZLZzVNTlJPZG5rUU9qVkZTTFgyUWM5WkZqOGhXZU5UVUphTzRiUmktcVdFdUlkV0FmY3FjdHVaektCN1N5T2xTcXNsbnU4c2JKQ3VETTU4S1MzdFpDVEFWQjlibzNtX0N5MUhYeFhaZ3FxSnpWUmY4WkNFTkdpWEh3c0h0N2E4Q1JfelVZRHpvVUZmOGdvbVdR",
-      "publisherUrl": "https://seekingalpha.com",
-      "publishedAtISO": "2026-11-13T08:03:28.000Z",
-      "date": "2026-11-13",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland: Focus On FY 2027 Financial Improvement And Potential Sale Seeking Alpha",
       "verification": "feed-metadata"
     },
     {
@@ -90,20 +104,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-98ab30812033e1b7436a",
-      "title": "Ashland (ASH) Earnings And 2027 Outlook Put Fair Value Back In Focus",
-      "sourceName": "Simply Wall St",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcGliS0xFZHg5dzdhSjkyM3ZILTA5RUsyUjZBSEhITHRMeEprb3FQTlNraXBtRXpIWDIwOWRySnczX0FmMG5qaFBpZF9lbFNhcDBwZWhMMXhuMmdGYTFBVmZUUXRZNWRmLVptd0NycHJIcXd2TGp5d2RPNUhlcEFSbXVKd1RFVUVpdV85bmdmQWRpckQ1dWV6RW9IbEFRRW5zOTRrWkoxVDh2WWlydHZBUzUxNUxNUGpCNlFySF96MlNUd9IBxwFBVV95cUxNdTZtd1p1TG14RkNhcDNiOEo3Z0M4Yy1vLTZmNkxZT3pjZEQteUdMbC0waW10ZDNNbGtMUlRNMnlyeTR3QUhXNHAtcTJlNUFOTER6bVFlc2ZNTnJKUzd0S1FaMlIyQTZMYkVRNjVQX1BKWE9EeHowQk1MY0ZHZXpHYTRWRUE2RU5maG5FMF81cmQ5b3ZWOTBNT0pvYjQ5cVk2ZXFyTEl4TWRmejlyZEV4elFJcXpuU0JxTGtMdFZJUW5fdUZORzZR",
-      "publisherUrl": "https://simplywall.st",
-      "publishedAtISO": "2026-11-12T03:35:41.000Z",
-      "date": "2026-11-12",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland (ASH) Earnings And 2027 Outlook Put Fair Value Back In Focus Simply Wall St",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-4ea3724efe2655b382bb",
       "title": "Innospec Inc. (IOSP) Stock Price, News, Quote & History",
       "sourceName": "Yahoo! Finance Canada",
@@ -132,59 +132,45 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-67cb0ddb7d081b988537",
-      "title": "City of Deer Park lifts shelter-in-place order following release of hydrogen sulfide from Lubrizol facility",
-      "sourceName": "Click2Houston",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVloRFZZX1h1cGp6NkhOT2xGWDY4TWRWWW9SZktia25zb0VxRVZuMWRROWg0Uk5hN3ZKeVp1WV84YTFzeHVFdWZ0bmZPRGhpam85RkNwZTgyOXk2cllIbmdTdi1QcTdJUmFYaktBVmRheHg0MlNoR2tPdThHSWN6bm9PWmpSNjQ3TzBtT2lIWkJvSW1HRV91T0hrX0dYTlZWeURTWVZaQzgxb2RNYWZhZng5WXM3dlQ4UW5yWlpCYy03Q0dLOTQ2aXBVSlJaYnNjMkdoNGdUSFhkODZJaE53WF93",
-      "publisherUrl": "https://www.click2houston.com",
-      "publishedAtISO": "2026-11-11T04:30:42.000Z",
+      "id": "news-7489bd610650261f6302",
+      "title": "Mitsui Chemicals Strikes $11.6 Billion JSR Deal in Japan’s Biggest Chemical Acquisition",
+      "sourceName": "ChemAnalyst",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSFB6MlBBMXZEN2QxWEhJNGZIbGpfTkhyUXA1YTU1dGpfc1ZjSnRwTjNvSzduOE8yRmxWTWlLUVcwMEtuS0x3MEh0U01oWS1zb3RTbXloSHJvQ01rTHBCWHBocWRyemNkcDdjY3NLREcxekc4UV9EN21aZnZIQkliOE5RdXVxRWp5THBONHJKWVhZY2hBeWtnYWtuWkFYMDhzQklMVDZHNXltclQ4RWxmVTAzWkk5VEUzQ0dIWHlZV2tCbWVhOGZyajdsejNhRkVqcEFJa0g2X3htQVk",
+      "publisherUrl": "https://www.chemanalyst.com",
+      "publishedAtISO": "2026-11-11T10:26:09.000Z",
       "date": "2026-11-11",
       "companyIds": [
-        "kci"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): City of Deer Park lifts shelter-in-place order following release of hydrogen sulfide from Lubrizol facility Click2Houston",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Strikes $11.6 Billion JSR Deal in Japan’s Biggest Chemical Acquisition ChemAnalyst",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-90ece056a534d9c3a3e5",
-      "title": "Deer Park Shelter in Place lifted: All clear given after gas release involving H2S gas at Lubrizol Deer Park",
-      "sourceName": "FOX 26 Houston",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTDNESlFoYk1xbm9vMkhtcnYxU1Azd2JYRDJzVUZZbFZIRUNMdHNZR0w2UGExTV96RGpHX2NjYVR6elJoVTExc2JxM29ic2g2N2JoWWRrZUpFRV9qWlZXcWtCcHRqVlFqc3lGLWpxemxKWUs2cUhOZkpRMlU3LUN6ZDV1QmxnTEFxM3lWLXV6NEJfal9ZVW95Mm9pNF9vOFI4bWpnWUtB",
-      "publisherUrl": "https://www.fox26houston.com",
-      "publishedAtISO": "2026-11-11T01:05:54.000Z",
+      "id": "news-026074d88a49f5a4a7f1",
+      "title": "Japan's Mitsui Chemicals Faces Ballooning Debt From JSR Deal: CFO Vows to \"Talk in Terms of Capital Efficiency\"",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQnQ3bVRXc29feWlfRmRzZmpYYUVFei1BWnRWdFp0OXpCZFNId0JlbW5JMVBqR05wcGNNNlR2VzJHQ3lQYjdpQ1EwYkVCYnQyQVhodXhzTGNPZTZHMjExZnM4dTh3ZzdYeEdNTXlaS2hJc1B5R3c",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-11T07:15:00.000Z",
       "date": "2026-11-11",
       "companyIds": [
-        "kci"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park Shelter in Place lifted: All clear given after gas release involving H2S gas at Lubrizol Deer Park FOX 26 Houston",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan's Mitsui Chemicals Faces Ballooning Debt From JSR Deal: CFO Vows to \"Talk in Terms of Capital Efficiency\" BigGo Finance",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-d5620dea7a87a4844461",
-      "title": "Deer Park shelter-in-place lifted after hydrogen sulfide release at Lubrizol facility, officials say",
-      "sourceName": "Yahoo",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNOWhqT002Vkp5XzVmQzNDNTVKRll0dVhEWW16eVRBdW1kLW53NDNEYm1iZ3M2dDhuT1BkZHBycVh1dko5dE9oN1l0UVVUTGdqOU44dVdEaDQ5UDg4eVFhQUJQbXNlVWtjbjdfcjlZdXhzZDdXWW8wMVJ6U1gxTmVQRm9yLWxsdw",
-      "publisherUrl": "https://www.yahoo.com",
-      "publishedAtISO": "2026-11-11T01:00:00.000Z",
+      "id": "news-398b6988745a78008861",
+      "title": "Deal round-up: SoftBank and Grab’s AI tie-up; Mitsui Chemicals’ JPY1.84tn JSR deal and more",
+      "sourceName": "FinanceAsia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPME1JMHFhSnF3R3hRRFZmbE1tSFJNWU9TYUlySHVmSUY4VUNSRkl6X3RGS1NDSURjLXV5akYzS252SVBTMFNJODV2MVMwSmJqeEdUZTFJUWhPVGhGbWZLbzFjN21UQnpxWGxvSElvVHl4Z1lpMDlQVUFGYUROWEZubDNpWElQamlHa19vM0xiRGVmUFNLbDJoNkFEbEJVVkFpSWZEMlVkZWc0c2h6OWdyZzhmaU1aWXh0UV9JRw",
+      "publisherUrl": "https://www.financeasia.com",
+      "publishedAtISO": "2026-11-11T01:54:02.000Z",
       "date": "2026-11-11",
       "companyIds": [
-        "kci"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Deer Park shelter-in-place lifted after hydrogen sulfide release at Lubrizol facility, officials say Yahoo",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-4dc18736cf25c0855664",
-      "title": "Ashland Projects Earnings Recovery After Fiscal 2026 Decline",
-      "sourceName": "MyChesCo",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTkE5dVlTSy04d3JmbFA1M3c5MGd4UHNNVlVVdXRBbjgtT0tNbEFJSmlDMWNCYklmckdNbXg0NGp2cGp4dTUyUzl0TkViYjlDbW1HSDYzSWxxcWNGcmpwWWFVcVVkdTd1aVRydVZjYVNvazZoOFlhcy1xYURWVV9lTi1kV3k2OVZPTF9iNktiVG0wQUM5Nm9JTXZveGRTRmFlVWtubQ",
-      "publisherUrl": "https://www.mychesco.com",
-      "publishedAtISO": "2026-11-10T17:22:33.000Z",
-      "date": "2026-11-11",
-      "companyIds": [
-        "kci"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Ashland Projects Earnings Recovery After Fiscal 2026 Decline MyChesCo",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Deal round-up: SoftBank and Grab’s AI tie-up; Mitsui Chemicals’ JPY1.84tn JSR deal and more FinanceAsia",
       "verification": "feed-metadata"
     },
     {
@@ -342,6 +328,34 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-3bad6457d2dd8d68f0ed",
+      "title": "Mitsui Chemicals Bets Big On JSR’s Chip Materials",
+      "sourceName": "Finimize",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOHEyak11S19laExWNGxyLVNrazRaZVVUWjMtYkR5bDVYOXhhamV3LVY0MWUyVE42R1VGS0lWQ1VlWWdTR0lHV2tTSVdrR2t3X2g3V3hfU29HQ3lmaEY4RnFMclFMWl8xYXd5ZU1yR3RDajdNbDJ4eGdRb0U0UWxCNEl3WQ",
+      "publisherUrl": "https://finimize.com",
+      "publishedAtISO": "2026-11-09T11:44:07.000Z",
+      "date": "2026-11-09",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Bets Big On JSR’s Chip Materials Finimize",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-6fde27d23ec96ec02dca",
+      "title": "Mitsui Chemicals to Acquire JSR for ¥1.84 Trillion, Backed by DBJ",
+      "sourceName": "Briefs Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3dfaFNCaVVzazk5XzVOb2tPQUVRWU5UY19BS2hsZmc0TV82dEY3WmoxRWo5VVJ3aXl3UFFrSTJKVHVWZE85cUxBYkdMN1gyZE9mRGQ1VTVfejdqTGlYa1A4VWRnNS1VY0tRY1l2WjEwZUMxYXVHVndTV0VNWGtVNDdrRzVPNmpudXhPVXpRMy0",
+      "publisherUrl": "https://www.briefs.co",
+      "publishedAtISO": "2026-11-09T09:30:00.000Z",
+      "date": "2026-11-09",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to Acquire JSR for ¥1.84 Trillion, Backed by DBJ Briefs Finance",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-07c8fd0a6b6135cf99e8",
       "title": "Mitsui Chemicals and DBJ agree to buy photoresist maker JSR from state fund JIC for ¥1.84 trillion",
       "sourceName": "MLQ.ai",
@@ -353,6 +367,20 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals and DBJ agree to buy photoresist maker JSR from state fund JIC for ¥1.84 trillion MLQ.ai",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-52920142e660b474d901",
+      "title": "Mitsui Chemicals to acquire JSR in $12 billion deal",
+      "sourceName": "Mezha.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPUDNxQXFYNWxCTDZELVhYbThXbDYyOTh4REpaOG00N2wzREtUWWVEYXRQU3YybW1qLUhLdUp5elhuc2t0V21SZ2JVYnRDTUFXeG1Zb3Ewa2xKYWNPZ3ZHRGhaVnJ4UUZRbWc",
+      "publisherUrl": "https://mezha.net",
+      "publishedAtISO": "2026-11-09T06:10:40.000Z",
+      "date": "2026-11-09",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to acquire JSR in $12 billion deal Mezha.net",
       "verification": "feed-metadata"
     },
     {
@@ -384,31 +412,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-a4c04ed4848b9eb8469d",
-      "title": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln",
-      "sourceName": "Investing.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUlNta0tMbzZaWFlhdV9nLUg5MVhfemh0RXdSOVUzTE94Snp1NmFtajFKZjV5bUl3OWV2cFZ4ZVhuVWRIOTBib1dfTWpxRkZmRW5wYnMxSXpTX0h5TWNzdGxNWklCUFQzWHZwcUZxc0o2RGtoWVJEN3gweTlNRXJmNkhOclhzdUhtcUdHb2gzUXRlWmlpT1BWc21PU291Z1V4TnZlQXVzM19Xd2dFUkkwM2p2eEhFNms",
-      "publisherUrl": "https://www.investing.com",
-      "publishedAtISO": "2026-11-09T05:30:39.000Z",
+      "id": "news-c4c97b5c3bac54890f5c",
+      "title": "Mitsui Chemicals to buy chip materials maker JSR for $11 bln By Investing.com",
+      "sourceName": "Investing.com South Africa",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNklEX3RBM0F3emN6RDRBSEE2STR5TWE0QS1jQlJ3ZkJIS2hLaWFQRmdEd3RRQTZ2UEZ5MFVVUzNSSUpSOC1lUHBXYWpBai1TVkZVSGU5cy04NWJtcWRSRVNYOVVTU3JyWHNBdU1YYUVKbG5EeEMxeW9qdENRZUhLdGR1aFZlSDFIRlBhLUtDYmdwejVOdHJzb0lfMUVMR1B2a1hXNUl3RXdhdkhtZXBFY3BuQVBYdw",
+      "publisherUrl": "https://za.investing.com",
+      "publishedAtISO": "2026-11-09T05:48:27.000Z",
       "date": "2026-11-09",
       "companyIds": [
         "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to buy chip materials maker JSR for $11 bln Investing.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-2129e862419421d4725b",
-      "title": "Mitsui Chemicals Announces Deal to Acquire JSR",
-      "sourceName": "Nippon.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1ONWhkelIyZkd3dy1fS0VtTUdCQzdFcGZvaWVqeGswYXJhaHZCOG1BaUJBUWtUQzVLYlc0aC1yTUxoLVR3RDVQZkRETm1tUXI1Wi1kRg",
-      "publisherUrl": "https://www.nippon.com",
-      "publishedAtISO": "2026-11-09T05:09:18.000Z",
-      "date": "2026-11-09",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Announces Deal to Acquire JSR Nippon.com",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to buy chip materials maker JSR for $11 bln By Investing.com Investing.com South Africa",
       "verification": "feed-metadata"
     },
     {
@@ -454,20 +468,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-4cea938ba96e1b46c4bf",
-      "title": "Mitsui Chemicals to Take Over Chip Linchpin JSR for $12 Billion",
-      "sourceName": "Bloomberg.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnVYazR4OE1Vc0x1dFYzZXA2bE0xdmZBZThJN1lYVTR4bHhKSjJTblJSS0luNVlVLVpycnd1cHY5SWF4MDViekszRENnamM2NWR3aV9iOGdBdU5rOVg1Smp0c0l5SGZsWFMxY2FqTTQtV1ctdEE0U2I3SWxyNkd5bnpZaGVocWw1c05uclVNSmwxM24yUlY3aXV2SGtpN2hOYlZZbWFMQkU",
-      "publisherUrl": "https://www.bloomberg.com",
-      "publishedAtISO": "2026-11-09T03:04:00.000Z",
-      "date": "2026-11-09",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to Take Over Chip Linchpin JSR for $12 Billion Bloomberg.com",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-77b71f35e6c85eca6ea2",
       "title": "Mitsui Chemicals signs $11.6B deal to buy chip materials maker JSR from JIC",
       "sourceName": "Dealroom",
@@ -482,31 +482,31 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-6f310fd93380ed94d6f5",
-      "title": "Mitsui Chemicals to buy chip materials firm JSR for $11.6 billion",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQV1dBZnhCakVzeV8yUG5Ub0ZuaXZNVmk2bGRxaG5sNm5TZ3NBZ1FPWmVLdXFOaUhNU2pYVjR4R3pIbWl6cUtwV0xweHFEY29EWTNFUzNlMkY5Y2kyZjA2X1VqQXJQUXd3X2pnX3paQkV1WTB4UGV5SEpUQ05mY0Jkc3R5Tjc3UzhfWHRjeFBIcVBRd1YyeHBQU1p1elhUcG9lR3Z3UnRNQ2dfN3VPOVFZX1VuTzdWUlEzbzVXbGpSbnBXQlBmdkhMejFKUFJtS2c",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-11-09T02:32:00.000Z",
-      "date": "2026-11-09",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to buy chip materials firm JSR for $11.6 billion TradingView",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-8abd34e4d0f86ab82246",
       "title": "Mitsui Chemicals to buy chip materials firm JSR for $11.6 billion",
       "sourceName": "Reuters",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRVBXeUpySnRCeXJON1lTMHg0UFAxRE45ZzVEdzVnbENXSnB2RUhxTkhzM3ZzYVoxSzZMdF9BMGtMWTE1V0N5Z0lIZGxhMTFhNEhoeDBCTkZWa01OLTdTQzJMZHMxb1JOTVZYTjJwWFFBb3NzcG9zT1ZickF3c1h3c2dKckpsMXg1RjY1TWFYandaREJ6eHZOVElvSEN3TEZEekNyUzdrZ0h4dERO",
       "publisherUrl": "https://www.reuters.com",
-      "publishedAtISO": "2026-11-09T02:11:00.000Z",
-      "date": "2026-11-09",
+      "publishedAtISO": "2026-11-08T08:00:00.000Z",
+      "date": "2026-11-08",
       "companyIds": [
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to buy chip materials firm JSR for $11.6 billion Reuters",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4cea938ba96e1b46c4bf",
+      "title": "Mitsui Chemicals to Take Over Chip Linchpin JSR for $12 Billion",
+      "sourceName": "Bloomberg.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOWnVYazR4OE1Vc0x1dFYzZXA2bE0xdmZBZThJN1lYVTR4bHhKSjJTblJSS0luNVlVLVpycnd1cHY5SWF4MDViekszRENnamM2NWR3aV9iOGdBdU5rOVg1Smp0c0l5SGZsWFMxY2FqTTQtV1ctdEE0U2I3SWxyNkd5bnpZaGVocWw1c05uclVNSmwxM24yUlY3aXV2SGtpN2hOYlZZbWFMQkU",
+      "publisherUrl": "https://www.bloomberg.com",
+      "publishedAtISO": "2026-11-08T08:00:00.000Z",
+      "date": "2026-11-08",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to Take Over Chip Linchpin JSR for $12 Billion Bloomberg.com",
       "verification": "feed-metadata"
     },
     {
@@ -538,76 +538,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-edc3931685c4769e0a14",
-      "title": "Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion",
-      "sourceName": "The Japan Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVJLTDAwbXZWd09CXzBHaHFjZC1YQUdNNWh1a2xWLWhxcmV1cUtfWXJKUklENV9DelVTOUgtMnlieTVnMU5vVEo2R1JJbWxHYzdGTlEwdG1vS3Qyc3UyLWt5QnBJbGhjVThSLVlMQnBib0lQYkstSC1SWGtoRVhVbWFad01ta00xdHJVZ2VIdTRucUlEd1hJ",
-      "publisherUrl": "https://www.japantimes.co.jp",
-      "publishedAtISO": "2026-11-05T08:00:00.000Z",
-      "date": "2026-11-05",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals eyes acquisition of JSR for over ¥1 trillion The Japan Times",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-a0539b7cbc4857859dc7",
-      "title": "[News] Mitsui Chemicals Eyes Record $8.2B JSR Acquisition to Expand EUV Materials Business",
-      "sourceName": "TrendForce",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQVjRJOWtlM3FQUFFYUzl6QlJ0eFBuamllWWVmVi1GV2dvaUV2YjU5NFllNks0R0JuajY2M1N3V0hqT3Q2MjlETkRLNjlRS0N1OHJiZjljWUcxV0R0RjRyZ1FZekVPSDJtbVhadEhscTlFenRjY1VPcGFtZkFvYkJLamNHZXdzVHE3VnFLeWE0c2FDSzNTOU1zYWlGVjZJRWtRUlZQcjRhUjlFbzdLcURuNWdieUt5azBwWldfS0hxVWJ1eFY1ejh6Wm9RMA",
-      "publisherUrl": "https://www.trendforce.com",
-      "publishedAtISO": "2026-11-04T23:34:04.000Z",
-      "date": "2026-11-05",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): [News] Mitsui Chemicals Eyes Record $8.2B JSR Acquisition to Expand EUV Materials Business TrendForce",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-6114a4e2f8add2de7f93",
-      "title": "Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn",
-      "sourceName": "Nikkei Asia",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbDlRV3hVRTVwNFI1djM0X2k3dnhLaVM3ZG9aVEdGYU5FN2ZKOWdYR0xFNUdOZ2tiZGJ1ZmhwX3F1Wi1MYWo4OVBKaFRkbVZzVjQ2S0xUQmNOVHo1SGstOE1ZYUpFZWswUlFienF0MDRZSTRwZzRmNE9aYzRCNmVFeWFJRHNjMERCaTY5eXdyanhFVTlabzk3bHV3NTBUMHF0NE5xdmRUYlFQX0wyWlhLdnQ5em9Wc1hF",
-      "publisherUrl": "https://asia.nikkei.com",
-      "publishedAtISO": "2026-11-04T08:00:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to buy Japan chip material maker JSR for over $8.2bn Nikkei Asia",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-251a039738d008af35ec",
-      "title": "Japan Investment Corp to sell JSR to Mitsui Chemicals for over $8.2 bn: Report",
-      "sourceName": "electronics.economictimes.indiatimes.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa0JvNzVQd2FBRklOaWZhRjg0b1liLUp0LW1FYm5xN3czeVUzSUlBdDlCWXBKb1lKVzc1UTREckZaa0d6TWNDd3ZwUzYxS1dEVFpoMm1uX3FWMkc4Rkxsa2dlU3FIaEZqMXV2QmRMdFRmbVhpNlQtOFNaUWdqMm95eldJaFJQN2hJNTdHQlk1YTNxTzVxdXJkY1d3Qk1GdzVpVDlfaFlKeE5USlNpWkhXZmhKVmFkYWNUeS1Ramh1Zy1kWlhNNVB2UWtlaEVEMGRyYmpydTZEOUFOdGk0NDk5enFMMmMzN09sZUtRdUNUZ9IB9AFBVV95cUxQdFQ5QkhwZ01kRnhtQWk0VUl3c25RMVVUeTJHNjh4YTZkaGFwOTNGdkJjX21rZXltSHpCdUVVYWJqSlI4RUZtVkVpYnFJc09hUlI0WEgtc2dZTThjVEFJclJJYzZiWWhoTlJISkVFWUJaVUxCVXl6UUVIWTV1V2RONFJmOGJEVThZVS1neGlSN1MtemloVm1Rc1duQVoweU5Id0duWkhyS0I5Ump1M0NtaW1TRU1RdWpIcmFjNzUwSy1kdHVYTEtpMUY1bWFPejZ3S1lKb05BamdIZC0xclVCWU1DMlFPeGV1eDBWcGN3amY5NEJY",
-      "publisherUrl": "http://electronics.economictimes.indiatimes.com",
-      "publishedAtISO": "2026-11-04T08:00:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan Investment Corp to sell JSR to Mitsui Chemicals for over $8.2 bn: Report electronics.economictimes.indiatimes.com",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-02d713e5e087047eabf1",
-      "title": "Japan Investment ‌Corp to sell JSR to Mitsui Chemicals in an over $8.20 bn deal: Report",
-      "sourceName": "The Economic Times",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPc1V4czFEUXpabU1BTWhRZWtUZlFFTmQ4OHBFblZHbVh2UXlObVV2TUU1Y3c1R0JIZVJXN1RnU3l6ZkVBTFpjRlF3aWVQLUd5dDZubVVFX2RjVjRMUG8xb3IzWGNYWUNvU0ZoX1Nxcy1zcFA0aFFPcGhhT2ludG9jcFkyWXdNZjlmOWxjOTJRalBMUVQ0RlJSaU9uVUI1REhIV2N5VDNHSnNZSVQwWkVpNksxdS1SMGZrR2dSd2RvRnNCS1dQWTdUUDZpUXNPaFFvQVRSN2VRRE55Sm9XclJlU1JQdkxsWEFzWVFEbGhtdDYzVGlkV25OM2ln0gH_AUFVX3lxTE9NVFJNM25QQ2NOdnA4RXJWS1RaeUlWRjZFbHdDbWRYMjZzMEpRZ3pZQkYzVkRwa25GSnhkRWw1YVRXcTRlcHVWT3cxcFE1amM5ckMyQ0RsUXdmb2o5ZnVXZlFpN3NtNnNacjd0NEJtd2w0TDlRdFZUejBMTm94Z1h6NElONFVncWk0ZWE3YTU1Wkh1b0J3cFMxd25TYzN2WXlwREs0dVdhaEh1cTRKeEhOQ3l6X3IzSWI1NV9BTUgzUkt3amFrX0NEZ3pycy16dHVNaFRxbWRQREo5OG1YZXNLeDJOMnFJbFExbWR5TVNwaTYtTzlIWm45aVgySTF2UQ",
-      "publisherUrl": "https://m.economictimes.com",
-      "publishedAtISO": "2026-11-04T08:00:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan Investment ‌Corp to sell JSR to Mitsui Chemicals in an over $8.20 bn deal: Report The Economic Times",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-fc4ce56e39a07ba9003c",
       "title": "Innospec Inc (IOSP) (Q3 2026) Earnings Call Highlights: Revenue Up 7% to $473. ...",
       "sourceName": "Yahoo Finance",
@@ -619,34 +549,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc (IOSP) (Q3 2026) Earnings Call Highlights: Revenue Up 7% to $473. ... Yahoo Finance",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-93dc4faef556d896f5c0",
-      "title": "EXCLUSIVE: Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say",
-      "sourceName": "Reuters",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZ0NuZnZmczRXNFNBQlJvbXNmUXdpMk1DVnkzU29LVGVGc1dvTTlVRlRlQXZnUEFHSGRsY0lRQmpMRTNId1pQZ0c4Z2lmTFF1ZEVIQ0t0bWw2N0w5UVdmWndFQVg3ZjhkMFB4RDBCSjZFME81YzdrTGFxRWN2Yk1ma0ZVZy1aS05KVzJUY21HMlQzU2l4X21FX1ZoTVZXUGxCX2pZV1JZbWNlS2NxME5Ec0lrdw",
-      "publisherUrl": "https://www.reuters.com",
-      "publishedAtISO": "2026-11-03T08:00:00.000Z",
-      "date": "2026-11-03",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): EXCLUSIVE: Japan fund JIC plans to sell JSR to Mitsui Chemicals, sources say Reuters",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-c04e34773ba31a1f4297",
-      "title": "Japan's JIC Nears $8.2 Billion Exit From JSR With Sale to Mitsui Chemicals",
-      "sourceName": "BigGo Finance",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4zVlR1MW1lNEJxa0ZjUXpxMUZ6X0FWUVhvTjVfZmVpOUp6U1BUR0lrWXAxUzBCQTB3Q2NHUy1iS1pWVWg3aTF3WlVNamxBQ3MwMFZENVVaVG9DMEFxbjF0VldibXdLNWI2MGw0WHJlajNYb0ZrQlE",
-      "publisherUrl": "https://finance.biggo.com",
-      "publishedAtISO": "2026-11-03T08:00:00.000Z",
-      "date": "2026-11-03",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan's JIC Nears $8.2 Billion Exit From JSR With Sale to Mitsui Chemicals BigGo Finance",
       "verification": "feed-metadata"
     },
     {
@@ -844,6 +746,20 @@
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Study finds common vaping additives disrupt lung-surfactant film in lab model The University of Kansas",
       "verification": "feed-metadata"
+    },
+    {
+      "id": "news-02432578e6a435cb0ffd",
+      "title": "The Secret History of Ashland’s Red Scare",
+      "sourceName": "Oregon Humanities",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkRrQjhZS1BUSTFXbGlIQUtIejB5TVNrZzQ4QmZqUWRzWXJISXdHQWN6RktLVlQwQmNkSjFZcnV6Z09Ma3JTSVdEanVlaVYtd2kzSDVhUU1BLVR4VVdyMFJQZUwxMGlVMVBrUlZXakdZZ0w3RVRkMlJZQzY4cjBuMlFoazQ1TC1zNkw1cklYTC1vNWE1SmRPbE5mR1hRdy16NVQ0d3JKQnlvQQ",
+      "publisherUrl": "https://oregonhumanities.org",
+      "publishedAtISO": "2026-08-25T07:00:00.000Z",
+      "date": "2026-08-25",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): The Secret History of Ashland’s Red Scare Oregon Humanities",
+      "verification": "feed-metadata"
     }
   ],
   "sources": [
@@ -851,20 +767,23 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 37
+      "itemCount": 46
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 9
+      "itemCount": 2
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "itemCount": 26
+      "status": "error",
+      "itemCount": 0,
+      "error": "RSS 서버 응답 HTTP 429."
     }
   ],
-  "errors": []
+  "errors": [
+    "verdant: RSS 서버 응답 HTTP 429."
+  ]
 }
