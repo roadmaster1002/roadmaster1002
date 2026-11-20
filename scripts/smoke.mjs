@@ -22,7 +22,7 @@ const directory = await mkdtemp(path.join(os.tmpdir(), 'chem2-smoke-'));
 let passed = 0;
 
 const pages = [
-  ['대시보드', '더 넓은 시야, 더 나은 의사결정'],
+  ['대시보드', '인텔리전스 대시보드'],
   ['산업 지도', '산업 지도'],
   ['마켓 인텔리전스', '마켓 인텔리전스'],
   ['관심 모니터링', '관심 모니터링'],

@@ -47,12 +47,13 @@ await context.route('**/latest-news.json*', route => {
   return route.fulfill({ status: responseStatus, contentType: 'application/json', body: JSON.stringify(responseSnapshot) });
 });
 const legacy = [{ date: now, text: '# E2E 이전 형식 브리핑 보존', scope: '화학2그룹 전체', mode: 'local' }];
-await context.addInitScript(value => {
+await context.addInitScript(({ brief, savedId }) => {
   if (!localStorage.getItem('chem2-e2e-legacy-initialized')) {
-    localStorage.setItem('chem2-briefs-v1', JSON.stringify(value));
+    localStorage.setItem('chem2-briefs-v1', JSON.stringify(brief));
+    localStorage.setItem('chem2-saved-v1', JSON.stringify([savedId]));
     localStorage.setItem('chem2-e2e-legacy-initialized', '1');
   }
-}, legacy);
+}, { brief: legacy, savedId: fixtureItems[2].id });
 
 let passed = 0;
 async function test(name, run) {
@@ -62,7 +63,7 @@ async function test(name, run) {
 async function navigate(label, mobile = false) {
   if (mobile) await page.getByRole('button', { name: '메뉴 열기', exact: true }).click();
   await page.locator('aside nav').getByRole('button', { name: new RegExp(`^${label}`) }).click();
-  await page.getByRole('heading', { level: 1, name: label === '대시보드' ? /^더 넓은 시야/ : new RegExp(`^${label}`) }).waitFor();
+  await page.getByRole('heading', { level: 1, name: label === '대시보드' ? /^인텔리전스 대시보드/ : new RegExp(`^${label}`) }).waitFor();
 }
 function scope(label) { return page.locator('main .scope-row').getByRole('button', { name: label, exact: true }); }
 async function countIs(selector, expected) { await page.waitForFunction(({ selector, expected }) => document.querySelectorAll(selector).length === expected, { selector, expected }); }
@@ -146,6 +147,48 @@ try {
     await countIs('.latest-card', 2);
     assert.equal(await page.locator('.research-card').count(), 0);
     responseStatus = 200; responseSnapshot = readySnapshot;
+  });
+
+  await test('the earliest and latest ordering and saved-only filter apply within the selected period', async () => {
+    const order = page.getByRole('combobox', { name: '기사 정렬', exact: true });
+    const titles = page.locator('.latest-card h3');
+    await order.selectOption('oldest');
+    assert.deepEqual(await titles.allTextContents(), [fixtureItems[1].title, fixtureItems[0].title]);
+    await order.selectOption('newest');
+    assert.deepEqual(await titles.allTextContents(), [fixtureItems[0].title, fixtureItems[1].title]);
+
+    const save = page.getByRole('button', { name: `${fixtureItems[0].title} 북마크`, exact: true });
+    assert.equal(await save.getAttribute('aria-pressed'), 'false');
+    await save.click();
+    assert.equal(await save.getAttribute('aria-pressed'), 'true');
+    const savedOnly = page.getByRole('button', { name: '저장한 항목만', exact: true });
+    await savedOnly.click();
+    await countIs('.latest-card', 1);
+    assert.deepEqual(await titles.allTextContents(), [fixtureItems[0].title]);
+    await savedOnly.click();
+    await countIs('.latest-card', 2);
+  });
+
+  await test('RSS bookmarks persist after a feed entry disappears and legacy bookmark IDs remain available', async () => {
+    const removedIds = [fixtureItems[0].id, fixtureItems[2].id];
+    responseSnapshot = { ...readySnapshot, items: fixtureItems.filter(item => !removedIds.includes(item.id)) };
+    await page.getByRole('button', { name: '뉴스 갱신 확인', exact: true }).click();
+    await countIs('.latest-card', 1);
+    await navigate('리서치 라이브러리');
+    await page.reload({ waitUntil: 'networkidle' });
+    const library = page.locator('main .feed-grid');
+    const archived = library.getByRole('heading', { name: fixtureItems[0].title, exact: true });
+    await archived.waitFor();
+    await library.getByRole('heading', { name: fixtureItems[2].title, exact: true }).waitFor();
+    const exported = await exportText('Markdown 내보내기', 'bookmarked-news.md');
+    assert.ok(exported.text.includes(fixtureItems[0].sourceUrl));
+    assert.ok(exported.text.includes('[RSS · 본문 미열람]'));
+
+    await library.getByRole('button', { name: `${fixtureItems[0].title} 저장 취소`, exact: true }).click();
+    await archived.waitFor({ state: 'detached' });
+    responseSnapshot = readySnapshot;
+    await page.reload({ waitUntil: 'networkidle' });
+    assert.equal(await archived.count(), 0);
   });
 
   await test('weekly calendar presets use Seoul dates and preserve the requested period length', async () => {

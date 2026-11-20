@@ -360,3 +360,22 @@ nav .nav-new { font-size: 12px !important; }
   .earnings-logic h3 > span { font-size: 12px; }
   .earnings-logic p, .chain-company-detail > ul > li { font-size: 16px; }
 }
+
+.page-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.page-actions .add-source { margin: 0; }
+
+.sidebar > * { flex-shrink: 0; }
+
+.page-title-row h1:focus { outline: none; }
+
+@media (max-width: 760px) {
+  .sidebar:not(.open) { visibility: hidden; }
+  .page-actions { margin-top: 0; }
+}
