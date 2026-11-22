@@ -2,6 +2,7 @@ import { Bookmark, Clock3, ExternalLink, FileText, FolderOpen, Map, Rss, Sparkle
 import { selectRecentArticles } from '../shared/freshness.mjs';
 import { companies, type CompanyId, type Signal } from './data';
 import { newsToSignal, type NewsSnapshot } from './newsClient';
+import { planningNews, planningNewsUpdated } from './planningNews';
 import './dashboard.css';
 
 type Scope = CompanyId | 'all';
@@ -37,6 +38,7 @@ function includesScope(signal: Signal, scope: Scope) {
 
 export default function Dashboard({ scope, snapshot, newsError, registered, savedSignals, onNews, onMap, onBrief, onAnalyze, onLibrary }: Props) {
   const scopeName = companies.find(company => company.id === scope)?.name ?? '화학2그룹 전체';
+  const insights = planningNews.filter(item => scope === 'all' || item.companyId === scope);
   const { items: news } = selectRecentArticles(
     snapshot.items.map(newsToSignal).filter(signal => includesScope(signal, scope)),
     { asOfISO: new Date().toISOString(), days: 7 },
@@ -80,6 +82,30 @@ export default function Dashboard({ scope, snapshot, newsError, registered, save
         </span>
       </button>)}
     </div>
+
+    <section className="mi-overview-panel" aria-labelledby="planning-news-heading">
+      <div className="mi-overview-panel-heading">
+        <h2 id="planning-news-heading">사업별 뉴스와 기획 인사이트</h2>
+        <p><time dateTime={planningNewsUpdated}>{planningNewsUpdated}</time> 업데이트 · {insights.length}건</p>
+      </div>
+      <div className="mi-planning-grid">
+        {insights.map(item => <article key={item.url} className="mi-planning-story">
+          <header className="mi-planning-meta">
+            <strong>{companies.find(company => company.id === item.companyId)?.name}</strong>
+            <time dateTime={item.date}>{item.date}</time>
+          </header>
+          <h3>{item.title}</h3>
+          <p>{item.summary}</p>
+          <div className="mi-planning-insight">
+            <strong>기획 시사점</strong>
+            <p>{item.insight}</p>
+          </div>
+          <a href={item.url} target="_blank" rel="noreferrer">
+            {item.source}<ExternalLink size={15} aria-hidden="true" />
+          </a>
+        </article>)}
+      </div>
+    </section>
 
     <div className="mi-overview-content">
       <section className="mi-overview-panel" aria-labelledby="overview-news-heading">

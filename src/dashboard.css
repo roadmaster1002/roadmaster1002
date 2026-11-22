@@ -167,6 +167,55 @@
   line-height: 1.5;
 }
 
+.mi-planning-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+  margin-top: 16px;
+  gap: 20px 24px;
+}
+
+.mi-planning-story {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  min-width: 0;
+  padding-top: 14px;
+  border-top: 1px solid var(--overview-border);
+  font-size: 1rem;
+  line-height: 1.65;
+  word-break: keep-all;
+  overflow-wrap: anywhere;
+}
+
+.mi-planning-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 4px 12px;
+  width: 100%;
+  color: var(--overview-muted);
+  font-size: .875rem;
+}
+
+.mi-planning-meta strong, .mi-planning-insight strong { color: var(--overview-accent); }
+.mi-planning-story h3 { margin: 0; color: var(--overview-ink); font-size: 1.125rem; line-height: 1.45; }
+.mi-planning-story p { margin: 0; }
+.mi-planning-insight { width: 100%; padding: 10px 14px; border-radius: 8px; background: #f4f6fc; }
+.mi-planning-insight strong { display: block; margin-bottom: 3px; font-size: .875rem; }
+.mi-planning-story > a {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-top: auto;
+  padding: 4px 0;
+  color: var(--overview-accent);
+  font-size: .875rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
 .mi-overview-link {
   min-height: 42px;
   padding: 7px 11px;
