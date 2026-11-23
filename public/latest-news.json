@@ -1,10 +1,38 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-22T22:54:07.407Z",
-  "updatedAtISO": "2026-11-22T22:54:07.407Z",
-  "lastSuccessfulAtISO": "2026-11-22T22:54:07.407Z",
+  "attemptedAtISO": "2026-11-23T03:27:17.644Z",
+  "updatedAtISO": "2026-11-23T03:27:17.644Z",
+  "lastSuccessfulAtISO": "2026-11-23T03:27:17.644Z",
   "status": "ready",
   "items": [
+    {
+      "id": "news-cf9b3985e7c53f19a534",
+      "title": "Clariant, CD&R in talks to acquire chemicals firm Ashland - Bloomberg",
+      "sourceName": "Seeking Alpha",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQZ0d5Umhab1VhMExWT0FfbFNmV0R6OTV3LXFwc3RYeDVHeWhsUHJfY0NDdHhmd19PWjNPT0FlZDdVMTBTcE82eHFNS3lhdktEVEFjazhMQmU3aGRGR1lFbEFjS2J4ZTktMWJyS1JBaG5qX3BZUDhYN0Q1TWUwOU9jWjh6N0ZsSDRpUTVOeEQzUUg5aWpVWnFZOGpiQ1dxS3N5TEFVWlNMUnNKbURC",
+      "publisherUrl": "https://seekingalpha.com",
+      "publishedAtISO": "2026-11-22T23:53:16.000Z",
+      "date": "2026-11-23",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Clariant, CD&R in talks to acquire chemicals firm Ashland - Bloomberg Seeking Alpha",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-5908ec23154fd6394909",
+      "title": "Clariant, CD&R in talks to acquire chemicals firm Ashland - Bloomberg",
+      "sourceName": "TradingView",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQRmtfemxJbDhjaXczYkphY1IzTXNYV1ZmZmJCTERQOTNpaVFnSUhUallyX1lva2d4RFlxanpxSHZ5XzR3cEk5RE4tLTdyZkxza1NEWFd2LUYySWJUZXFyNkFaMjkxWnpENzlrbHdYTFpobHZaM2ZQNkJOc2xIZGxnSVR6VkZjR1c3NTZ4Y2hJREpkeWdPdUlyZ1RldXlOS1VyWWlQbXBjMzlOY1JydmlOOFJjNG92UmFxYlBtLUMtT1FsTEJtd0psVg",
+      "publisherUrl": "https://www.tradingview.com",
+      "publishedAtISO": "2026-11-22T23:53:16.000Z",
+      "date": "2026-11-23",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Clariant, CD&R in talks to acquire chemicals firm Ashland - Bloomberg TradingView",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-21e4e2c9646c57fc2470",
       "title": "Clariant, CD&R discuss Ashland acquisition in potential $3.39 billion chemicals deal",
@@ -76,20 +104,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-63b55420b17571c83164",
-      "title": "Tokyo Ohka Kogyo's ¥23 Billion Photoresist Investment Puts",
-      "sourceName": "openPR.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZlMwRGRMemFIeVQxSG43Rmh6NFJZSVZYSk0xUi1mMERsa1ctQmFXRWdzWmFGZ2pWRnVlX3NpaS1oakc4UVlVcnVQS0J3N1d3UXBHbEV4dmdxU2Nmd2I2OEdNUjhDN0cyM3R5Z1F1djkwT19xd05BWFVwejdsc1I3cFlWelhzOGEyOEFYbUg0YlAzU2VLbFJZVA",
-      "publisherUrl": "https://www.openpr.com",
-      "publishedAtISO": "2026-11-21T14:21:04.000Z",
-      "date": "2026-11-21",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo's ¥23 Billion Photoresist Investment Puts openPR.com",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-e014ec28e5c61a65c916",
       "title": "China A-Shares Grind Along Bottom as Semiconductor Split Widens; Advanced Packaging, Photoresist Strengthen While Computing Chips Retreat Broadly",
       "sourceName": "finance.biggo.com",
@@ -143,6 +157,20 @@
         "kci"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Inolex unveils plant-based hair care ingredient for curl control and scalp comfort. Personal Care Insights",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-fca32a5427db99f5753b",
+      "title": "Inolex Introduces ProCondition Satin for Hair Applications",
+      "sourceName": "Cosmetics & Toiletries",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWFBpMVVvTXNJQlAtNE1acjdvUU9NMVR2WjRBZ1lhZ09hNlRta1Rva3c1SEtFU2hUUDlVeWIxNUhoWnpUcWk1YkdQcl9xTmJpMFJvelBBdjNYa0VyWGc3VUx6eXhRQU4xc1FpY04tU0RXWHM2U09GaFdIZ0NiMnZYZE55RDY5OEtScGxSUGdFMGM3U3ZZaUd3am1FVnhxcTVCa0hMcDdSSXhwaUR2TEtfM2xGSVZYbEhkdFdkZVc2WlE4Mm1Da2hDRXF5N2pocVhJT2ZPRDlhY0thSEV1Z3Q4bTJqbndTN1RFbXpsLU1VNktQZw",
+      "publisherUrl": "https://www.cosmeticsandtoiletries.com",
+      "publishedAtISO": "2026-11-18T17:03:21.000Z",
+      "date": "2026-11-19",
+      "companyIds": [
+        "kci"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Inolex Introduces ProCondition Satin for Hair Applications Cosmetics & Toiletries",
       "verification": "feed-metadata"
     },
     {
@@ -230,6 +258,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-fda26e9d35f9577c8079",
+      "title": "Mitsui Chemicals to Acquire JSR in Record 1.84 Trillion Yen Deal",
+      "sourceName": "THE ELEC, Korea Electronics Industry Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1JRERtdzFaLVUzYmtQb0VleWtEQm9yNGVIX1JoZUZfb1BzU01yUGNRRGlSMHZYRmF2T3JvMkE5MzZlcmdfcS1XVmdoTi1obWtZUjFBZXNzTTBDeC1iY3VaTGRFQ1VxYmM",
+      "publisherUrl": "https://www.thelec.net",
+      "publishedAtISO": "2026-11-11T08:00:00.000Z",
+      "date": "2026-11-11",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals to Acquire JSR in Record 1.84 Trillion Yen Deal THE ELEC, Korea Electronics Industry Media",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-1f33603e267696e6a28e",
       "title": "Quadrise lets exclusive Nouryon deal lapse as trial supplies continue",
       "sourceName": "Yahoo Finance UK",
@@ -283,6 +325,20 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals Acquires JSR for $11.6 Billion: Japan Strengthens Its Position in Semiconductor Materials igor´sLAB",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-497c170f9c24895b10f8",
+      "title": "Mitsui Chemicals, DBJ to acquire JSR for $11.6 billion",
+      "sourceName": "electronics.economictimes.indiatimes.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU2JFUjNNV25FR0ZKb0lMamtnbHRqVC1zWWFQRlh2UE5FaVpKTDhYRjk2dlR1bGRkdW9ycHJQdnFSM2lSOWNsUjFaTmR3R2cxbzBMQTgta0lHZHU1VDBnbEI3NndBaTBUTGlaR3VfVDFGVUVoS3ZzaFRQYTNGX0VCcjhLYVVobnlyM05LYU9wMTZ3blluRmdfM3lOdXk2VGNnMzFGVy1jS1hMbEIzQWlTN0hpUV8ySngzRkQwMFc1Q2lQTVJ6eFlOcEo5RE5LTEXSAdQBQVVfeXFMUFdIOGhxWGRybXpXZHN4YUtsVzl5TDdUZnlNakxCWXNlVnJPT2JXeTE4RjdvOTJrOU5BZEFMWGY5SlF0SHNpZm9pbWFsZG1jZFQ4dUZZLVZKbFVwTzdfVzdvVTFwUFVWeGhkREIwUUxLSVd3dFlMVEFDcWRFbG5tN1IwV3FWdjF1NW8taWNoX09CQVNNSTQzeGNzc04xMUV3WFV4RzZmN0o1Y2xCWmZpdXI1SUFqTzVfVHprLUtGaS1KMmpCSEJLMmlzM0FkRzNGbE9YdHI",
+      "publisherUrl": "http://electronics.economictimes.indiatimes.com",
+      "publishedAtISO": "2026-11-10T08:00:00.000Z",
+      "date": "2026-11-10",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Mitsui Chemicals, DBJ to acquire JSR for $11.6 billion electronics.economictimes.indiatimes.com",
       "verification": "feed-metadata"
     },
     {
@@ -622,20 +678,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-251a039738d008af35ec",
-      "title": "Japan Investment Corp to sell JSR to Mitsui Chemicals for over $8.2 bn: Report",
-      "sourceName": "electronics.economictimes.indiatimes.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNa0JvNzVQd2FBRklOaWZhRjg0b1liLUp0LW1FYm5xN3czeVUzSUlBdDlCWXBKb1lKVzc1UTREckZaa0d6TWNDd3ZwUzYxS1dEVFpoMm1uX3FWMkc4Rkxsa2dlU3FIaEZqMXV2QmRMdFRmbVhpNlQtOFNaUWdqMm95eldJaFJQN2hJNTdHQlk1YTNxTzVxdXJkY1d3Qk1GdzVpVDlfaFlKeE5USlNpWkhXZmhKVmFkYWNUeS1Ramh1Zy1kWlhNNVB2UWtlaEVEMGRyYmpydTZEOUFOdGk0NDk5enFMMmMzN09sZUtRdUNUZ9IB9AFBVV95cUxQdFQ5QkhwZ01kRnhtQWk0VUl3c25RMVVUeTJHNjh4YTZkaGFwOTNGdkJjX21rZXltSHpCdUVVYWJqSlI4RUZtVkVpYnFJc09hUlI0WEgtc2dZTThjVEFJclJJYzZiWWhoTlJISkVFWUJaVUxCVXl6UUVIWTV1V2RONFJmOGJEVThZVS1neGlSN1MtemloVm1Rc1duQVoweU5Id0duWkhyS0I5Ump1M0NtaW1TRU1RdWpIcmFjNzUwSy1kdHVYTEtpMUY1bWFPejZ3S1lKb05BamdIZC0xclVCWU1DMlFPeGV1eDBWcGN3amY5NEJY",
-      "publisherUrl": "http://electronics.economictimes.indiatimes.com",
-      "publishedAtISO": "2026-11-04T08:00:00.000Z",
-      "date": "2026-11-04",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Japan Investment Corp to sell JSR to Mitsui Chemicals for over $8.2 bn: Report electronics.economictimes.indiatimes.com",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-f52a76c6b9e8f7726684",
       "title": "Innospec REPORTS THIRD QUARTER 2026 FINANCIAL RESULTS",
       "sourceName": "Yahoo Finance",
@@ -661,6 +703,20 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (IOSP) Q3 Earnings Beat Estimates Yahoo Finance",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f62ce9464477e04e5a64",
+      "title": "Nouryon: High-level negotiations have begun",
+      "sourceName": "De Unie",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVHZHX2NuYXI5VDFpQ2FUTEVPekw2TFZHSlBnc3lPbk5BTGNIbENoczFDdThIQWV5MDJIZmlVRUs0eHliOEhYLTE4TDgyRjBWQ0NobjQ0eDV0OVVSSTk1VFItZjNTOG5HazZVaGFGUk5tZTRNMTBWSGJTVmYzVUMtUDdMZDl1MVMyYmJjRjJ1bkgyck1zOWpDZkh3aFNGbzBLUVJUMW1EeWVpdVdTOXJuclFhYlZqZw",
+      "publisherUrl": "https://www.unie.nl",
+      "publishedAtISO": "2026-11-03T08:00:00.000Z",
+      "date": "2026-11-03",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon: High-level negotiations have begun De Unie",
       "verification": "feed-metadata"
     },
     {
@@ -734,6 +790,20 @@
       "verification": "feed-metadata"
     },
     {
+      "id": "news-796f15fe8764805e9c64",
+      "title": "Kale Care expands Turkey surfactant capacity amid supply chain pressures.",
+      "sourceName": "Personal Care Insights",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOd1NfN29oaTNocjdnc2lQYndMWHpDNElBSzd3OFIySklaZGdQZTZsMGVXNEMtNGdESWZ6dlVUQk1pUlpTNWI2Q29wVnNxbFVYT0ZoMXJpdHRSaTJUVmpzNmEyOWJaVmFyemlXc2UzMldIOUNOX3Fkc2RtMTk4a1dmQw",
+      "publisherUrl": "https://www.personalcareinsights.com",
+      "publishedAtISO": "2026-10-09T07:00:00.000Z",
+      "date": "2026-10-09",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Kale Care expands Turkey surfactant capacity amid supply chain pressures. Personal Care Insights",
+      "verification": "feed-metadata"
+    },
+    {
       "id": "news-3bf8c19c00bba3e9f4f3",
       "title": "Convergent Energy and Power and Nouryon Announce Commercial Operation of 2MW Morris Solar System",
       "sourceName": "Business Wire",
@@ -774,76 +844,6 @@
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. to Report Third Quarter 2026 Earnings on November 3, 2026 Quiver Quantitative",
       "verification": "feed-metadata"
-    },
-    {
-      "id": "news-c99b016069849d1c1c6c",
-      "title": "EPA Publishes Guidance on Surfactant Reference Values Based on New Approach Methods",
-      "sourceName": "Bergeson & Campbell",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOamlQWnIyMHFpMXZJZkFDUl9NMkJibDdNNjJUVXA4eG9SdTM3M0VTUzlCVWh2OG5MdDRvdkF1ZnpuNk45SWo5elhCV2xYVWhBRkFuS1RscEcxOVl4YzktblVNUkJUUnlaQkVmeFU2bXBITjNCOVk1U1BJYzdVczk3SnRZeEZ1TVhuQ2xiby00cVJ5TzhBWU41U1cxRmFYQ0Y3ZzREYUlwTTZJUQ",
-      "publisherUrl": "https://www.lawbc.com",
-      "publishedAtISO": "2026-10-02T07:00:00.000Z",
-      "date": "2026-10-02",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): EPA Publishes Guidance on Surfactant Reference Values Based on New Approach Methods Bergeson & Campbell",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-eaf9f7d0950248bf3383",
-      "title": "Nouryon brings U.S. solar project online at Morris, Illinois, facility",
-      "sourceName": "GlobeNewswire",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVWhudGo5ZU9OMVFKcUZvVFhOMmRjX0ZtbnluLWtOMkZrVTVfZDVrSzVqQkQtdWRjYWVGQWlpaVFiSXZaMVhtemYtWWF1VGZPeDVtMGdBYjBLcHF6QWpYcFBaOTRtMWNPTnJmVXZaTU1FdjA3ZjE5QmtpaXBlcTdSazFMZFg5T3FjZ2NJVW5zMmpocm5mbnFDc2pkVVN4V18wcGRMX1JETWhkVUZKanNoS1V0enJCZDhvQS1SN2NnbmV3UmFGOUN4bmJzZGlpWldveDNtdzdB",
-      "publisherUrl": "https://www.globenewswire.com",
-      "publishedAtISO": "2026-10-01T07:00:00.000Z",
-      "date": "2026-10-01",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon brings U.S. solar project online at Morris, Illinois, facility GlobeNewswire",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-eb541ea330124773fb85",
-      "title": "Innospec (NASDAQ:IOSP): A High-ROIC, Debt-Free Quality Stock for Long-Term Investors",
-      "sourceName": "ChartMill",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNNkxVbjNLVmhsZjk1dmhaWjQtaFRzQW44NFdWcTlhYU5qYzhsejRGQmV5c0wwdGNjU25NQjEyVnVOUHlUX0JNTG9rbS1maXp5U0djSGxZN1NsTzdHc3pta01oY0JmdUpiZExoc1BmTk85YjZTY2RuZkFHenFoYWVJX1Bkb1hsSXdNQV9Oa2FVZFdSNEhpZHJxT18tc3VOMlpxTE4zM1U0WU5IdTdrRVpqcndTU1dueW5SNHFUNklaMVo5NkM1VnY5dGg5RQ",
-      "publisherUrl": "https://www.chartmill.com",
-      "publishedAtISO": "2026-09-28T07:00:00.000Z",
-      "date": "2026-09-28",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec (NASDAQ:IOSP): A High-ROIC, Debt-Free Quality Stock for Long-Term Investors ChartMill",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-9011aaef6a98337d82a6",
-      "title": "Pulmonary Alveolar Proteinosis: Rethinking Surfactant Homeostasis Through Alveolar Macrophage Lipid-Handling Dysfunction",
-      "sourceName": "American Heart Association Journals",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9QUTBJSnJhUmF1UldESjVwSHU1SHVaMHBxUjdLMnpVY19tOTVnbVpkSkVyOWlTWTU1VUhnaVBHOFNPQzRQcVcxbDBaSFB4RDUwTVVLaVdSVWtlWV92cmd1ekxhb3JtX2VaTEE",
-      "publisherUrl": "https://www.ahajournals.org",
-      "publishedAtISO": "2026-09-17T07:00:00.000Z",
-      "date": "2026-09-17",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Pulmonary Alveolar Proteinosis: Rethinking Surfactant Homeostasis Through Alveolar Macrophage Lipid-Handling Dysfunction American Heart Association Journals",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-09bb36204aa643b3eaa8",
-      "title": "Study finds common vaping additives disrupt lung-surfactant film in lab model",
-      "sourceName": "KU News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSlFBMGNGVWtNRVJsNnV3eFJQQlpqaWFuUlpDUXhNaWpZVWExdXF6dXY5d1NNOEpldTRQb016czFaUjBEbVE0MWZBcDBTZzZDVjFudEZSYTRsTlBuMFVaRDlBZzlxMnVKbGx3amt5WWdUek5qSnR4X3p4UWlVR0R3WDltZzBJRWNtb05VbjlaUnlHOGRvUmZPQzRpSXQ0RWxfeVZPUzZNMjJhQWFfZzdZ",
-      "publisherUrl": "https://news.ku.edu",
-      "publishedAtISO": "2026-09-08T07:00:00.000Z",
-      "date": "2026-09-08",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Study finds common vaping additives disrupt lung-surfactant film in lab model KU News",
-      "verification": "feed-metadata"
     }
   ],
   "sources": [
@@ -851,19 +851,19 @@
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 40
+      "itemCount": 39
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 7
+      "itemCount": 10
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "ok",
-      "itemCount": 26
+      "itemCount": 28
     }
   ],
   "errors": []
