@@ -1,9 +1,9 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-25T05:11:54.901Z",
+  "attemptedAtISO": "2026-11-26T04:39:24.477Z",
   "updatedAtISO": "2026-11-25T05:11:54.901Z",
   "lastSuccessfulAtISO": "2026-11-25T05:11:54.901Z",
-  "status": "ready",
+  "status": "error",
   "items": [
     {
       "id": "news-f1a184ccd90d5d1a92db",
@@ -850,21 +850,28 @@
     {
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "itemCount": 66
+      "status": "error",
+      "itemCount": 0,
+      "error": "RSS 서버 응답 HTTP 503."
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "itemCount": 20
+      "status": "error",
+      "itemCount": 0,
+      "error": "RSS 서버 응답 HTTP 503."
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "ok",
-      "itemCount": 77
+      "status": "error",
+      "itemCount": 0,
+      "error": "RSS 서버 응답 HTTP 503."
     }
   ],
-  "errors": []
+  "errors": [
+    "ncchem: RSS 서버 응답 HTTP 503.",
+    "kci: RSS 서버 응답 HTTP 503.",
+    "verdant: RSS 서버 응답 HTTP 503."
+  ]
 }
