@@ -1,10 +1,136 @@
 {
   "schema": "chem2.news.v1",
-  "attemptedAtISO": "2026-11-26T04:39:24.477Z",
-  "updatedAtISO": "2026-11-25T05:11:54.901Z",
+  "attemptedAtISO": "2026-11-27T04:43:02.667Z",
+  "updatedAtISO": "2026-11-27T04:43:02.667Z",
   "lastSuccessfulAtISO": "2026-11-25T05:11:54.901Z",
-  "status": "error",
+  "status": "partial",
   "items": [
+    {
+      "id": "news-ae750eaf7bfae3e5bf0d",
+      "title": "Unilever Tests Corn-Based Surfactant in Detergent",
+      "sourceName": "Wisevoter",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSUFITmlSeU9hcDBpaW55TUZaVjhlZnRCT2xobU9vYzVydnlMWFBwLUk1b2g1b0hnVU02ZDNNVG94MzFrUnRFTDlnZ3IxNWswd2ZKOU54WEhkaGV5WDA1eHotZWlSNzdNQ2hLVHMxU193MC1YZHRUNEFFM3Q2d2NfMTRwOWowZ2szcFVmc2NFYVo",
+      "publisherUrl": "https://wisevoter.com",
+      "publishedAtISO": "2026-11-26T12:13:28.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Unilever Tests Corn-Based Surfactant in Detergent Wisevoter",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-3351fc0e818516314a7b",
+      "title": "Analysis of the Oilfield Surfactant Chemicals Market Emphasizing Leading Companies, Trends, and Growth Prospects",
+      "sourceName": "openPR.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORHljcWVoYWJkS0wxSzNoRUxtRk5kYlREc011VGF3a1k4cXVKUUtkNTRwUGZQWnRwNDNOaG1PdEpCSC11b3hRSkZ6N25iSXBDUmVFTnZ2UGt4ay1IZEtEeHhCRlpBb21zelM4dnBFc1BaTnBpZjAtTkQ3aVlqY0E0OThiSWVaTGYtaC1qT0duc1U1Zw",
+      "publisherUrl": "https://www.openpr.com",
+      "publishedAtISO": "2026-11-26T08:24:26.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Analysis of the Oilfield Surfactant Chemicals Market Emphasizing Leading Companies, Trends, and Growth Prospects openPR.com",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4323a6033413d14b9971",
+      "title": "Avirulent Pseudomonas Strain Engineered to Synthesize High Proportions of Di-Rhamnolipid Biosurfactants",
+      "sourceName": "Bioengineer.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQN1FvYXBVMFFscEZXX0I0ZzRxVVpfQ1JYaXFOcDlZbUoyWkhFRmpBQVo4dzZCdFJDNHlwODR5Y1FWdl9Kd2xMNUVMVkhoSTB4NTdpVFdZQmxzMGp5aEdoNllBZEVIQ0ZlY2M3ZUdXUkltVDh5T3BiYXItMkFUT3hyeFBmZUQ5RWFKbDZlbkZPU2paQ2FoNGxJakJlMDdPTmZyRzBZb29MV0QwOW1TQWN1OG0tS3hYN3hYQnhRYWxBMTVOZE50azlr",
+      "publisherUrl": "https://bioengineer.org",
+      "publishedAtISO": "2026-11-26T05:35:42.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Avirulent Pseudomonas Strain Engineered to Synthesize High Proportions of Di-Rhamnolipid Biosurfactants Bioengineer.org",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-9c919bf7f10d80504ad4",
+      "title": "Innospec Inc. (IOSP) Stock Forecasts",
+      "sourceName": "Yahoo! Finance Canada",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNelJFbTh1QmRmZGViaUNMbVAzaUhiUUZuUW9Sa2Fvc3h1VTlHSHlMOTFtbjVURlJyOEZXTTA2UF8wRFI4Y1hDWjh3RDhwMGlrSUVvWHhXTnFxSzR2S1BNMnZpdFlrQ291VGhfZ0dCSzBwX3FwNHVNZ1M4Y2tlLXZYXzRRODRycVotSW1Pd0NKLVo3OUE",
+      "publisherUrl": "https://ca.finance.yahoo.com",
+      "publishedAtISO": "2026-11-26T03:33:44.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo! Finance Canada",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-4673294cad4bbad15084",
+      "title": "Cationic Surfactants Market Industry Outlook Strengthens Amid Rising Global Demand",
+      "sourceName": "EIN News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYXhMbGZuM0dwVVdUaVJDaEROSnVpOE5RRFNKR0Ywa0RSOEtjMmF0MGVxRVlPMkw1SDUtR0tHbVpSLTl1M2hOM1U1VmIwRmI4VDlEQnc2Y3JyMmdUbWFvZEh6SzFVd3JJbmhhZ09aWGpaRVNPZUlSZXZEa2V2NEdlRmxzbHcySTVRZmQ1WkZ4dWxUX3pOUzVWQWk1VlZxVzMyWkNHMWJjdDU1cFlsel9JQmd2OTVJd0FrbzJ3WGFsRXlFZw",
+      "publisherUrl": "https://www.einnews.com",
+      "publishedAtISO": "2026-11-26T00:30:00.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Cationic Surfactants Market Industry Outlook Strengthens Amid Rising Global Demand EIN News",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-73f528dc6fdf3d483d51",
+      "title": "Castor Oil Ethoxylates Market To 2035: Bio-Based Surfactant Demand Supports Forward Growth - News and Statistics",
+      "sourceName": "IndexBox",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQUGxybG1heEQ1aXBQdXdZM2d6aFUwZnNhUlpiYXRMajFXWDZfNEJkU0xqU2RHR19tM3NyXzkxM25RdFJSYVJCMGt5bWJ4Y21jalI5R2JNQlpsY3pvM29XdHN6QzBLX1pRVVo3RzhXbXkxSGhEVzNwNWw1QVRPVzFTRk9iYUhGS1lRSUcyTXpMMVBhSE0yNjIxalI5TnRWOFNoUmt1TURscTZRSlVLVUlyR2FCXy1iNzFER0MxLVNvRUxBSUN4RXJxT2tzTkJfZE1sRXBDX2FxOEJ3VHE5VTdPa3dsc2VDamJY",
+      "publisherUrl": "https://www.indexbox.io",
+      "publishedAtISO": "2026-11-25T23:21:04.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Castor Oil Ethoxylates Market To 2035: Bio-Based Surfactant Demand Supports Forward Growth - News and Statistics IndexBox",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-da506bddf92d262a61e2",
+      "title": "Japan’s Mitsui Chemicals buys JSR in landmark USD11.5bn deal",
+      "sourceName": "Law.asia",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4wUUZWYklQSGs0VktiV0t3SDRsVEotTlM0eU54N2ZNTnpwaC00ZTdRbVVQd0VOdWd5OC1DVW1qYzdMSDJRenpMY2lJbUxWTDdwdkNUWC0zOWp4STdOTGhuSEVybTJBZlo0NkVoV051QQ",
+      "publisherUrl": "https://law.asia",
+      "publishedAtISO": "2026-11-25T15:13:08.000Z",
+      "date": "2026-11-26",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Japan’s Mitsui Chemicals buys JSR in landmark USD11.5bn deal Law.asia",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-f9176728586a0a9089a7",
+      "title": "Nouryon opens Tianjin innovation center to bring polymer product development closer to customers in China",
+      "sourceName": "The Manila Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQQVk5YnB1VzdGc2hpQUd4Z01xRVNMcWxJR3BnakVGY1FWR01pV1BpVzdNWDg0MHc3TUxldVBiUVF5YnpYZVl3NzNxTnFyX2VjZHBJZWstNkphc0VkaXlMRGJhVjN4aU5sVWFsbEZudXZVTUhCazltbUNJUFJELTJ0TlZ3TVVlU051SHRlbDk1VmhWTFVtZTByUGJ1MjRtTHItcUEySHRhVTlGd3BWVnU2S3Uxa185TXFmNl9TSXJ4a3lDd1Y5S3J3U1FKc05MdjhtN2l4MTRDbXhONjJQNWRZTmpNaXhEUjZaeHd3Z2FtT25LWnZKZU9hbF9Vc21ZblpEYWc2Q2lfeld3blXSAZACQVVfeXFMUDZub016WU1kYlRtdzFPanFDbzdWRC1SbjdyX3c5cHlVNzdJLWlBVlVPa3k3bFlScXQ4SFVyLXdRUDdENWZCdnFxTm52bkxvT2RDd1ZvcU5hVUJzWVR0eTZNbWd1aVhya3JxWWR1VkRGNWhqWmN0N0FLR3hzQmh6ZjR6QUFfSXRlVFNBaElJalZldllfX0hWbnRZeFpoaVBKR0hRUmR0UkV3MmtMQ2F4WVRydXhnVDh3cU90cXdIX05EWV93MHVNYXhIWV95c1ZSZFNZTjlFZjVuSTNONGRWU2xxNzh3bUU3Z2JYQW1Mb1pzQlQ5RXVnUU9HV3ExM0o0ZmVYX0RCeXgtdWtXRjZpOEk",
+      "publisherUrl": "https://www.manilatimes.net",
+      "publishedAtISO": "2026-11-25T14:02:59.000Z",
+      "date": "2026-11-25",
+      "companyIds": [
+        "verdant"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nouryon opens Tianjin innovation center to bring polymer product development closer to customers in China The Manila Times",
+      "verification": "feed-metadata"
+    },
+    {
+      "id": "news-d5428753996cc244a0ff",
+      "title": "Nishimura & Asahi Advises Mitsui Chemicals on $11.6 Billion JSR Acquisition",
+      "sourceName": "Law.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPamNjOWNLY2RvMXZWMkd5ck1rMUphWHh3amNZTHBhSWFGTXItckpEOGlReFUtWUJmSEZicXhBN3BSQ0lsUWJreGw3Y2N3ZVJ1THBHUjFkeWpEa3Fha0JJdktyYlNKbVc0dE9nMzFvVDZvSHRyckNnenExQ0FLMFlUTTRYM1BUZzgxWllPTVByNlEzSU1EcElnZ3NRenpHSG9NZTdSY1ZZN2o3RGM1OHRmUEdhdDlUS1F0MUQtaGZSd0hHUE9O",
+      "publisherUrl": "https://www.law.com",
+      "publishedAtISO": "2026-11-25T09:55:50.000Z",
+      "date": "2026-11-25",
+      "companyIds": [
+        "ncchem"
+      ],
+      "summary": "RSS 제공 요약(기사 본문 미확인): Nishimura & Asahi Advises Mitsui Chemicals on $11.6 Billion JSR Acquisition Law.com",
+      "verification": "feed-metadata"
+    },
     {
       "id": "news-f1a184ccd90d5d1a92db",
       "title": "Univar Names Former Nouryon President to Lead Its Specialty Ingredients Business",
@@ -146,34 +272,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-6e3670e5392ab47fae5f",
-      "title": "Biosurfactant innovation progressing",
-      "sourceName": "Speciality Chemicals Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5SS2JrNm9ZSjB2TElHRG5ESzFyUEV2QkJtMzJSU0pfak4zenFHZDNWeEJCZ00tTlAzMVpVWU9yaVlxeGN6Ulc4Nng1ZElERVVWYmpzWWhBeHBZcS1uTl9vX2NBNmdqalIzclpUZUxMLVlwM3ZRRGw0cElLYlA",
-      "publisherUrl": "https://www.specchemonline.com",
-      "publishedAtISO": "2026-11-24T16:05:35.000Z",
-      "date": "2026-11-25",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Biosurfactant innovation progressing Speciality Chemicals Magazine",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-5789cd9ad6b8bf2a8b94",
-      "title": "Surfactant-Treated Separator Market To 2035: Battery Demand and Premiumization Drive Growth - News and Statistics",
-      "sourceName": "IndexBox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUWFmbkFaVlVxaHhJNENwd3VtdlRjSDY5OTlZLU5oQUJqemJUSEU3dnVnZEdRb1NqRFVSVHdVTC1zYTRJY0ljZm9KSHFwZTItM0Q2d3htQ0NnVnFCQkVSMjdlcHo1Z0tBQThSSHJNc3ZyLW5haDJQZmJ0RUpoNUR0NS1rc2lvVzRrNDE3MjNrRjBkMDJGSnltcGFZV29tWl9hdE9jLTNtczYzOFZQOWtiS2ItQmhQcjZTRWNGcW1iTVlFVEJf",
-      "publisherUrl": "https://www.indexbox.io",
-      "publishedAtISO": "2026-11-24T13:31:04.000Z",
-      "date": "2026-11-24",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Surfactant-Treated Separator Market To 2035: Battery Demand and Premiumization Drive Growth - News and Statistics IndexBox",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-43fd6cfd3e6df4837ff3",
       "title": "Clariant confirms interest in acquiring personal care rival Ashland",
       "sourceName": "Personal Care Insights",
@@ -272,20 +370,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-195a2151816b31f48cf0",
-      "title": "Neutrophil Depletion Restores Surfactant Lipids in Cystic Fibrosis Mouse Lungs",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVGRuMHZBZGs1aDVFVk1NQkplR3RpQTdZVzl1WHBxdlNfVThvS1JqY05hNHJNQkN5UVlCcU9FSUVHVnJqMjhWTlhGNE5seWV1TENZOWhqVHVlc0pzQ3FMaG8xOGswZDJlRW9lZFQ3TTZmZnk4bWZOUkZqMHNkamVwckdndGlMQXo1NlV2eFlLWE5oRFQ5Mm9Wb1J0bGl2a0ctdk9XeUln",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-11-23T15:13:34.000Z",
-      "date": "2026-11-24",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Neutrophil Depletion Restores Surfactant Lipids in Cystic Fibrosis Mouse Lungs Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-f6c0bc993904530e1252",
       "title": "Weightless Conditioning with Inolex’s Latest Haircare Ingredient",
       "sourceName": "Happi | Household And Personal Products Industry",
@@ -370,20 +454,6 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-fbfd958f4f36f3a7e713",
-      "title": "Innospec Inc. (IOSP) Stock Forecasts",
-      "sourceName": "Yahoo! Finance Canada",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNclk5MkpRMk5uRE5EbjJrMUZKWjlQN0lSSWl4aVpTc2JlM1I3c1VqYmtyS0ZzQThRUkhBd2p5TXJlSzFCMkE2MmlQdjRkdkxXcDI3c2tROUNidEtVYUxISUZ6Z2VxZnlnQnVZc0plLUQzQ2daYWtGRTRYZG1GRXBDR1pKTTJpOXg1SjBPcDdLdmF4ZEk",
-      "publisherUrl": "https://ca.finance.yahoo.com",
-      "publishedAtISO": "2026-11-22T02:03:15.000Z",
-      "date": "2026-11-22",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec Inc. (IOSP) Stock Forecasts Yahoo! Finance Canada",
-      "verification": "feed-metadata"
-    },
-    {
       "id": "news-785163bfdc9287c06a26",
       "title": "Aarti Surfactants receives customs order for ₹1.27 crore demand",
       "sourceName": "scanx.trade",
@@ -440,26 +510,26 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-0f3cdbf232c97f29a97e",
-      "title": "Aarti Surfactants Share Price - Live NSE: AARTISURF Stock Price & Chart",
-      "sourceName": "Upstox",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFA3NTduaW5hSzBMTnpDaE9xMC0zZUdGN2RlbTBJMTVaOFFyR2drY3V1RDFJRmNmYjNBVFZzY0VqbFhMTUpidEduMHI0MG9oMENwZWVkM3JvSE1JelJOQzhpU2dicDJyalVHUTNZYlZkVkp5QQ",
-      "publisherUrl": "https://upstox.com",
-      "publishedAtISO": "2026-11-20T08:00:00.000Z",
+      "id": "news-49a865e5c1e8f1e6c902",
+      "title": "China's Shengjian Technology Falls Short of Fourth Straight Limit-Up After Clarifying Its Electronic Chemicals Business Does Not Include Photoresist",
+      "sourceName": "BigGo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MX2ZjRS1Bckh6VXhCMlFJMXNabGdXX2o2ZHZvNWttU3ZFdDFXNGl5X2pRallIa1F1aEZITEo4MnIxN0hwTXNaam5UZFhOMFFPSHFVWmJHaUN4WXF3eHN4SjZoaFpTM2lhcnpVc1FOeEJsb0hMWHc",
+      "publisherUrl": "https://finance.biggo.com",
+      "publishedAtISO": "2026-11-20T04:05:00.000Z",
       "date": "2026-11-20",
       "companyIds": [
-        "verdant"
+        "ncchem"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Aarti Surfactants Share Price - Live NSE: AARTISURF Stock Price & Chart Upstox",
+      "summary": "RSS 제공 요약(기사 본문 미확인): China's Shengjian Technology Falls Short of Fourth Straight Limit-Up After Clarifying Its Electronic Chemicals Business Does Not Include Photoresist BigGo Finance",
       "verification": "feed-metadata"
     },
     {
-      "id": "news-dcd9a05f67620c79ac95",
+      "id": "news-6b639023145b397c0e9c",
       "title": "Nouryon: Cao 2027",
       "sourceName": "De Unie",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObnN5WUd5VnBvT0FuaEZtbjE1b2JaRzNrcFpQVDNoZGdvSlhfa2YtYWhxcnpQOEg4dlhoMnpVZlVwM1ctYmpmUDZOX0QwUklEQ1hZYUlkMFVvbUI2bGN0d0hYNXlvcHZRRzkyREJLN1VqUVNsS0x5OEtmUTE0N1VYNHA2bGt4NExpZGVr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcTZrUE5pUUJPbkxZQkRHeFFDaVoyNnBETEN4T1E2X1BjMFJhTm5reXlpWkZ0OUQ4NlFaQkNlbFFlRkR0M0pvRE1QZ3l0QVd5bmlsWjJ5VlZ3bWVCZnJxVmZDalk2YnZndXpyV0kxbE1fQkpib2hBQkZOZzJRdG14azlibTdnY2ZGODlFYUJB",
       "publisherUrl": "https://www.unie.nl",
-      "publishedAtISO": "2026-11-19T23:36:26.000Z",
+      "publishedAtISO": "2026-11-19T23:35:30.000Z",
       "date": "2026-11-20",
       "companyIds": [
         "verdant"
@@ -552,17 +622,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-2de6a25eca529d18bca8",
-      "title": "Photoresist Market Growth Supported by Semiconductor Manufacturing and Advanced Lithography | Mordor Intelligence",
-      "sourceName": "StreetInsider",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOTW40aTZIOFZzaUFLN0VrT1JBM0wxZmVvWWUwYzZjWXpYTTFzLTZ0enhhOENlODFydWNyc3dQSHhoRUlHcUlUcWlQRVpsdkszRU14NFZ4QWtTTERtdVZ2dExMeVJDanpwamZYWXBoeTI4WnVmbzJFaEZzck1MQmpIQkFOcDUxdWhERnJJVlJXS0puVlJwamFmYVJ0X0VEaHFLUzNGelRpeUtNcFBvTHMxMk1rbUVld2VrazZBZGxGbDRkM2lNUTNNTC0xYVVMWlJQR2x3SHc3YjlDTEc1WlZMQ1VsY1lUWVo3WW9pOXFKUDNrdkZBY3hXNU5YOA",
-      "publisherUrl": "https://www.streetinsider.com",
-      "publishedAtISO": "2026-11-16T23:59:22.000Z",
+      "id": "news-72c3ea039c65a561ca51",
+      "title": "Innospec stock: Q3 revenue rises 7%, dividend lifted 9%",
+      "sourceName": "ad-hoc-news.de",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd082TkZPWXExOFItYjdfSHpYVXozaG8yWWd0NGkzUWdIZjYxa1hYY055VGpnbkZUTWRzTGNUV0F2NXB4NFFyRHdQOXNvOWNjU21HSjAwY0wyOW5NUDZKRWxRcTMzZnc3S3pyOWZJTjRiSnN6QVpqLWd6TXZTWlBzUFdZcl9yU2lMOXp5enZ4QVVJOEFtNnZ6a2NVQjlWQVAxeFRfNDhVTWhaWm5JZVI0",
+      "publisherUrl": "https://www.ad-hoc-news.de",
+      "publishedAtISO": "2026-11-17T00:27:27.000Z",
       "date": "2026-11-17",
       "companyIds": [
-        "ncchem"
+        "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Photoresist Market Growth Supported by Semiconductor Manufacturing and Advanced Lithography | Mordor Intelligence StreetInsider",
+      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec stock: Q3 revenue rises 7%, dividend lifted 9% ad-hoc-news.de",
       "verification": "feed-metadata"
     },
     {
@@ -591,20 +661,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): EPA Eliminates Animal Testing in Reviewing New Surfactants Cleaning & Maintenance Management",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-26cf3b43408f10763bd5",
-      "title": "ENGN: Detalimogene advances toward a 2027 approval, with a surfactant-cohort update planned for midyear",
-      "sourceName": "TradingView",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNWnlkMmp1Smd2UzZkSmVyTXdiMzY5WnoxZ1EwRTNZdUV2WkVRbkVvNGFMeC1UaW1ZVkE3QWpsX3U4VTd0TDBhNm9CZmtHdU56bkNnZ21uRVhoMk1qemhoMVNDRlBqV0hiVHBLMWVfdDJaWTVRV1U2bDVJQTNUTXpzTHVBRXp1SWFScjM2Q3ZUOVY3MDgyQnpuLS0tX0VraTRxdXRjVkhQeDJqVTFUNEFXVGV6OU03TDd5VWVxZmFRRUhXRW52Z3NjNXdIRWZfUHYydW1MWU9oVVloUE5SdXR4TVd6dXlPSkRLeTJSOWRYZkJXeVFDRjRSOFBEaG1ENURyYXRabU8yWlA1b0dfVHNJNlgwaVNfWnM",
-      "publisherUrl": "https://www.tradingview.com",
-      "publishedAtISO": "2026-11-16T16:45:27.000Z",
-      "date": "2026-11-17",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): ENGN: Detalimogene advances toward a 2027 approval, with a surfactant-cohort update planned for midyear TradingView",
       "verification": "feed-metadata"
     },
     {
@@ -655,7 +711,7 @@
       "sourceName": "Bioengineer.org",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeHdUaGYyMGY4cVFJazNOZER4akxOWnVuOUpYdmh0SENaYmVuT3NzdlljZ1Z5U3BZZkF4T1VjM1V3bmx1SDNVNlQxcEc1MExUTVBBa21wSkl1NXRsUXpNUmdDM3RFVkV3dWpTVkNfOVlQeUdsODkwOWcwQVd6YnRRODlZTzFyb202RnB2cnJpVTJSZ1c4VV9waVRZOEM2SzJFQUtmWVF1NVFHVkZORFgzQ0VPVE95M1NsLVo1UGpQVW9EWHc",
       "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-11-16T00:41:03.000Z",
+      "publishedAtISO": "2026-11-16T08:00:00.000Z",
       "date": "2026-11-16",
       "companyIds": [
         "verdant"
@@ -675,34 +731,6 @@
         "verdant"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Galaxy Surfactants Partners With LG Electronics To Develop Eco-Friendly Cleaning Solutions Sahi",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-0b67f834fb1bf63ea4a0",
-      "title": "Anionic Surfactant SDBS Strongly Inhibits Bacterial Collagenase Activity and Alters Active Site Structure",
-      "sourceName": "Bioengineer.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUlBSblhQNUEwaDNzYTFLeEZVbmt4Vl9pM2RGTW9RbkI4LV9STlRrVDVQZVRsZ2NPVUZTWnNobG1idXpSV3daMlNxRHBaeFM5amFVMTA0djF1UnRxZjFpVzVDZjY0Zk94cklUNlZGUWdKYUUtQlhabzNYZHdvZDFoQlY1T2djanB0clpBQmxNYUJHZnVsY09uSHRRN3NyTXlfZm5xUzI1MjAyOU0tZGlETmE0NDdNakRsdDlVLUhjNGVENHNDMmV4cUdR",
-      "publisherUrl": "https://bioengineer.org",
-      "publishedAtISO": "2026-11-14T05:18:51.000Z",
-      "date": "2026-11-14",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Anionic Surfactant SDBS Strongly Inhibits Bacterial Collagenase Activity and Alters Active Site Structure Bioengineer.org",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-1207d50c52bcb4dd383e",
-      "title": "Innospec director Leslie J. Parrette buys $27,493 in IOSP shares By Investing.com",
-      "sourceName": "Investing.com Nigeria",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV1UzNTE2TlVaUGxMUktOTk9rU1FvY2lIeUN6dTV0T2Q1Rjh2T3kxaElndjhCWjBocGtNZUJIeWh2emtQb2t1S1ZXSzROcE11OThWYmZYVTFBNkNsUGpXYXRMUzRjYUhsdGFIczV1NFJVQTN6QXRWWGtLVVBuRVNnRzBvU2VlT1JvQzh4U0RLNmVfQk96SnNwOUhnQUExZHhZajlZWVBtZ0tNLU1rMExJeTVJYkVPcHZWRUZHVDRnMA",
-      "publisherUrl": "https://ng.investing.com",
-      "publishedAtISO": "2026-11-13T04:14:35.000Z",
-      "date": "2026-11-13",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec director Leslie J. Parrette buys $27,493 in IOSP shares By Investing.com Investing.com Nigeria",
       "verification": "feed-metadata"
     },
     {
@@ -731,20 +759,6 @@
         "ncchem"
       ],
       "summary": "RSS 제공 요약(기사 본문 미확인): Photoresist Etching Raises TOPCon Emitter Sheet Resistance To 1,600 Ω/sq TaiyangNews",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-393b2ff94b00d28d9296",
-      "title": "AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement",
-      "sourceName": "UK Investor Magazine",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb01obm5MdVlGNEpIb0RiMzkzVDR1VGZ0RTBrcEFDVUpzb0xvM2ZZU1Q1Sk5oQWp5cGFsdm1zMnQta0p6WFlaNmd6a1l6bU9FZUtrajc2OVhuZF9ReGVZTnpZemNlQ1hYR01fQkl0c1hzR1VBX0JMSkRpVkFjRm91a3RGUnFzclFPdC1yOW40NEczNTFSNl9MbWdyVENnRk5RUXdjeXlDUXRoWm1XdXUxTnNDamdDSk1JT2I0a3BERnBhSUhIRXduNFpHMUNsNWVoN3puYXlxaw",
-      "publisherUrl": "https://ukinvestormagazine.co.uk",
-      "publishedAtISO": "2026-11-11T11:42:59.000Z",
-      "date": "2026-11-11",
-      "companyIds": [
-        "verdant"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement UK Investor Magazine",
       "verification": "feed-metadata"
     },
     {
@@ -818,31 +832,17 @@
       "verification": "feed-metadata"
     },
     {
-      "id": "news-1270af94c3e921332f8a",
-      "title": "Innospec's Q3 Earnings Beat Estimates on Chemicals Strength",
-      "sourceName": "The Globe and Mail",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPcDIyaXJNTjVsYXRxNktuZE9BTTRseE1xWUtNbll4ZXV0b29pSVdaN1lYdnJQUHprRU5rYVpLNjFIc2ZMdjExY2cwdnFJTHlqMlJjNlBpbXZlM3RYZ21VYjZiaVk2QTl4Rmg3d2d5SDNZZ3dvVHhaRzBYbU4ya3labi1OUDNqQl9vRUtHRjVYQVEzMjFtMXRPSHYzQWdmejVKQk4ySE9UVjJDS1M1c3NPQnBRdi1SN0Q4aUg3cHZYZnNLeGFydy15UUs1eEdyWWxweWVSc3pEZlZHUQ",
-      "publisherUrl": "https://www.theglobeandmail.com",
-      "publishedAtISO": "2026-11-10T15:28:47.000Z",
+      "id": "news-393b2ff94b00d28d9296",
+      "title": "AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement",
+      "sourceName": "UK Investor Magazine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNb01obm5MdVlGNEpIb0RiMzkzVDR1VGZ0RTBrcEFDVUpzb0xvM2ZZU1Q1Sk5oQWp5cGFsdm1zMnQta0p6WFlaNmd6a1l6bU9FZUtrajc2OVhuZF9ReGVZTnpZemNlQ1hYR01fQkl0c1hzR1VBX0JMSkRpVkFjRm91a3RGUnFzclFPdC1yOW40NEczNTFSNl9MbWdyVENnRk5RUXdjeXlDUXRoWm1XdXUxTnNDamdDSk1JT2I0a3BERnBhSUhIRXduNFpHMUNsNWVoN3puYXlxaw",
+      "publisherUrl": "https://ukinvestormagazine.co.uk",
+      "publishedAtISO": "2026-11-11T08:00:00.000Z",
       "date": "2026-11-11",
       "companyIds": [
         "verdant"
       ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Innospec's Q3 Earnings Beat Estimates on Chemicals Strength The Globe and Mail",
-      "verification": "feed-metadata"
-    },
-    {
-      "id": "news-03614a0fa26c9f8b494b",
-      "title": "Tokyo Ohka Kogyo raises 2026 forecasts and expects to meet mid-term targets a year early",
-      "sourceName": "Tokyo Brief",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVpWTEozb0llZVlWcnJ6WEpfRjVBekNyRHFFNnJvdm83djRJLWlCUFBESFJhcDJabWNzd3VfMDF6Mmx5M2EzdTFReTctVXA3aC1KQVp6d1RVV3lVWWJXdy1hZWFfMzVfMGVNWW50LWFDSFBTRXNhdUpmbjB6T0kwRGRXTEFmVTJVaHNtYmJlbkE1S21fcG13",
-      "publisherUrl": "https://tokyobrief.com",
-      "publishedAtISO": "2026-11-10T08:00:00.000Z",
-      "date": "2026-11-10",
-      "companyIds": [
-        "ncchem"
-      ],
-      "summary": "RSS 제공 요약(기사 본문 미확인): Tokyo Ohka Kogyo raises 2026 forecasts and expects to meet mid-term targets a year early Tokyo Brief",
+      "summary": "RSS 제공 요약(기사 본문 미확인): AIM movers: Ampeak Energy battery storage project progresses and Quadrise does not extend Nouryon agreement UK Investor Magazine",
       "verification": "feed-metadata"
     }
   ],
@@ -850,28 +850,24 @@
     {
       "companyId": "ncchem",
       "url": "https://news.google.com/rss/search?q=%28photoresist+OR+%22EUV+materials%22+OR+JSR+OR+%22Tokyo+Ohka%22+OR+%22semiconductor+chemicals%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "itemCount": 0,
-      "error": "RSS 서버 응답 HTTP 503."
+      "status": "ok",
+      "itemCount": 61
     },
     {
       "companyId": "kci",
       "url": "https://news.google.com/rss/search?q=%28%22conditioning+polymers%22+OR+polyquaternium+OR+%22hair+care+ingredients%22+OR+%22Samyang+KCI%22+OR+Ashland+OR+Lubrizol+OR+Inolex+OR+%22Croda+Beauty%22+OR+%22Evonik+Care+Solutions%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
       "status": "error",
       "itemCount": 0,
-      "error": "RSS 서버 응답 HTTP 503."
+      "error": "RSS 서버 응답 HTTP 429."
     },
     {
       "companyId": "verdant",
       "url": "https://news.google.com/rss/search?q=%28surfactant+OR+biosurfactant+OR+%22Stepan+Company%22+OR+Nouryon+OR+Innospec+OR+%22Verdant+Specialty%22%29+when%3A90d&hl=en-US&gl=US&ceid=US%3Aen",
-      "status": "error",
-      "itemCount": 0,
-      "error": "RSS 서버 응답 HTTP 503."
+      "status": "ok",
+      "itemCount": 77
     }
   ],
   "errors": [
-    "ncchem: RSS 서버 응답 HTTP 503.",
-    "kci: RSS 서버 응답 HTTP 503.",
-    "verdant: RSS 서버 응답 HTTP 503."
+    "kci: RSS 서버 응답 HTTP 429."
   ]
 }
